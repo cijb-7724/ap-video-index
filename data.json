@@ -10,181 +10,211 @@
           "id": "C-OLC4nXT98",
           "title": "【令和７年秋　応用情報技術者試験】午前　問１１　HPCの性能計算",
           "url": "https://www.youtube.com/watch?v=C-OLC4nXT98&list=PLG6PepT_DSdwVuypY_kwQ6L1Rvw2I3plh",
-          "grouped": false
+          "grouped": false,
+          "priority": 2
         },
         "12": {
-          "id": "Xo7LATuMeF8",
-          "title": "【令和７年秋　応用情報技術者試験】午前　問１１～問１５ #応用情報技術者試験 #令和７年秋 #午前",
-          "url": "https://www.youtube.com/watch?v=Xo7LATuMeF8&list=PLG6PepT_DSdwVuypY_kwQ6L1Rvw2I3plh",
-          "grouped": true
+          "id": "SD7mM7_v5kw",
+          "title": "【令和７年秋　応用情報技術者試験】午前　問１２　IaC",
+          "url": "https://www.youtube.com/watch?v=SD7mM7_v5kw",
+          "grouped": false,
+          "priority": 2
         },
         "13": {
           "id": "MVVYMdZ9eUs",
           "title": "【令和７年秋　応用情報技術者試験】午前　問１３　稼働率計算",
           "url": "https://www.youtube.com/watch?v=MVVYMdZ9eUs&list=PLG6PepT_DSdwVuypY_kwQ6L1Rvw2I3plh",
-          "grouped": false
+          "grouped": false,
+          "priority": 2
         },
         "14": {
           "id": "fMYYwd4ogS4",
           "title": "【令和７年秋　応用情報技術者試験】午前　問１４　キャパシティプランニング",
           "url": "https://www.youtube.com/watch?v=fMYYwd4ogS4&list=PLG6PepT_DSdwVuypY_kwQ6L1Rvw2I3plh",
-          "grouped": false
+          "grouped": false,
+          "priority": 2
         },
         "15": {
           "id": "d5qRGJoiRwg",
           "title": "【令和７年秋　応用情報技術者試験】午前　問１５　ジョブスケジューリング",
           "url": "https://www.youtube.com/watch?v=d5qRGJoiRwg&list=PLG6PepT_DSdwVuypY_kwQ6L1Rvw2I3plh",
-          "grouped": false
+          "grouped": false,
+          "priority": 2
         },
         "6": {
           "id": "NnHj7rl3utU",
           "title": "【令和７年秋　応用情報技術者試験】午前　問６　平均探索回数",
           "url": "https://www.youtube.com/watch?v=NnHj7rl3utU&list=PLG6PepT_DSdwVuypY_kwQ6L1Rvw2I3plh",
-          "grouped": false
+          "grouped": false,
+          "priority": 2
         },
         "7": {
           "id": "P7LgkDUma0M",
           "title": "【令和７年秋　応用情報技術者試験】午前　問７　Scala",
           "url": "https://www.youtube.com/watch?v=P7LgkDUma0M&list=PLG6PepT_DSdwVuypY_kwQ6L1Rvw2I3plh",
-          "grouped": false
+          "grouped": false,
+          "priority": 2
         },
         "8": {
           "id": "VRp2rDajAvE",
           "title": "【令和７年秋　応用情報技術者試験】午前　問８　RISC　CISC　VLIW",
           "url": "https://www.youtube.com/watch?v=VRp2rDajAvE&list=PLG6PepT_DSdwVuypY_kwQ6L1Rvw2I3plh",
-          "grouped": false
+          "grouped": false,
+          "priority": 2
         },
         "9": {
           "id": "gqXdfx4NJdE",
           "title": "【令和７年秋　応用情報技術者試験】午前　問９　ユニファイドメモリ",
           "url": "https://www.youtube.com/watch?v=gqXdfx4NJdE&list=PLG6PepT_DSdwVuypY_kwQ6L1Rvw2I3plh",
-          "grouped": false
+          "grouped": false,
+          "priority": 2
         },
         "10": {
           "id": "N92JReiWmBU",
           "title": "【令和７年秋　応用情報技術者試験】午前　問１０　パルス",
           "url": "https://www.youtube.com/watch?v=N92JReiWmBU&list=PLG6PepT_DSdwVuypY_kwQ6L1Rvw2I3plh",
-          "grouped": false
+          "grouped": false,
+          "priority": 2
         },
         "1": {
           "id": "aqSErcK5CPE",
           "title": "【令和７年秋　応用情報技術者試験】午前　問１",
           "url": "https://www.youtube.com/watch?v=aqSErcK5CPE&list=PLG6PepT_DSdwVuypY_kwQ6L1Rvw2I3plh",
-          "grouped": false
+          "grouped": false,
+          "priority": 2
         },
         "2": {
           "id": "HbQ6-4d4Bn4",
           "title": "【令和７年秋　応用情報技術者試験】午前　問２",
           "url": "https://www.youtube.com/watch?v=HbQ6-4d4Bn4&list=PLG6PepT_DSdwVuypY_kwQ6L1Rvw2I3plh",
-          "grouped": false
+          "grouped": false,
+          "priority": 2
         },
         "3": {
           "id": "tHDedxqLo7g",
           "title": "【令和７年秋　応用情報技術者試験】午前　問３",
           "url": "https://www.youtube.com/watch?v=tHDedxqLo7g&list=PLG6PepT_DSdwVuypY_kwQ6L1Rvw2I3plh",
-          "grouped": false
+          "grouped": false,
+          "priority": 2
         },
         "4": {
           "id": "bp-f-9C_drg",
           "title": "【令和７年秋　応用情報技術者試験】午前　問４　CRC　巡回符号方式",
           "url": "https://www.youtube.com/watch?v=bp-f-9C_drg&list=PLG6PepT_DSdwVuypY_kwQ6L1Rvw2I3plh",
-          "grouped": false
+          "grouped": false,
+          "priority": 2
         },
         "5": {
           "id": "JD0vDiQv6Nw",
           "title": "【令和７年秋　応用情報技術者試験】午前　問５　ベストフィット方式",
           "url": "https://www.youtube.com/watch?v=JD0vDiQv6Nw&list=PLG6PepT_DSdwVuypY_kwQ6L1Rvw2I3plh",
-          "grouped": false
+          "grouped": false,
+          "priority": 2
         },
         "21": {
           "id": "PZtY-m1929M",
           "title": "【令和７年秋　応用情報技術者試験】午前　問２１〜問２５ #応用情報技術者試験 #令和７年秋 #午前",
           "url": "https://www.youtube.com/watch?v=PZtY-m1929M&list=PLG6PepT_DSdwVuypY_kwQ6L1Rvw2I3plh",
-          "grouped": true
+          "grouped": true,
+          "priority": 0
         },
         "22": {
           "id": "PZtY-m1929M",
           "title": "【令和７年秋　応用情報技術者試験】午前　問２１〜問２５ #応用情報技術者試験 #令和７年秋 #午前",
           "url": "https://www.youtube.com/watch?v=PZtY-m1929M&list=PLG6PepT_DSdwVuypY_kwQ6L1Rvw2I3plh",
-          "grouped": true
+          "grouped": true,
+          "priority": 0
         },
         "23": {
           "id": "PZtY-m1929M",
           "title": "【令和７年秋　応用情報技術者試験】午前　問２１〜問２５ #応用情報技術者試験 #令和７年秋 #午前",
           "url": "https://www.youtube.com/watch?v=PZtY-m1929M&list=PLG6PepT_DSdwVuypY_kwQ6L1Rvw2I3plh",
-          "grouped": true
+          "grouped": true,
+          "priority": 0
         },
         "24": {
           "id": "PZtY-m1929M",
           "title": "【令和７年秋　応用情報技術者試験】午前　問２１〜問２５ #応用情報技術者試験 #令和７年秋 #午前",
           "url": "https://www.youtube.com/watch?v=PZtY-m1929M&list=PLG6PepT_DSdwVuypY_kwQ6L1Rvw2I3plh",
-          "grouped": true
+          "grouped": true,
+          "priority": 0
         },
         "25": {
           "id": "PZtY-m1929M",
           "title": "【令和７年秋　応用情報技術者試験】午前　問２１〜問２５ #応用情報技術者試験 #令和７年秋 #午前",
           "url": "https://www.youtube.com/watch?v=PZtY-m1929M&list=PLG6PepT_DSdwVuypY_kwQ6L1Rvw2I3plh",
-          "grouped": true
+          "grouped": true,
+          "priority": 0
         },
         "26": {
           "id": "1mMiUfVVmNs",
           "title": "【令和７年秋　応用情報技術者試験】午前　問２６〜問３０ #応用情報技術者試験 #令和７年秋 #午前",
           "url": "https://www.youtube.com/watch?v=1mMiUfVVmNs&list=PLG6PepT_DSdwVuypY_kwQ6L1Rvw2I3plh",
-          "grouped": true
+          "grouped": true,
+          "priority": 0
         },
         "27": {
           "id": "1mMiUfVVmNs",
           "title": "【令和７年秋　応用情報技術者試験】午前　問２６〜問３０ #応用情報技術者試験 #令和７年秋 #午前",
           "url": "https://www.youtube.com/watch?v=1mMiUfVVmNs&list=PLG6PepT_DSdwVuypY_kwQ6L1Rvw2I3plh",
-          "grouped": true
+          "grouped": true,
+          "priority": 0
         },
         "28": {
           "id": "1mMiUfVVmNs",
           "title": "【令和７年秋　応用情報技術者試験】午前　問２６〜問３０ #応用情報技術者試験 #令和７年秋 #午前",
           "url": "https://www.youtube.com/watch?v=1mMiUfVVmNs&list=PLG6PepT_DSdwVuypY_kwQ6L1Rvw2I3plh",
-          "grouped": true
+          "grouped": true,
+          "priority": 0
         },
         "29": {
           "id": "1mMiUfVVmNs",
           "title": "【令和７年秋　応用情報技術者試験】午前　問２６〜問３０ #応用情報技術者試験 #令和７年秋 #午前",
           "url": "https://www.youtube.com/watch?v=1mMiUfVVmNs&list=PLG6PepT_DSdwVuypY_kwQ6L1Rvw2I3plh",
-          "grouped": true
+          "grouped": true,
+          "priority": 0
         },
         "30": {
           "id": "1mMiUfVVmNs",
           "title": "【令和７年秋　応用情報技術者試験】午前　問２６〜問３０ #応用情報技術者試験 #令和７年秋 #午前",
           "url": "https://www.youtube.com/watch?v=1mMiUfVVmNs&list=PLG6PepT_DSdwVuypY_kwQ6L1Rvw2I3plh",
-          "grouped": true
+          "grouped": true,
+          "priority": 0
         },
         "16": {
           "id": "oOBVBX4CeHA",
           "title": "【令和７年秋　応用情報技術者試験】午前　問１６〜問２０ #応用情報技術者試験 #令和７年秋 #午前",
           "url": "https://www.youtube.com/watch?v=oOBVBX4CeHA&list=PLG6PepT_DSdwVuypY_kwQ6L1Rvw2I3plh",
-          "grouped": true
+          "grouped": true,
+          "priority": 0
         },
         "17": {
           "id": "oOBVBX4CeHA",
           "title": "【令和７年秋　応用情報技術者試験】午前　問１６〜問２０ #応用情報技術者試験 #令和７年秋 #午前",
           "url": "https://www.youtube.com/watch?v=oOBVBX4CeHA&list=PLG6PepT_DSdwVuypY_kwQ6L1Rvw2I3plh",
-          "grouped": true
+          "grouped": true,
+          "priority": 0
         },
         "18": {
           "id": "oOBVBX4CeHA",
           "title": "【令和７年秋　応用情報技術者試験】午前　問１６〜問２０ #応用情報技術者試験 #令和７年秋 #午前",
           "url": "https://www.youtube.com/watch?v=oOBVBX4CeHA&list=PLG6PepT_DSdwVuypY_kwQ6L1Rvw2I3plh",
-          "grouped": true
+          "grouped": true,
+          "priority": 0
         },
         "19": {
           "id": "oOBVBX4CeHA",
           "title": "【令和７年秋　応用情報技術者試験】午前　問１６〜問２０ #応用情報技術者試験 #令和７年秋 #午前",
           "url": "https://www.youtube.com/watch?v=oOBVBX4CeHA&list=PLG6PepT_DSdwVuypY_kwQ6L1Rvw2I3plh",
-          "grouped": true
+          "grouped": true,
+          "priority": 0
         },
         "20": {
           "id": "oOBVBX4CeHA",
           "title": "【令和７年秋　応用情報技術者試験】午前　問１６〜問２０ #応用情報技術者試験 #令和７年秋 #午前",
           "url": "https://www.youtube.com/watch?v=oOBVBX4CeHA&list=PLG6PepT_DSdwVuypY_kwQ6L1Rvw2I3plh",
-          "grouped": true
+          "grouped": true,
+          "priority": 0
         }
       },
       "afternoon": {
@@ -192,28 +222,87 @@
           "id": "W1uWCFvDPaI",
           "title": "令和７年秋　応用情報技術者試験　午後１　情報セキュリティ",
           "url": "https://www.youtube.com/watch?v=W1uWCFvDPaI&list=PLG6PepT_DSdwRl9f7qULupaAovTxXGPX4",
-          "grouped": false
+          "grouped": false,
+          "priority": 2
         },
         "9": {
           "id": "Eci7qog_XvQ",
           "title": "令和７年秋　応用情報技術者試験　午後９　プロジェクトマネジメント",
           "url": "https://www.youtube.com/watch?v=Eci7qog_XvQ&list=PLG6PepT_DSdwRl9f7qULupaAovTxXGPX4",
-          "grouped": false
+          "grouped": false,
+          "priority": 2
+        },
+        "2": {
+          "id": "TyFHg-gmAhg",
+          "title": "【解答速報】応用情報技術者試験　令和７年秋　午後　問２　経営戦略",
+          "url": "https://www.youtube.com/watch?v=TyFHg-gmAhg&list=PLG6PepT_DSdwKK7mNzwiBOKuiMt_rHDNe",
+          "grouped": false,
+          "priority": 1
+        },
+        "3": {
+          "id": "bIHErEoFx-c",
+          "title": "【解答速報】応用情報技術者試験　令和７年秋　午後　問３　プログラミング",
+          "url": "https://www.youtube.com/watch?v=bIHErEoFx-c&list=PLG6PepT_DSdwKK7mNzwiBOKuiMt_rHDNe",
+          "grouped": false,
+          "priority": 1
+        },
+        "4": {
+          "id": "LVyBkHPF3oU",
+          "title": "【解答速報】応用情報技術者試験　令和７年秋　午後　問４　システムアーキテクチャ",
+          "url": "https://www.youtube.com/watch?v=LVyBkHPF3oU&list=PLG6PepT_DSdwKK7mNzwiBOKuiMt_rHDNe",
+          "grouped": false,
+          "priority": 1
+        },
+        "5": {
+          "id": "5YJFqIraVV0",
+          "title": "【解答速報】応用情報技術者試験　令和７年秋　午後　問５　ネットワーク",
+          "url": "https://www.youtube.com/watch?v=5YJFqIraVV0&list=PLG6PepT_DSdwKK7mNzwiBOKuiMt_rHDNe",
+          "grouped": false,
+          "priority": 1
+        },
+        "6": {
+          "id": "NDY8RsgFnGA",
+          "title": "【解答速報】応用情報技術者試験　令和７年秋　午後　問６　データベース",
+          "url": "https://www.youtube.com/watch?v=NDY8RsgFnGA&list=PLG6PepT_DSdwKK7mNzwiBOKuiMt_rHDNe",
+          "grouped": false,
+          "priority": 1
+        },
+        "7": {
+          "id": "bap6b2AlcBA",
+          "title": "【解答速報】応用情報技術者試験　令和７年秋　午後　問７　組込システム",
+          "url": "https://www.youtube.com/watch?v=bap6b2AlcBA&list=PLG6PepT_DSdwKK7mNzwiBOKuiMt_rHDNe",
+          "grouped": false,
+          "priority": 1
+        },
+        "8": {
+          "id": "nzBfVFJujwE",
+          "title": "【解答速報】応用情報技術者試験　令和７年秋　午後　問８　情報システム開発",
+          "url": "https://www.youtube.com/watch?v=nzBfVFJujwE&list=PLG6PepT_DSdwKK7mNzwiBOKuiMt_rHDNe",
+          "grouped": false,
+          "priority": 1
+        },
+        "10": {
+          "id": "ZzFIw4NU57k",
+          "title": "【解答速報】応用情報技術者試験　令和７年秋　午後　問１０　サービスマネジメント",
+          "url": "https://www.youtube.com/watch?v=ZzFIw4NU57k&list=PLG6PepT_DSdwKK7mNzwiBOKuiMt_rHDNe",
+          "grouped": false,
+          "priority": 1
+        },
+        "11": {
+          "id": "ZDHOJ-oVdSY",
+          "title": "【解答速報】応用情報技術者試験　令和７年秋　午後　問１１　システム監査",
+          "url": "https://www.youtube.com/watch?v=ZDHOJ-oVdSY&list=PLG6PepT_DSdwKK7mNzwiBOKuiMt_rHDNe",
+          "grouped": false,
+          "priority": 1
         }
       },
-      "playlists": [
+      "summaries": [
         {
-          "id": "PLG6PepT_DSdwRl9f7qULupaAovTxXGPX4",
-          "title": "令和７年秋　応用情報技術者試験　午後",
-          "url": "https://www.youtube.com/playlist?list=PLG6PepT_DSdwRl9f7qULupaAovTxXGPX4"
-        },
-        {
-          "id": "PLG6PepT_DSdwVuypY_kwQ6L1Rvw2I3plh",
-          "title": "令和７年秋　応用情報技術者試験　午前",
-          "url": "https://www.youtube.com/playlist?list=PLG6PepT_DSdwVuypY_kwQ6L1Rvw2I3plh"
+          "id": "gEimECp4_q8",
+          "title": "【令和７年秋 】応用情報技術者　解答速報（午前と午後をそれぞれピックアップ）",
+          "url": "https://www.youtube.com/watch?v=gEimECp4_q8&list=PLG6PepT_DSdwKK7mNzwiBOKuiMt_rHDNe"
         }
-      ],
-      "summaries": []
+      ]
     },
     {
       "year": 2025,
@@ -224,25 +313,29 @@
           "id": "-vr_18qQk8o",
           "title": "【令和７年春　応用情報技術者試験】午前問２１｜ IoT機器のセンサーノードの消費電流",
           "url": "https://www.youtube.com/watch?v=-vr_18qQk8o&list=PLG6PepT_DSdzQVo6YwtY4DbYrZln3WUwR",
-          "grouped": false
+          "grouped": false,
+          "priority": 2
         },
         "3": {
           "id": "Juqn5LlW1A0",
           "title": "【令和７年春　応用情報技術者試験】午前問３｜AIにおける過学習対策",
           "url": "https://www.youtube.com/watch?v=Juqn5LlW1A0&list=PLG6PepT_DSdzQVo6YwtY4DbYrZln3WUwR",
-          "grouped": false
+          "grouped": false,
+          "priority": 2
         },
         "2": {
           "id": "hvbnvfqcUoQ",
           "title": "【令和７年春　応用情報技術者試験】午前問２｜近似的に求めるアルゴリズム",
           "url": "https://www.youtube.com/watch?v=hvbnvfqcUoQ&list=PLG6PepT_DSdzQVo6YwtY4DbYrZln3WUwR",
-          "grouped": false
+          "grouped": false,
+          "priority": 2
         },
         "1": {
           "id": "ljJikEfYQW8",
           "title": "【令和７年春　応用情報技術者試験】午前問１｜論理式と含意",
           "url": "https://www.youtube.com/watch?v=ljJikEfYQW8&list=PLG6PepT_DSdzQVo6YwtY4DbYrZln3WUwR",
-          "grouped": false
+          "grouped": false,
+          "priority": 2
         }
       },
       "afternoon": {
@@ -250,44 +343,1383 @@
           "id": "zpqI63Zr2nI",
           "title": "令和７年春　応用情報技術者試験　午後１　情報セキュリティ",
           "url": "https://www.youtube.com/watch?v=zpqI63Zr2nI&list=PLG6PepT_DSdysaYrc6Ln2zSxkIBQExxJ4",
-          "grouped": false
+          "grouped": false,
+          "priority": 2
         },
         "5": {
           "id": "dzy0189Dobc",
           "title": "令和７年春　応用情報技術者試験　午後５　ネットワーク",
           "url": "https://www.youtube.com/watch?v=dzy0189Dobc&list=PLG6PepT_DSdysaYrc6Ln2zSxkIBQExxJ4",
-          "grouped": false
+          "grouped": false,
+          "priority": 2
+        },
+        "3": {
+          "id": "MdVcNvvF3i4",
+          "title": "【解答速報】応用情報技術者試験　令和７年春　午後　問３　プログラミング",
+          "url": "https://www.youtube.com/watch?v=MdVcNvvF3i4&list=PLG6PepT_DSdxt-ld0MbCbyDhVZBfxWyKU",
+          "grouped": false,
+          "priority": 1
+        },
+        "7": {
+          "id": "HXb6pGS6HAk",
+          "title": "【解答速報】応用情報技術者試験　令和７年春　午後７　組込システム",
+          "url": "https://www.youtube.com/watch?v=HXb6pGS6HAk&list=PLG6PepT_DSdxt-ld0MbCbyDhVZBfxWyKU",
+          "grouped": false,
+          "priority": 1
+        },
+        "11": {
+          "id": "9dmQ9-knbXk",
+          "title": "【解答速報】応用情報技術者試験　令和７年春　午後１１　システム監査",
+          "url": "https://www.youtube.com/watch?v=9dmQ9-knbXk&list=PLG6PepT_DSdxt-ld0MbCbyDhVZBfxWyKU",
+          "grouped": false,
+          "priority": 1
+        },
+        "10": {
+          "id": "-cyUsz6riks",
+          "title": "【解答速報】応用情報技術者試験　令和７年春　午後１０　サービスマネジメント",
+          "url": "https://www.youtube.com/watch?v=-cyUsz6riks&list=PLG6PepT_DSdxt-ld0MbCbyDhVZBfxWyKU",
+          "grouped": false,
+          "priority": 1
+        },
+        "9": {
+          "id": "FqUv03sElJ4",
+          "title": "【解答速報】応用情報技術者試験　令和７年春　午後９　プロジェクトマネジメント",
+          "url": "https://www.youtube.com/watch?v=FqUv03sElJ4&list=PLG6PepT_DSdxt-ld0MbCbyDhVZBfxWyKU",
+          "grouped": false,
+          "priority": 1
+        },
+        "8": {
+          "id": "e7u65PK10W4",
+          "title": "【解答速報】応用情報技術者試験　令和７年春　午後８　情報システム開発",
+          "url": "https://www.youtube.com/watch?v=e7u65PK10W4&list=PLG6PepT_DSdxt-ld0MbCbyDhVZBfxWyKU",
+          "grouped": false,
+          "priority": 1
+        },
+        "4": {
+          "id": "9rRT1i79F7o",
+          "title": "【解答速報】応用情報技術者試験　令和７年春　午後４　システムアーキテクチャ",
+          "url": "https://www.youtube.com/watch?v=9rRT1i79F7o&list=PLG6PepT_DSdxt-ld0MbCbyDhVZBfxWyKU",
+          "grouped": false,
+          "priority": 1
+        },
+        "6": {
+          "id": "OUpH-Bels7k",
+          "title": "【解答速報】応用情報技術者試験　令和７年春　午後６　データベース",
+          "url": "https://www.youtube.com/watch?v=OUpH-Bels7k&list=PLG6PepT_DSdxt-ld0MbCbyDhVZBfxWyKU",
+          "grouped": false,
+          "priority": 1
+        },
+        "2": {
+          "id": "c85gd6VbDmM",
+          "title": "【解答速報】応用情報技術者試験　令和７年春　午後２　経営",
+          "url": "https://www.youtube.com/watch?v=c85gd6VbDmM&list=PLG6PepT_DSdxt-ld0MbCbyDhVZBfxWyKU",
+          "grouped": false,
+          "priority": 1
         }
       },
-      "playlists": [
-        {
-          "id": "PLG6PepT_DSdzQVo6YwtY4DbYrZln3WUwR",
-          "title": "令和７年春　応用情報技術者試験　午前",
-          "url": "https://www.youtube.com/playlist?list=PLG6PepT_DSdzQVo6YwtY4DbYrZln3WUwR"
-        },
-        {
-          "id": "PLG6PepT_DSdysaYrc6Ln2zSxkIBQExxJ4",
-          "title": "令和７年春　応用情報技術者試験　午後",
-          "url": "https://www.youtube.com/playlist?list=PLG6PepT_DSdysaYrc6Ln2zSxkIBQExxJ4"
-        }
-      ],
       "summaries": []
+    },
+    {
+      "year": 2024,
+      "label": "令和6年秋",
+      "season": "秋",
+      "morning": {
+        "1": {
+          "id": "lgg2Po4QY9g",
+          "title": "【令和６年秋 応用情報技術者試験】午前問１｜M/M/1待ち行列｜応用数学",
+          "url": "https://www.youtube.com/watch?v=lgg2Po4QY9g&list=PLG6PepT_DSdw0NOPe8Bz_P4Sahwo9-NE_",
+          "grouped": false,
+          "priority": 2
+        },
+        "2": {
+          "id": "R7I83JGzBEU",
+          "title": "【令和６年秋 応用情報技術者試験】午前問２｜教師あり学習の交差検証｜情報に関する理",
+          "url": "https://www.youtube.com/watch?v=R7I83JGzBEU&list=PLG6PepT_DSdw0NOPe8Bz_P4Sahwo9-NE_",
+          "grouped": false,
+          "priority": 2
+        },
+        "3": {
+          "id": "YJjFGp0FtoI",
+          "title": "【令和６年秋 応用情報技術者試験】午前問３｜逆ポーランド表記法｜情報に関する理論",
+          "url": "https://www.youtube.com/watch?v=YJjFGp0FtoI&list=PLG6PepT_DSdw0NOPe8Bz_P4Sahwo9-NE_",
+          "grouped": false,
+          "priority": 2
+        },
+        "4": {
+          "id": "VMhdrrZRgA4",
+          "title": "【令和６年秋 応用情報技術者試験】午前問４｜先進運営支援システムのセンサー｜計測・制御に関する理論",
+          "url": "https://www.youtube.com/watch?v=VMhdrrZRgA4&list=PLG6PepT_DSdw0NOPe8Bz_P4Sahwo9-NE_",
+          "grouped": false,
+          "priority": 2
+        },
+        "5": {
+          "id": "imbzLvjIJA8",
+          "title": "【令和６年秋 応用情報技術者試験】午前問５｜２分探索木｜データ構造",
+          "url": "https://www.youtube.com/watch?v=imbzLvjIJA8&list=PLG6PepT_DSdw0NOPe8Bz_P4Sahwo9-NE_",
+          "grouped": false,
+          "priority": 2
+        },
+        "6": {
+          "id": "AyzWiYblL1c",
+          "title": "【令和６年秋 応用情報技術者試験】午前問６｜ハッシュ関数｜アルゴリズム",
+          "url": "https://www.youtube.com/watch?v=AyzWiYblL1c&list=PLG6PepT_DSdw0NOPe8Bz_P4Sahwo9-NE_",
+          "grouped": false,
+          "priority": 2
+        },
+        "7": {
+          "id": "1hs-opT8rns",
+          "title": "【令和６年秋 応用情報技術者試験】午前問７｜プログラム言語｜テクノロジ系",
+          "url": "https://www.youtube.com/watch?v=1hs-opT8rns&list=PLG6PepT_DSdw0NOPe8Bz_P4Sahwo9-NE_",
+          "grouped": false,
+          "priority": 2
+        },
+        "8": {
+          "id": "QtaO5j6IGD0",
+          "title": "【令和６年秋 応用情報技術者試験】午前問８｜命令実行｜プロセッサ",
+          "url": "https://www.youtube.com/watch?v=QtaO5j6IGD0&list=PLG6PepT_DSdw0NOPe8Bz_P4Sahwo9-NE_",
+          "grouped": false,
+          "priority": 2
+        },
+        "9": {
+          "id": "BulfMSClbdU",
+          "title": "【令和６年秋 応用情報技術者試験】午前問９｜量子超越性",
+          "url": "https://www.youtube.com/watch?v=BulfMSClbdU&list=PLG6PepT_DSdw0NOPe8Bz_P4Sahwo9-NE_",
+          "grouped": false,
+          "priority": 2
+        },
+        "10": {
+          "id": "nSveH194XkQ",
+          "title": "【令和６年秋 応用情報技術者試験】午前問１０｜キャッシュメモリ｜コンピュータ構成要素",
+          "url": "https://www.youtube.com/watch?v=nSveH194XkQ&list=PLG6PepT_DSdw0NOPe8Bz_P4Sahwo9-NE_",
+          "grouped": false,
+          "priority": 2
+        },
+        "11": {
+          "id": "TeBuDkY8J2A",
+          "title": "【令和６年秋 応用情報技術者試験】午前問１１｜ファイバチャネル｜入出力デバイス",
+          "url": "https://www.youtube.com/watch?v=TeBuDkY8J2A&list=PLG6PepT_DSdw0NOPe8Bz_P4Sahwo9-NE_",
+          "grouped": false,
+          "priority": 2
+        },
+        "12": {
+          "id": "_GkDlzK58WQ",
+          "title": "【令和６年秋 応用情報技術者試験】午前問１２｜Webアプリケーションサーバ｜システムの構成",
+          "url": "https://www.youtube.com/watch?v=_GkDlzK58WQ&list=PLG6PepT_DSdw0NOPe8Bz_P4Sahwo9-NE_",
+          "grouped": false,
+          "priority": 2
+        },
+        "13": {
+          "id": "3pCaJlnsynM",
+          "title": "【令和６年秋 応用情報技術者試験】午前問１３｜オブジェクトストレージ｜システムの構成",
+          "url": "https://www.youtube.com/watch?v=3pCaJlnsynM&list=PLG6PepT_DSdw0NOPe8Bz_P4Sahwo9-NE_",
+          "grouped": false,
+          "priority": 2
+        },
+        "14": {
+          "id": "dGJfdc9YqKU",
+          "title": "【令和６年秋 応用情報技術者試験】午前問１４｜稼働率の比較｜システムの評価指標",
+          "url": "https://www.youtube.com/watch?v=dGJfdc9YqKU&list=PLG6PepT_DSdw0NOPe8Bz_P4Sahwo9-NE_",
+          "grouped": false,
+          "priority": 2
+        },
+        "15": {
+          "id": "aiIgnqpVTwE",
+          "title": "【令和６年秋 応用情報技術者試験】午前問１５｜クライアントサーバシステム｜システムの評価指標",
+          "url": "https://www.youtube.com/watch?v=aiIgnqpVTwE&list=PLG6PepT_DSdw0NOPe8Bz_P4Sahwo9-NE_",
+          "grouped": false,
+          "priority": 2
+        },
+        "16": {
+          "id": "8YWO4UrkMxs",
+          "title": "【令和６年秋 応用情報技術者試験】午前問１６｜タスクスケジューリング｜オペレーティングシステム",
+          "url": "https://www.youtube.com/watch?v=8YWO4UrkMxs&list=PLG6PepT_DSdw0NOPe8Bz_P4Sahwo9-NE_",
+          "grouped": false,
+          "priority": 2
+        },
+        "17": {
+          "id": "8HdbE6IupyE",
+          "title": "【令和６年秋 応用情報技術者試験】午前問１７｜ページング方式における性能低下",
+          "url": "https://www.youtube.com/watch?v=8HdbE6IupyE&list=PLG6PepT_DSdw0NOPe8Bz_P4Sahwo9-NE_",
+          "grouped": false,
+          "priority": 2
+        },
+        "18": {
+          "id": "neoV7dLvzog",
+          "title": "【令和６年秋 応用情報技術者試験】午前問１８｜ページング方式の長所｜オペレーティングシステム",
+          "url": "https://www.youtube.com/watch?v=neoV7dLvzog&list=PLG6PepT_DSdw0NOPe8Bz_P4Sahwo9-NE_",
+          "grouped": false,
+          "priority": 2
+        },
+        "19": {
+          "id": "NIbRb1nzor4",
+          "title": "【令和６年秋 応用情報技術者試験】午前問１９｜バージョン管理ツール｜開発ツール",
+          "url": "https://www.youtube.com/watch?v=NIbRb1nzor4&list=PLG6PepT_DSdw0NOPe8Bz_P4Sahwo9-NE_",
+          "grouped": false,
+          "priority": 2
+        },
+        "20": {
+          "id": "BDmSyJ4on1I",
+          "title": "【令和６年秋 応用情報技術者試験】午前問２０｜コンパイラのコード生成処理｜開発ツール",
+          "url": "https://www.youtube.com/watch?v=BDmSyJ4on1I&list=PLG6PepT_DSdw0NOPe8Bz_P4Sahwo9-NE_",
+          "grouped": false,
+          "priority": 2
+        },
+        "21": {
+          "id": "I0RQfm_DmHA",
+          "title": "【令和６年秋 応用情報技術者試験】午前問２１｜タイミングチャート｜ハードウェア",
+          "url": "https://www.youtube.com/watch?v=I0RQfm_DmHA&list=PLG6PepT_DSdw0NOPe8Bz_P4Sahwo9-NE_",
+          "grouped": false,
+          "priority": 2
+        },
+        "22": {
+          "id": "mq0v9sez7aQ",
+          "title": "【令和６年秋 応用情報技術者試験】午前問２２｜SoC｜ハードウェア",
+          "url": "https://www.youtube.com/watch?v=mq0v9sez7aQ&list=PLG6PepT_DSdw0NOPe8Bz_P4Sahwo9-NE_",
+          "grouped": false,
+          "priority": 2
+        },
+        "23": {
+          "id": "S3r3XkViS0c",
+          "title": "【令和６年秋 応用情報技術者試験】午前問２３｜アクチュエーター｜ハードウェア",
+          "url": "https://www.youtube.com/watch?v=S3r3XkViS0c&list=PLG6PepT_DSdw0NOPe8Bz_P4Sahwo9-NE_",
+          "grouped": false,
+          "priority": 2
+        },
+        "24": {
+          "id": "UgEAlALyEUI",
+          "title": "【令和６年秋 応用情報技術者試験】午前問２４｜マイクロプロセッサ｜ハードウェア",
+          "url": "https://www.youtube.com/watch?v=UgEAlALyEUI&list=PLG6PepT_DSdw0NOPe8Bz_P4Sahwo9-NE_",
+          "grouped": false,
+          "priority": 2
+        },
+        "25": {
+          "id": "ItoxzakWpEw",
+          "title": "【令和６年秋 応用情報技術者試験】午前問２５｜Webページの構成要素｜UX/UIデザイン",
+          "url": "https://www.youtube.com/watch?v=ItoxzakWpEw&list=PLG6PepT_DSdw0NOPe8Bz_P4Sahwo9-NE_",
+          "grouped": false,
+          "priority": 2
+        },
+        "26": {
+          "id": "BrTbkUnJZ7Q",
+          "title": "【令和６年秋 応用情報技術者試験】午前問２６｜帯域幅｜マルチメディア技術",
+          "url": "https://www.youtube.com/watch?v=BrTbkUnJZ7Q&list=PLG6PepT_DSdw0NOPe8Bz_P4Sahwo9-NE_",
+          "grouped": false,
+          "priority": 2
+        },
+        "27": {
+          "id": "MyREwtAhv5E",
+          "title": "【令和６年秋 応用情報技術者試験】午前問２７｜2相コミット中の障害｜トランザクション処理",
+          "url": "https://www.youtube.com/watch?v=MyREwtAhv5E&list=PLG6PepT_DSdw0NOPe8Bz_P4Sahwo9-NE_",
+          "grouped": false,
+          "priority": 2
+        },
+        "28": {
+          "id": "-Cl-uY1sX_E",
+          "title": "【令和６年秋 応用情報技術者試験】午前問２８｜表情報の読み取り｜データ操作",
+          "url": "https://www.youtube.com/watch?v=-Cl-uY1sX_E&list=PLG6PepT_DSdw0NOPe8Bz_P4Sahwo9-NE_",
+          "grouped": false,
+          "priority": 2
+        },
+        "29": {
+          "id": "kDhf3Yx8QLY",
+          "title": "【令和６年秋 応用情報技術者試験】午前問２９｜オブジェクト図｜データベース設計",
+          "url": "https://www.youtube.com/watch?v=kDhf3Yx8QLY&list=PLG6PepT_DSdw0NOPe8Bz_P4Sahwo9-NE_",
+          "grouped": false,
+          "priority": 2
+        },
+        "30": {
+          "id": "Y7cPMvG39_U",
+          "title": "【令和６年秋 応用情報技術者試験】午前問３０｜SQL文",
+          "url": "https://www.youtube.com/watch?v=Y7cPMvG39_U&list=PLG6PepT_DSdw0NOPe8Bz_P4Sahwo9-NE_",
+          "grouped": false,
+          "priority": 2
+        },
+        "31": {
+          "id": "E9f6pCzsAUI",
+          "title": "【令和６年秋 応用情報技術者試験】午前問３１｜DBMSのチェックポイント",
+          "url": "https://www.youtube.com/watch?v=E9f6pCzsAUI&list=PLG6PepT_DSdw0NOPe8Bz_P4Sahwo9-NE_",
+          "grouped": false,
+          "priority": 2
+        },
+        "32": {
+          "id": "u1Uzq-iaNFs",
+          "title": "【令和６年秋 応用情報技術者試験】午前問３２｜最低速度の回線サービス",
+          "url": "https://www.youtube.com/watch?v=u1Uzq-iaNFs&list=PLG6PepT_DSdw0NOPe8Bz_P4Sahwo9-NE_",
+          "grouped": false,
+          "priority": 2
+        },
+        "33": {
+          "id": "s618eDn3g5I",
+          "title": "【令和６年秋 応用情報技術者試験】午前問３３｜DNS",
+          "url": "https://www.youtube.com/watch?v=s618eDn3g5I&list=PLG6PepT_DSdw0NOPe8Bz_P4Sahwo9-NE_",
+          "grouped": false,
+          "priority": 2
+        },
+        "34": {
+          "id": "omOML6-svIg",
+          "title": "【令和６年秋 応用情報技術者試験】午前問３４｜ICMPの機能",
+          "url": "https://www.youtube.com/watch?v=omOML6-svIg&list=PLG6PepT_DSdw0NOPe8Bz_P4Sahwo9-NE_",
+          "grouped": false,
+          "priority": 2
+        },
+        "35": {
+          "id": "-WD6t6Rzz8s",
+          "title": "【令和６年秋 応用情報技術者試験】午前問３５｜クラスDのIPv4アドレス",
+          "url": "https://www.youtube.com/watch?v=-WD6t6Rzz8s&list=PLG6PepT_DSdw0NOPe8Bz_P4Sahwo9-NE_",
+          "grouped": false,
+          "priority": 2
+        },
+        "36": {
+          "id": "okLdFtn00Rg",
+          "title": "【令和６年秋 応用情報技術者試験】午前問３６｜MACアドレス",
+          "url": "https://www.youtube.com/watch?v=okLdFtn00Rg&list=PLG6PepT_DSdw0NOPe8Bz_P4Sahwo9-NE_",
+          "grouped": false,
+          "priority": 2
+        },
+        "37": {
+          "id": "g9cPCYF6ywc",
+          "title": "【令和６年秋 応用情報技術者試験】午前問３７｜SAML認証",
+          "url": "https://www.youtube.com/watch?v=g9cPCYF6ywc&list=PLG6PepT_DSdw0NOPe8Bz_P4Sahwo9-NE_",
+          "grouped": false,
+          "priority": 2
+        },
+        "38": {
+          "id": "i3OdHUFlGuM",
+          "title": "【令和６年秋 応用情報技術者試験】午前問３８｜パケット",
+          "url": "https://www.youtube.com/watch?v=i3OdHUFlGuM&list=PLG6PepT_DSdw0NOPe8Bz_P4Sahwo9-NE_",
+          "grouped": false,
+          "priority": 2
+        },
+        "39": {
+          "id": "fm3JoeEMQdU",
+          "title": "【令和６年秋 応用情報技術者試験】午前問３９｜ディープフェイク",
+          "url": "https://www.youtube.com/watch?v=fm3JoeEMQdU&list=PLG6PepT_DSdw0NOPe8Bz_P4Sahwo9-NE_",
+          "grouped": false,
+          "priority": 2
+        },
+        "40": {
+          "id": "nX7vaHl50dw",
+          "title": "【令和６年秋 応用情報技術者試験】午前問４０｜パスワードリスト攻撃",
+          "url": "https://www.youtube.com/watch?v=nX7vaHl50dw&list=PLG6PepT_DSdw0NOPe8Bz_P4Sahwo9-NE_",
+          "grouped": false,
+          "priority": 2
+        },
+        "41": {
+          "id": "O-2wHv0bfQE",
+          "title": "【令和６年秋 応用情報技術者試験】午前問４１｜CVE識別子",
+          "url": "https://www.youtube.com/watch?v=O-2wHv0bfQE&list=PLG6PepT_DSdw0NOPe8Bz_P4Sahwo9-NE_",
+          "grouped": false,
+          "priority": 2
+        },
+        "42": {
+          "id": "rDZ_6kaLVw0",
+          "title": "【令和６年秋 応用情報技術者試験】午前問４２｜DNSキャッシュポイズニング攻撃",
+          "url": "https://www.youtube.com/watch?v=rDZ_6kaLVw0&list=PLG6PepT_DSdw0NOPe8Bz_P4Sahwo9-NE_",
+          "grouped": false,
+          "priority": 2
+        },
+        "43": {
+          "id": "MIXsyKSeJVQ",
+          "title": "【令和６年秋 応用情報技術者試験】午前問４３｜SBOM",
+          "url": "https://www.youtube.com/watch?v=MIXsyKSeJVQ&list=PLG6PepT_DSdw0NOPe8Bz_P4Sahwo9-NE_",
+          "grouped": false,
+          "priority": 2
+        },
+        "44": {
+          "id": "Y2ZQPnFHumo",
+          "title": "【令和６年秋 応用情報技術者試験】午前問４４｜DNSSEC",
+          "url": "https://www.youtube.com/watch?v=Y2ZQPnFHumo&list=PLG6PepT_DSdw0NOPe8Bz_P4Sahwo9-NE_",
+          "grouped": false,
+          "priority": 2
+        },
+        "45": {
+          "id": "l_1PynhbCGI",
+          "title": "【令和６年秋 応用情報技術者試験】午前問４５｜VLAN機能のセキュリティ効果",
+          "url": "https://www.youtube.com/watch?v=l_1PynhbCGI&list=PLG6PepT_DSdw0NOPe8Bz_P4Sahwo9-NE_",
+          "grouped": false,
+          "priority": 2
+        },
+        "46": {
+          "id": "vlAPCefo2XM",
+          "title": "【令和６年秋 応用情報技術者試験】午前問４６｜エクスプロイトコード",
+          "url": "https://www.youtube.com/watch?v=vlAPCefo2XM&list=PLG6PepT_DSdw0NOPe8Bz_P4Sahwo9-NE_",
+          "grouped": false,
+          "priority": 2
+        },
+        "47": {
+          "id": "NECPvRfdp-0",
+          "title": "【令和６年秋 応用情報技術者試験】午前問４７｜マイクロサービスアーキテクチャ",
+          "url": "https://www.youtube.com/watch?v=NECPvRfdp-0&list=PLG6PepT_DSdw0NOPe8Bz_P4Sahwo9-NE_",
+          "grouped": false,
+          "priority": 2
+        },
+        "48": {
+          "id": "FLeaoRgdZCw",
+          "title": "【令和６年秋 応用情報技術者試験】午前問４８｜使用性を評価する指標",
+          "url": "https://www.youtube.com/watch?v=FLeaoRgdZCw&list=PLG6PepT_DSdw0NOPe8Bz_P4Sahwo9-NE_",
+          "grouped": false,
+          "priority": 2
+        },
+        "49": {
+          "id": "s_0fVka9woY",
+          "title": "【令和６年秋 応用情報技術者試験】午前問４９｜アジャイル開発",
+          "url": "https://www.youtube.com/watch?v=s_0fVka9woY&list=PLG6PepT_DSdw0NOPe8Bz_P4Sahwo9-NE_",
+          "grouped": false,
+          "priority": 2
+        },
+        "50": {
+          "id": "fvwOWEo7Vh0",
+          "title": "【令和６年秋 応用情報技術者試験】午前問５０｜レスポンシブWebデザイン",
+          "url": "https://www.youtube.com/watch?v=fvwOWEo7Vh0&list=PLG6PepT_DSdw0NOPe8Bz_P4Sahwo9-NE_",
+          "grouped": false,
+          "priority": 2
+        },
+        "51": {
+          "id": "_zcyJ_kDLUU",
+          "title": "【令和６年秋 応用情報技術者試験】午前問５１｜スコープの管理",
+          "url": "https://www.youtube.com/watch?v=_zcyJ_kDLUU&list=PLG6PepT_DSdw0NOPe8Bz_P4Sahwo9-NE_",
+          "grouped": false,
+          "priority": 2
+        },
+        "52": {
+          "id": "zQRIf4TRjx0",
+          "title": "【令和６年秋 応用情報技術者試験】午前問５２｜WBS",
+          "url": "https://www.youtube.com/watch?v=zQRIf4TRjx0&list=PLG6PepT_DSdw0NOPe8Bz_P4Sahwo9-NE_",
+          "grouped": false,
+          "priority": 2
+        },
+        "53": {
+          "id": "TEHU7qY3zYY",
+          "title": "【令和６年秋 応用情報技術者試験】午前問５３｜プロジェクトマネジメント",
+          "url": "https://www.youtube.com/watch?v=TEHU7qY3zYY&list=PLG6PepT_DSdw0NOPe8Bz_P4Sahwo9-NE_",
+          "grouped": false,
+          "priority": 2
+        },
+        "54": {
+          "id": "uK0Pou_cGnE",
+          "title": "【令和６年秋 応用情報技術者試験】午前問５４｜ファストトラッキング",
+          "url": "https://www.youtube.com/watch?v=uK0Pou_cGnE&list=PLG6PepT_DSdw0NOPe8Bz_P4Sahwo9-NE_",
+          "grouped": false,
+          "priority": 2
+        },
+        "55": {
+          "id": "IL0onyfPFFU",
+          "title": "【令和６年秋 応用情報技術者試験】午前問５５｜RTOとRLO",
+          "url": "https://www.youtube.com/watch?v=IL0onyfPFFU&list=PLG6PepT_DSdw0NOPe8Bz_P4Sahwo9-NE_",
+          "grouped": false,
+          "priority": 2
+        },
+        "56": {
+          "id": "J4e_ii_wEJQ",
+          "title": "【令和６年秋 応用情報技術者試験】午前問５６｜JIS Q 20000-1:2020",
+          "url": "https://www.youtube.com/watch?v=J4e_ii_wEJQ&list=PLG6PepT_DSdw0NOPe8Bz_P4Sahwo9-NE_",
+          "grouped": false,
+          "priority": 2
+        },
+        "57": {
+          "id": "mAHSIhnELBM",
+          "title": "【令和６年秋 応用情報技術者試験】午前問５７｜入出力データの管理方針",
+          "url": "https://www.youtube.com/watch?v=mAHSIhnELBM&list=PLG6PepT_DSdw0NOPe8Bz_P4Sahwo9-NE_",
+          "grouped": false,
+          "priority": 2
+        },
+        "58": {
+          "id": "FSOMKoJPWUE",
+          "title": "【令和６年秋 応用情報技術者試験】午前問５８｜監査手続の技法",
+          "url": "https://www.youtube.com/watch?v=FSOMKoJPWUE&list=PLG6PepT_DSdw0NOPe8Bz_P4Sahwo9-NE_",
+          "grouped": false,
+          "priority": 2
+        },
+        "59": {
+          "id": "aSTH3b17W10",
+          "title": "【令和６年秋 応用情報技術者試験】午前問５９｜システム監査基準の予備調査",
+          "url": "https://www.youtube.com/watch?v=aSTH3b17W10&list=PLG6PepT_DSdw0NOPe8Bz_P4Sahwo9-NE_",
+          "grouped": false,
+          "priority": 2
+        },
+        "60": {
+          "id": "RZjqC_k7wL8",
+          "title": "【令和６年秋 応用情報技術者試験】午前問６０｜システム監査基準のフォローアップ",
+          "url": "https://www.youtube.com/watch?v=RZjqC_k7wL8&list=PLG6PepT_DSdw0NOPe8Bz_P4Sahwo9-NE_",
+          "grouped": false,
+          "priority": 2
+        },
+        "61": {
+          "id": "-xub-kbmpfY",
+          "title": "【令和６年秋 応用情報技術者試験】午前問６１｜DX推進指標",
+          "url": "https://www.youtube.com/watch?v=-xub-kbmpfY&list=PLG6PepT_DSdw0NOPe8Bz_P4Sahwo9-NE_",
+          "grouped": false,
+          "priority": 2
+        },
+        "62": {
+          "id": "JUMYSEMk_hI",
+          "title": "【令和６年秋 応用情報技術者試験】午前問６２｜オープンデータバイデザイン",
+          "url": "https://www.youtube.com/watch?v=JUMYSEMk_hI&list=PLG6PepT_DSdw0NOPe8Bz_P4Sahwo9-NE_",
+          "grouped": false,
+          "priority": 2
+        },
+        "63": {
+          "id": "KEIjQDmk3Fk",
+          "title": "【令和６年秋 応用情報技術者試験】午前問６３｜業務改善の4原則",
+          "url": "https://www.youtube.com/watch?v=KEIjQDmk3Fk&list=PLG6PepT_DSdw0NOPe8Bz_P4Sahwo9-NE_",
+          "grouped": false,
+          "priority": 2
+        },
+        "64": {
+          "id": "i7FeZVi1tIM",
+          "title": "【令和６年秋 応用情報技術者試験】午前問６４｜BPR",
+          "url": "https://www.youtube.com/watch?v=i7FeZVi1tIM&list=PLG6PepT_DSdw0NOPe8Bz_P4Sahwo9-NE_",
+          "grouped": false,
+          "priority": 2
+        },
+        "65": {
+          "id": "6PdXOMRmycA",
+          "title": "【令和６年秋 応用情報技術者試験】午前問６５｜UXデザイン",
+          "url": "https://www.youtube.com/watch?v=6PdXOMRmycA&list=PLG6PepT_DSdw0NOPe8Bz_P4Sahwo9-NE_",
+          "grouped": false,
+          "priority": 2
+        },
+        "66": {
+          "id": "cONWFfCfgcs",
+          "title": "【令和６年秋 応用情報技術者試験】午前問６６｜UML",
+          "url": "https://www.youtube.com/watch?v=cONWFfCfgcs&list=PLG6PepT_DSdw0NOPe8Bz_P4Sahwo9-NE_",
+          "grouped": false,
+          "priority": 2
+        },
+        "67": {
+          "id": "E809IE9kA4s",
+          "title": "【令和６年秋 応用情報技術者試験】午前問６７｜SCM",
+          "url": "https://www.youtube.com/watch?v=E809IE9kA4s&list=PLG6PepT_DSdw0NOPe8Bz_P4Sahwo9-NE_",
+          "grouped": false,
+          "priority": 2
+        },
+        "68": {
+          "id": "80VO0aa4BC0",
+          "title": "【令和６年秋 応用情報技術者試験】午前問６８｜アンゾフの成長マトリクス",
+          "url": "https://www.youtube.com/watch?v=80VO0aa4BC0&list=PLG6PepT_DSdw0NOPe8Bz_P4Sahwo9-NE_",
+          "grouped": false,
+          "priority": 2
+        },
+        "69": {
+          "id": "cF9AUIbSsao",
+          "title": "【令和６年秋 応用情報技術者試験】午前問６９｜コ・クリエーション戦略",
+          "url": "https://www.youtube.com/watch?v=cF9AUIbSsao&list=PLG6PepT_DSdw0NOPe8Bz_P4Sahwo9-NE_",
+          "grouped": false,
+          "priority": 2
+        },
+        "70": {
+          "id": "wcc-SF6POpU",
+          "title": "【令和６年秋 応用情報技術者試験】午前問７０｜競合製品との競争過程にある障壁",
+          "url": "https://www.youtube.com/watch?v=wcc-SF6POpU&list=PLG6PepT_DSdw0NOPe8Bz_P4Sahwo9-NE_",
+          "grouped": false,
+          "priority": 2
+        },
+        "71": {
+          "id": "KauLj6nkH9w",
+          "title": "【令和６年秋 応用情報技術者試験】午前問７１｜生成AI",
+          "url": "https://www.youtube.com/watch?v=KauLj6nkH9w&list=PLG6PepT_DSdw0NOPe8Bz_P4Sahwo9-NE_",
+          "grouped": false,
+          "priority": 2
+        },
+        "72": {
+          "id": "hmHoTKqoLos",
+          "title": "【令和６年秋 応用情報技術者試験】午前問７２｜段取り時間の計算",
+          "url": "https://www.youtube.com/watch?v=hmHoTKqoLos&list=PLG6PepT_DSdw0NOPe8Bz_P4Sahwo9-NE_",
+          "grouped": false,
+          "priority": 2
+        },
+        "73": {
+          "id": "JusZa-WxP9w",
+          "title": "【令和６年秋 応用情報技術者試験】午前問７３｜正味所要量の計算",
+          "url": "https://www.youtube.com/watch?v=JusZa-WxP9w&list=PLG6PepT_DSdw0NOPe8Bz_P4Sahwo9-NE_",
+          "grouped": false,
+          "priority": 2
+        },
+        "74": {
+          "id": "6deWbB04Ub4",
+          "title": "【令和６年秋 応用情報技術者試験】午前問７４｜経営理念，経営戦略，事業戦略",
+          "url": "https://www.youtube.com/watch?v=6deWbB04Ub4&list=PLG6PepT_DSdw0NOPe8Bz_P4Sahwo9-NE_",
+          "grouped": false,
+          "priority": 2
+        },
+        "75": {
+          "id": "huPCOWvYAts",
+          "title": "【令和６年秋 応用情報技術者試験】午前問７５｜ナッシュ均衡",
+          "url": "https://www.youtube.com/watch?v=huPCOWvYAts&list=PLG6PepT_DSdw0NOPe8Bz_P4Sahwo9-NE_",
+          "grouped": false,
+          "priority": 2
+        },
+        "76": {
+          "id": "YRbSW-4T7J8",
+          "title": "【令和６年秋 応用情報技術者試験】午前問７６｜ベイズ統計",
+          "url": "https://www.youtube.com/watch?v=YRbSW-4T7J8&list=PLG6PepT_DSdw0NOPe8Bz_P4Sahwo9-NE_",
+          "grouped": false,
+          "priority": 2
+        },
+        "77": {
+          "id": "KJyW7C2hxjY",
+          "title": "【令和６年秋 応用情報技術者試験】午前問７７｜損益分岐点などの比較",
+          "url": "https://www.youtube.com/watch?v=KJyW7C2hxjY&list=PLG6PepT_DSdw0NOPe8Bz_P4Sahwo9-NE_",
+          "grouped": false,
+          "priority": 2
+        },
+        "78": {
+          "id": "VlA7AekikMM",
+          "title": "【令和６年秋 応用情報技術者試験】午前問７８｜著作権法",
+          "url": "https://www.youtube.com/watch?v=VlA7AekikMM&list=PLG6PepT_DSdw0NOPe8Bz_P4Sahwo9-NE_",
+          "grouped": false,
+          "priority": 2
+        },
+        "79": {
+          "id": "k98vUkfK39M",
+          "title": "【令和６年秋 応用情報技術者試験】午前問７９｜労働者派遣法",
+          "url": "https://www.youtube.com/watch?v=k98vUkfK39M&list=PLG6PepT_DSdw0NOPe8Bz_P4Sahwo9-NE_",
+          "grouped": false,
+          "priority": 2
+        },
+        "80": {
+          "id": "BiafTB7RCrs",
+          "title": "【令和６年秋 応用情報技術者試験】午前問８０｜デジタル社会形成基本法",
+          "url": "https://www.youtube.com/watch?v=BiafTB7RCrs&list=PLG6PepT_DSdw0NOPe8Bz_P4Sahwo9-NE_",
+          "grouped": false,
+          "priority": 2
+        }
+      },
+      "afternoon": {
+        "1": {
+          "id": "jbx6gP95zZg",
+          "title": "【令和６年秋 応用情報技術者試験】午後　問１　情報セキュリティ",
+          "url": "https://www.youtube.com/watch?v=jbx6gP95zZg&list=PLG6PepT_DSdyqoPinUFuLntqpZmaie-nT",
+          "grouped": false,
+          "priority": 2
+        },
+        "2": {
+          "id": "p0FRHcrHkIQ",
+          "title": "【令和６年秋 応用情報技術者試験】午後　問２　経営戦略",
+          "url": "https://www.youtube.com/watch?v=p0FRHcrHkIQ&list=PLG6PepT_DSdyqoPinUFuLntqpZmaie-nT",
+          "grouped": false,
+          "priority": 2
+        },
+        "3": {
+          "id": "jbM95BvMxx8",
+          "title": "【令和６年秋 応用情報技術者試験】午後　問３　プログラミング",
+          "url": "https://www.youtube.com/watch?v=jbM95BvMxx8&list=PLG6PepT_DSdyqoPinUFuLntqpZmaie-nT",
+          "grouped": false,
+          "priority": 2
+        },
+        "4": {
+          "id": "HkfhXzyQkWk",
+          "title": "【令和６年秋 応用情報技術者試験】午後　問４　システムアーキテクチャ",
+          "url": "https://www.youtube.com/watch?v=HkfhXzyQkWk&list=PLG6PepT_DSdyqoPinUFuLntqpZmaie-nT",
+          "grouped": false,
+          "priority": 2
+        },
+        "5": {
+          "id": "k4V3Fn9da44",
+          "title": "【令和６年秋 応用情報技術者試験】午後　問５　ネットワーク",
+          "url": "https://www.youtube.com/watch?v=k4V3Fn9da44&list=PLG6PepT_DSdyqoPinUFuLntqpZmaie-nT",
+          "grouped": false,
+          "priority": 2
+        },
+        "6": {
+          "id": "Nvoe8jLis_s",
+          "title": "【令和６年秋 応用情報技術者試験】午後　問６　データベース",
+          "url": "https://www.youtube.com/watch?v=Nvoe8jLis_s&list=PLG6PepT_DSdyqoPinUFuLntqpZmaie-nT",
+          "grouped": false,
+          "priority": 2
+        },
+        "7": {
+          "id": "dtOgNtEhRXo",
+          "title": "【令和６年秋 応用情報技術者試験】午後　問７　組込システム",
+          "url": "https://www.youtube.com/watch?v=dtOgNtEhRXo&list=PLG6PepT_DSdyqoPinUFuLntqpZmaie-nT",
+          "grouped": false,
+          "priority": 2
+        },
+        "8": {
+          "id": "6miXieKLmLE",
+          "title": "【令和６年秋 応用情報技術者試験】午後　問８　情報システム開発",
+          "url": "https://www.youtube.com/watch?v=6miXieKLmLE&list=PLG6PepT_DSdyqoPinUFuLntqpZmaie-nT",
+          "grouped": false,
+          "priority": 2
+        },
+        "9": {
+          "id": "F-j2p_4_PD0",
+          "title": "【令和６年秋 応用情報技術者試験】午後　問９　プロジェクトマネジメント",
+          "url": "https://www.youtube.com/watch?v=F-j2p_4_PD0&list=PLG6PepT_DSdyqoPinUFuLntqpZmaie-nT",
+          "grouped": false,
+          "priority": 2
+        },
+        "10": {
+          "id": "O7NqGYrw9T8",
+          "title": "【令和６年秋 応用情報技術者試験】午後　問１０　サービスマネジメント",
+          "url": "https://www.youtube.com/watch?v=O7NqGYrw9T8&list=PLG6PepT_DSdyqoPinUFuLntqpZmaie-nT",
+          "grouped": false,
+          "priority": 2
+        },
+        "11": {
+          "id": "NtePNIP5Q44",
+          "title": "【令和６年秋 応用情報技術者試験】午後　問１１　システム監査",
+          "url": "https://www.youtube.com/watch?v=NtePNIP5Q44&list=PLG6PepT_DSdyqoPinUFuLntqpZmaie-nT",
+          "grouped": false,
+          "priority": 2
+        }
+      },
+      "summaries": [
+        {
+          "id": "QdtNdl-a-Xk",
+          "title": "【令和６年秋 】応用情報技術者　午前の解答速報＆（少し午後）",
+          "url": "https://www.youtube.com/watch?v=QdtNdl-a-Xk"
+        }
+      ]
     },
     {
       "year": 2024,
       "label": "令和6年春",
       "season": "春",
-      "morning": {},
-      "afternoon": {},
-      "playlists": [
-        {
-          "id": "PLG6PepT_DSdzMFZ2fcMHOBeb3oodhqbQV",
-          "title": "令和６年春　応用情報技術者試験",
-          "url": "https://www.youtube.com/playlist?list=PLG6PepT_DSdzMFZ2fcMHOBeb3oodhqbQV"
+      "morning": {
+        "1": {
+          "id": "ywq0eYwVGUI",
+          "title": "【令和６年春 応用情報技術者試験】午前　問１｜ベイズの定理",
+          "url": "https://www.youtube.com/watch?v=ywq0eYwVGUI&list=PLG6PepT_DSdzuIGWkbUiiRtNQC7VnL-fE",
+          "grouped": false,
+          "priority": 2
+        },
+        "2": {
+          "id": "xSlRIOQK33U",
+          "title": "【令和６年春 応用情報技術者試験】午前　問２｜待ち行列モデル",
+          "url": "https://www.youtube.com/watch?v=xSlRIOQK33U&list=PLG6PepT_DSdzuIGWkbUiiRtNQC7VnL-fE",
+          "grouped": false,
+          "priority": 2
+        },
+        "3": {
+          "id": "NRx7AmY8Zb0",
+          "title": "【令和６年春 応用情報技術者試験】午前　問３｜ディープラーニング",
+          "url": "https://www.youtube.com/watch?v=NRx7AmY8Zb0&list=PLG6PepT_DSdzuIGWkbUiiRtNQC7VnL-fE",
+          "grouped": false,
+          "priority": 2
+        },
+        "4": {
+          "id": "2ebxHNdU1Yc",
+          "title": "【令和６年春 応用情報技術者試験】午前　問４｜ハミング符号",
+          "url": "https://www.youtube.com/watch?v=2ebxHNdU1Yc&list=PLG6PepT_DSdzuIGWkbUiiRtNQC7VnL-fE",
+          "grouped": false,
+          "priority": 2
+        },
+        "5": {
+          "id": "r7HlLkYSc7A",
+          "title": "【令和６年春 応用情報技術者試験】午前　問５｜流れ図",
+          "url": "https://www.youtube.com/watch?v=r7HlLkYSc7A&list=PLG6PepT_DSdzuIGWkbUiiRtNQC7VnL-fE",
+          "grouped": false,
+          "priority": 2
+        },
+        "6": {
+          "id": "AH0qVabn-a8",
+          "title": "【令和６年春 応用情報技術者試験】午前　問６｜再帰処理",
+          "url": "https://www.youtube.com/watch?v=AH0qVabn-a8&list=PLG6PepT_DSdzuIGWkbUiiRtNQC7VnL-fE",
+          "grouped": false,
+          "priority": 2
+        },
+        "7": {
+          "id": "KsE3647vZGk",
+          "title": "【令和６年春 応用情報技術者試験】午前　問７｜バブルソート",
+          "url": "https://www.youtube.com/watch?v=KsE3647vZGk&list=PLG6PepT_DSdzuIGWkbUiiRtNQC7VnL-fE",
+          "grouped": false,
+          "priority": 2
+        },
+        "8": {
+          "id": "KRjz_j_G_g8",
+          "title": "【令和６年春 応用情報技術者試験】午前　問８｜メモリ上のデータ転送",
+          "url": "https://www.youtube.com/watch?v=KRjz_j_G_g8&list=PLG6PepT_DSdzuIGWkbUiiRtNQC7VnL-fE",
+          "grouped": false,
+          "priority": 2
+        },
+        "9": {
+          "id": "QfA4Xb7mNJg",
+          "title": "【令和６年春 応用情報技術者試験】午前　問９｜量子コンピュータ",
+          "url": "https://www.youtube.com/watch?v=QfA4Xb7mNJg&list=PLG6PepT_DSdzuIGWkbUiiRtNQC7VnL-fE",
+          "grouped": false,
+          "priority": 2
+        },
+        "10": {
+          "id": "rww1mK06KjY",
+          "title": "【令和６年春 応用情報技術者試験】午前　問１０｜主記憶",
+          "url": "https://www.youtube.com/watch?v=rww1mK06KjY&list=PLG6PepT_DSdzuIGWkbUiiRtNQC7VnL-fE",
+          "grouped": false,
+          "priority": 2
+        },
+        "11": {
+          "id": "W2IwdKHsdBs",
+          "title": "【令和６年春 応用情報技術者試験】午前　問１１｜主記憶への時間",
+          "url": "https://www.youtube.com/watch?v=W2IwdKHsdBs&list=PLG6PepT_DSdzuIGWkbUiiRtNQC7VnL-fE",
+          "grouped": false,
+          "priority": 2
+        },
+        "12": {
+          "id": "z139vdxbuo4",
+          "title": "【令和６年春 応用情報技術者試験】午前　問１２｜システムの信頼性設計",
+          "url": "https://www.youtube.com/watch?v=z139vdxbuo4&list=PLG6PepT_DSdzuIGWkbUiiRtNQC7VnL-fE",
+          "grouped": false,
+          "priority": 2
+        },
+        "13": {
+          "id": "5I_pczNNJZQ",
+          "title": "【令和６年春 応用情報技術者試験】午前　問１３｜オブジェクトストレージ",
+          "url": "https://www.youtube.com/watch?v=5I_pczNNJZQ&list=PLG6PepT_DSdzuIGWkbUiiRtNQC7VnL-fE",
+          "grouped": false,
+          "priority": 2
+        },
+        "14": {
+          "id": "Mm2iHmVY4bw",
+          "title": "【令和６年春 応用情報技術者試験】午前　問１４｜マルチプロセッサ",
+          "url": "https://www.youtube.com/watch?v=Mm2iHmVY4bw&list=PLG6PepT_DSdzuIGWkbUiiRtNQC7VnL-fE",
+          "grouped": false,
+          "priority": 2
+        },
+        "15": {
+          "id": "2NFN3njBagc",
+          "title": "【令和６年春 応用情報技術者試験】午前　問１５｜性能評価",
+          "url": "https://www.youtube.com/watch?v=2NFN3njBagc&list=PLG6PepT_DSdzuIGWkbUiiRtNQC7VnL-fE",
+          "grouped": false,
+          "priority": 2
+        },
+        "16": {
+          "id": "XMNubfbz8Ec",
+          "title": "【令和６年春 応用情報技術者試験】午前　問１６｜ノンプリエンプティブ方式",
+          "url": "https://www.youtube.com/watch?v=XMNubfbz8Ec&list=PLG6PepT_DSdzuIGWkbUiiRtNQC7VnL-fE",
+          "grouped": false,
+          "priority": 2
+        },
+        "17": {
+          "id": "M1Nga1UP36M",
+          "title": "【令和６年春 応用情報技術者試験】午前　問１７｜デッドロック",
+          "url": "https://www.youtube.com/watch?v=M1Nga1UP36M&list=PLG6PepT_DSdzuIGWkbUiiRtNQC7VnL-fE",
+          "grouped": false,
+          "priority": 2
+        },
+        "18": {
+          "id": "quNQLq3J1qU",
+          "title": "【令和６年春 応用情報技術者試験】午前　問１８｜タスク処理時間",
+          "url": "https://www.youtube.com/watch?v=quNQLq3J1qU&list=PLG6PepT_DSdzuIGWkbUiiRtNQC7VnL-fE",
+          "grouped": false,
+          "priority": 2
+        },
+        "19": {
+          "id": "2ym_zdQcNkc",
+          "title": "【令和６年春 応用情報技術者試験】午前　問１９│情報収集ツール",
+          "url": "https://www.youtube.com/watch?v=2ym_zdQcNkc&list=PLG6PepT_DSdzuIGWkbUiiRtNQC7VnL-fE",
+          "grouped": false,
+          "priority": 2
+        },
+        "20": {
+          "id": "-pOSHOEX19o",
+          "title": "【令和６年春 応用情報技術者試験】午前　問２０│インバータ",
+          "url": "https://www.youtube.com/watch?v=-pOSHOEX19o&list=PLG6PepT_DSdzuIGWkbUiiRtNQC7VnL-fE",
+          "grouped": false,
+          "priority": 2
+        },
+        "21": {
+          "id": "ipbW4zedRwU",
+          "title": "【令和６年春 応用情報技術者試験】午前　問２１│論理回路とタイムチャート",
+          "url": "https://www.youtube.com/watch?v=ipbW4zedRwU&list=PLG6PepT_DSdzuIGWkbUiiRtNQC7VnL-fE",
+          "grouped": false,
+          "priority": 2
+        },
+        "22": {
+          "id": "6BDO7pBOhYI",
+          "title": "【令和６年春 応用情報技術者試験】午前　問２２│メモリのアドレスの先頭",
+          "url": "https://www.youtube.com/watch?v=6BDO7pBOhYI&list=PLG6PepT_DSdzuIGWkbUiiRtNQC7VnL-fE",
+          "grouped": false,
+          "priority": 2
+        },
+        "23": {
+          "id": "T8oA2sBmbJk",
+          "title": "【令和６年春 応用情報技術者試験】午前　問２３│直流給電",
+          "url": "https://www.youtube.com/watch?v=T8oA2sBmbJk&list=PLG6PepT_DSdzuIGWkbUiiRtNQC7VnL-fE",
+          "grouped": false,
+          "priority": 2
+        },
+        "24": {
+          "id": "Q8QZdDeUeaw",
+          "title": "【令和６年春 応用情報技術者試験】午前　問２４│アウトラインフォント",
+          "url": "https://www.youtube.com/watch?v=Q8QZdDeUeaw&list=PLG6PepT_DSdzuIGWkbUiiRtNQC7VnL-fE",
+          "grouped": false,
+          "priority": 2
+        },
+        "25": {
+          "id": "kIOtUS7H4g0",
+          "title": "【令和６年春 応用情報技術者試験】午前　問２５│ストアドプロシージャ",
+          "url": "https://www.youtube.com/watch?v=kIOtUS7H4g0&list=PLG6PepT_DSdzuIGWkbUiiRtNQC7VnL-fE",
+          "grouped": false,
+          "priority": 2
+        },
+        "26": {
+          "id": "lrJwaNV936g",
+          "title": "【令和６年春 応用情報技術者試験】午前　問２６│SQL文",
+          "url": "https://www.youtube.com/watch?v=lrJwaNV936g&list=PLG6PepT_DSdzuIGWkbUiiRtNQC7VnL-fE",
+          "grouped": false,
+          "priority": 2
+        },
+        "27": {
+          "id": "5A8WzZtzxaM",
+          "title": "【令和６年春 応用情報技術者試験】午前　問２７│システム障害",
+          "url": "https://www.youtube.com/watch?v=5A8WzZtzxaM&list=PLG6PepT_DSdzuIGWkbUiiRtNQC7VnL-fE",
+          "grouped": false,
+          "priority": 2
+        },
+        "28": {
+          "id": "0_SeuI8Y8y0",
+          "title": "【令和６年春 応用情報技術者試験】午前　問２８│スタースキーマ",
+          "url": "https://www.youtube.com/watch?v=0_SeuI8Y8y0&list=PLG6PepT_DSdzuIGWkbUiiRtNQC7VnL-fE",
+          "grouped": false,
+          "priority": 2
+        },
+        "29": {
+          "id": "2M6N8b6xI0I",
+          "title": "【令和６年春 応用情報技術者試験】午前　問２９│NoSQLに分類されるデータベース",
+          "url": "https://www.youtube.com/watch?v=2M6N8b6xI0I&list=PLG6PepT_DSdzuIGWkbUiiRtNQC7VnL-fE",
+          "grouped": false,
+          "priority": 2
+        },
+        "30": {
+          "id": "EEd0Dd15r80",
+          "title": "【令和６年春 応用情報技術者試験】午前　問３０│CSMA/CD方式",
+          "url": "https://www.youtube.com/watch?v=EEd0Dd15r80&list=PLG6PepT_DSdzuIGWkbUiiRtNQC7VnL-fE",
+          "grouped": false,
+          "priority": 2
+        },
+        "31": {
+          "id": "tvFlZ_9GK_Q",
+          "title": "【令和６年春 応用情報技術者試験】午前　問３１│IPアドレス",
+          "url": "https://www.youtube.com/watch?v=tvFlZ_9GK_Q&list=PLG6PepT_DSdzuIGWkbUiiRtNQC7VnL-fE",
+          "grouped": false,
+          "priority": 2
+        },
+        "32": {
+          "id": "kCdlWNQPZO4",
+          "title": "【令和６年春 応用情報技術者試験】午前　問３２│プロトコル",
+          "url": "https://www.youtube.com/watch?v=kCdlWNQPZO4&list=PLG6PepT_DSdzuIGWkbUiiRtNQC7VnL-fE",
+          "grouped": false,
+          "priority": 2
+        },
+        "33": {
+          "id": "O9GB9g6Q88o",
+          "title": "【令和６年春 応用情報技術者試験】午前　問３３│パケットの個数の期待値",
+          "url": "https://www.youtube.com/watch?v=O9GB9g6Q88o&list=PLG6PepT_DSdzuIGWkbUiiRtNQC7VnL-fE",
+          "grouped": false,
+          "priority": 2
+        },
+        "34": {
+          "id": "06cdp4Zymec",
+          "title": "【令和６年春 応用情報技術者試験】午前　問３４│OpenFlowを使ったSDN",
+          "url": "https://www.youtube.com/watch?v=06cdp4Zymec&list=PLG6PepT_DSdzuIGWkbUiiRtNQC7VnL-fE",
+          "grouped": false,
+          "priority": 2
+        },
+        "35": {
+          "id": "locaK7JkxYM",
+          "title": "【令和６年春 応用情報技術者試験】午前　問３５│3Dセキュア2.0",
+          "url": "https://www.youtube.com/watch?v=locaK7JkxYM&list=PLG6PepT_DSdzuIGWkbUiiRtNQC7VnL-fE",
+          "grouped": false,
+          "priority": 2
+        },
+        "36": {
+          "id": "12WZQo01pBU",
+          "title": "【令和６年春 応用情報技術者試験】午前　問３６│DNSキャッシュポイズニング攻撃",
+          "url": "https://www.youtube.com/watch?v=12WZQo01pBU&list=PLG6PepT_DSdzuIGWkbUiiRtNQC7VnL-fE",
+          "grouped": false,
+          "priority": 2
+        },
+        "37": {
+          "id": "oVEnXroN4Ac",
+          "title": "【令和６年春 応用情報技術者試験】午前　問３７│DNSSEC",
+          "url": "https://www.youtube.com/watch?v=oVEnXroN4Ac&list=PLG6PepT_DSdzuIGWkbUiiRtNQC7VnL-fE",
+          "grouped": false,
+          "priority": 2
+        },
+        "38": {
+          "id": "9aCFCZzN3gE",
+          "title": "【令和６年春 応用情報技術者試験】午前　問３８│公開鍵暗号方式",
+          "url": "https://www.youtube.com/watch?v=9aCFCZzN3gE&list=PLG6PepT_DSdzuIGWkbUiiRtNQC7VnL-fE",
+          "grouped": false,
+          "priority": 2
+        },
+        "39": {
+          "id": "Y8Sajk2qoPE",
+          "title": "【令和６年春 応用情報技術者試験】午前　問３９│脆弱性に起因するリスク",
+          "url": "https://www.youtube.com/watch?v=Y8Sajk2qoPE&list=PLG6PepT_DSdzuIGWkbUiiRtNQC7VnL-fE",
+          "grouped": false,
+          "priority": 2
+        },
+        "40": {
+          "id": "mMNHcpfx4S8",
+          "title": "【令和６年春 応用情報技術者試験】午前　問４０│JIS Q 31000:2019",
+          "url": "https://www.youtube.com/watch?v=mMNHcpfx4S8&list=PLG6PepT_DSdzuIGWkbUiiRtNQC7VnL-fE",
+          "grouped": false,
+          "priority": 2
+        },
+        "41": {
+          "id": "9otmqMY0_Tw",
+          "title": "【令和６年春 応用情報技術者試験】午前　問４１│WAF",
+          "url": "https://www.youtube.com/watch?v=9otmqMY0_Tw&list=PLG6PepT_DSdzuIGWkbUiiRtNQC7VnL-fE",
+          "grouped": false,
+          "priority": 2
+        },
+        "42": {
+          "id": "eiWmhx1XPB8",
+          "title": "【令和６年春 応用情報技術者試験】午前　問４２│ネットワーク層で暗号化",
+          "url": "https://www.youtube.com/watch?v=eiWmhx1XPB8&list=PLG6PepT_DSdzuIGWkbUiiRtNQC7VnL-fE",
+          "grouped": false,
+          "priority": 2
+        },
+        "43": {
+          "id": "FAft4trADBU",
+          "title": "【令和６年春 応用情報技術者試験】午前　問４３│SPF",
+          "url": "https://www.youtube.com/watch?v=FAft4trADBU&list=PLG6PepT_DSdzuIGWkbUiiRtNQC7VnL-fE",
+          "grouped": false,
+          "priority": 2
+        },
+        "44": {
+          "id": "d6dYaq7S2Nk",
+          "title": "【令和６年春 応用情報技術者試験】午前　問４４│ICカードの耐タンパ性",
+          "url": "https://www.youtube.com/watch?v=d6dYaq7S2Nk&list=PLG6PepT_DSdzuIGWkbUiiRtNQC7VnL-fE",
+          "grouped": false,
+          "priority": 2
+        },
+        "45": {
+          "id": "QQtmLHUS2G8",
+          "title": "【令和６年春 応用情報技術者試験】午前　問４５│オブジェクト指向",
+          "url": "https://www.youtube.com/watch?v=QQtmLHUS2G8&list=PLG6PepT_DSdzuIGWkbUiiRtNQC7VnL-fE",
+          "grouped": false,
+          "priority": 2
+        },
+        "46": {
+          "id": "Wu03PjxBdAE",
+          "title": "【令和６年春 応用情報技術者試験】午前　問４６│モジュール結合度",
+          "url": "https://www.youtube.com/watch?v=Wu03PjxBdAE&list=PLG6PepT_DSdzuIGWkbUiiRtNQC7VnL-fE",
+          "grouped": false,
+          "priority": 2
+        },
+        "47": {
+          "id": "DbdEAzpMsr8",
+          "title": "【令和６年春 応用情報技術者試験】午前　問４７│ゴンペルツ曲線",
+          "url": "https://www.youtube.com/watch?v=DbdEAzpMsr8&list=PLG6PepT_DSdzuIGWkbUiiRtNQC7VnL-fE",
+          "grouped": false,
+          "priority": 2
+        },
+        "48": {
+          "id": "8Nn3twMp7XU",
+          "title": "【令和６年春 応用情報技術者試験】午前　問４８│リーンソフトウェア開発",
+          "url": "https://www.youtube.com/watch?v=8Nn3twMp7XU&list=PLG6PepT_DSdzuIGWkbUiiRtNQC7VnL-fE",
+          "grouped": false,
+          "priority": 2
+        },
+        "49": {
+          "id": "K9rEwkuvK7w",
+          "title": "【令和６年春 応用情報技術者試験】午前　問４９│JIS X 33002:2017",
+          "url": "https://www.youtube.com/watch?v=K9rEwkuvK7w&list=PLG6PepT_DSdzuIGWkbUiiRtNQC7VnL-fE",
+          "grouped": false,
+          "priority": 2
+        },
+        "50": {
+          "id": "8xQOc7FiJgE",
+          "title": "【令和６年春 応用情報技術者試験】午前　問５０│ドキュメンテーションジェネレーター",
+          "url": "https://www.youtube.com/watch?v=8xQOc7FiJgE&list=PLG6PepT_DSdzuIGWkbUiiRtNQC7VnL-fE",
+          "grouped": false,
+          "priority": 2
+        },
+        "51": {
+          "id": "0jy2Nj1LjGo",
+          "title": "【令和６年春 応用情報技術者試験】午前　問５１│EVM",
+          "url": "https://www.youtube.com/watch?v=0jy2Nj1LjGo&list=PLG6PepT_DSdzuIGWkbUiiRtNQC7VnL-fE",
+          "grouped": false,
+          "priority": 2
+        },
+        "52": {
+          "id": "NTwTgwPezxw",
+          "title": "【令和６年春 応用情報技術者試験】午前　問５２│アローダイアグラム",
+          "url": "https://www.youtube.com/watch?v=NTwTgwPezxw&list=PLG6PepT_DSdzuIGWkbUiiRtNQC7VnL-fE",
+          "grouped": false,
+          "priority": 2
+        },
+        "53": {
+          "id": "S7SqlCKQJ0k",
+          "title": "【令和６年春 応用情報技術者試験】午前　問５３│JIS Q 21500:2018",
+          "url": "https://www.youtube.com/watch?v=S7SqlCKQJ0k&list=PLG6PepT_DSdzuIGWkbUiiRtNQC7VnL-fE",
+          "grouped": false,
+          "priority": 2
+        },
+        "54": {
+          "id": "ir6y0n5yadM",
+          "title": "【令和６年春 応用情報技術者試験】午前　問５４│期待金額価値",
+          "url": "https://www.youtube.com/watch?v=ir6y0n5yadM&list=PLG6PepT_DSdzuIGWkbUiiRtNQC7VnL-fE",
+          "grouped": false,
+          "priority": 2
+        },
+        "55": {
+          "id": "Cn3YNqQCNUI",
+          "title": "【令和６年春 応用情報技術者試験】午前　問５５│SaaSによる新規サービスの課金方式",
+          "url": "https://www.youtube.com/watch?v=Cn3YNqQCNUI&list=PLG6PepT_DSdzuIGWkbUiiRtNQC7VnL-fE",
+          "grouped": false,
+          "priority": 2
+        },
+        "56": {
+          "id": "50Bitdx_2uU",
+          "title": "【令和６年春 応用情報技術者試験】午前　問５６│サービスレベル管理の活動",
+          "url": "https://www.youtube.com/watch?v=50Bitdx_2uU&list=PLG6PepT_DSdzuIGWkbUiiRtNQC7VnL-fE",
+          "grouped": false,
+          "priority": 2
+        },
+        "57": {
+          "id": "U7sSD_q_4AE",
+          "title": "【令和６年春 応用情報技術者試験】午前　問５７│GHGプロトコル",
+          "url": "https://www.youtube.com/watch?v=U7sSD_q_4AE&list=PLG6PepT_DSdzuIGWkbUiiRtNQC7VnL-fE",
+          "grouped": false,
+          "priority": 2
+        },
+        "58": {
+          "id": "Levhj4F2kcs",
+          "title": "【令和６年春 応用情報技術者試験】午前　問５８│監査調書",
+          "url": "https://www.youtube.com/watch?v=Levhj4F2kcs&list=PLG6PepT_DSdzuIGWkbUiiRtNQC7VnL-fE",
+          "grouped": false,
+          "priority": 2
+        },
+        "59": {
+          "id": "tz1Bh9H25uw",
+          "title": "【令和６年春 応用情報技術者試験】午前　問５９│システム監査",
+          "url": "https://www.youtube.com/watch?v=tz1Bh9H25uw&list=PLG6PepT_DSdzuIGWkbUiiRtNQC7VnL-fE",
+          "grouped": false,
+          "priority": 2
+        },
+        "60": {
+          "id": "jsLPBeilbMA",
+          "title": "【令和６年春 応用情報技術者試験】午前　問６０│ITに係る業務処理統制",
+          "url": "https://www.youtube.com/watch?v=jsLPBeilbMA&list=PLG6PepT_DSdzuIGWkbUiiRtNQC7VnL-fE",
+          "grouped": false,
+          "priority": 2
+        },
+        "61": {
+          "id": "bwVsqxahxXA",
+          "title": "【令和６年春 応用情報技術者試験】午前　問６１│BRM",
+          "url": "https://www.youtube.com/watch?v=bwVsqxahxXA&list=PLG6PepT_DSdzuIGWkbUiiRtNQC7VnL-fE",
+          "grouped": false,
+          "priority": 2
+        },
+        "62": {
+          "id": "abo1c9nEL2I",
+          "title": "【令和６年春 応用情報技術者試験】午前　問６２│デジタルガバナンス・コード2.0",
+          "url": "https://www.youtube.com/watch?v=abo1c9nEL2I&list=PLG6PepT_DSdzuIGWkbUiiRtNQC7VnL-fE",
+          "grouped": false,
+          "priority": 2
+        },
+        "63": {
+          "id": "6hsTG-bJZLc",
+          "title": "【令和６年春 応用情報技術者試験】午前　問６３│SOA",
+          "url": "https://www.youtube.com/watch?v=6hsTG-bJZLc&list=PLG6PepT_DSdzuIGWkbUiiRtNQC7VnL-fE",
+          "grouped": false,
+          "priority": 2
+        },
+        "64": {
+          "id": "wpTQSZBuvSc",
+          "title": "【令和６年春 応用情報技術者試験】午前　問６４│PBP",
+          "url": "https://www.youtube.com/watch?v=wpTQSZBuvSc&list=PLG6PepT_DSdzuIGWkbUiiRtNQC7VnL-fE",
+          "grouped": false,
+          "priority": 2
+        },
+        "65": {
+          "id": "Q1mSwdsu6qI",
+          "title": "【令和６年春 応用情報技術者試験】午前　問６５│EMS",
+          "url": "https://www.youtube.com/watch?v=Q1mSwdsu6qI&list=PLG6PepT_DSdzuIGWkbUiiRtNQC7VnL-fE",
+          "grouped": false,
+          "priority": 2
+        },
+        "66": {
+          "id": "czxgL-zwSnc",
+          "title": "【令和６年春 応用情報技術者試験】午前　問６６│コンティンジェンシープラン",
+          "url": "https://www.youtube.com/watch?v=czxgL-zwSnc&list=PLG6PepT_DSdzuIGWkbUiiRtNQC7VnL-fE",
+          "grouped": false,
+          "priority": 2
+        },
+        "67": {
+          "id": "mebSq6A7Fak",
+          "title": "【令和６年春 応用情報技術者試験】午前　問６７│PPM",
+          "url": "https://www.youtube.com/watch?v=mebSq6A7Fak&list=PLG6PepT_DSdzuIGWkbUiiRtNQC7VnL-fE",
+          "grouped": false,
+          "priority": 2
+        },
+        "68": {
+          "id": "hKKdYhIHgh0",
+          "title": "【令和６年春 応用情報技術者試験】午前　問６８│フレームワーク",
+          "url": "https://www.youtube.com/watch?v=hKKdYhIHgh0&list=PLG6PepT_DSdzuIGWkbUiiRtNQC7VnL-fE",
+          "grouped": false,
+          "priority": 2
+        },
+        "69": {
+          "id": "ConeTwIjZew",
+          "title": "【令和６年春 応用情報技術者試験】午前　問６９│フィージビリティスタディ",
+          "url": "https://www.youtube.com/watch?v=ConeTwIjZew&list=PLG6PepT_DSdzuIGWkbUiiRtNQC7VnL-fE",
+          "grouped": false,
+          "priority": 2
+        },
+        "70": {
+          "id": "PaafJTrvvtY",
+          "title": "【令和６年春 応用情報技術者試験】午前　問７０│IoT活用におけるデジタルツイン",
+          "url": "https://www.youtube.com/watch?v=PaafJTrvvtY&list=PLG6PepT_DSdzuIGWkbUiiRtNQC7VnL-fE",
+          "grouped": false,
+          "priority": 2
+        },
+        "71": {
+          "id": "FByKSt7pb_E",
+          "title": "【令和６年春 応用情報技術者試験】午前　問７１│ マスカスタマイゼーション",
+          "url": "https://www.youtube.com/watch?v=FByKSt7pb_E&list=PLG6PepT_DSdzuIGWkbUiiRtNQC7VnL-fE",
+          "grouped": false,
+          "priority": 2
+        },
+        "72": {
+          "id": "W3N0pcc23Zo",
+          "title": "【令和６年春 応用情報技術者試験】午前　問７２│エッジコンピューティング",
+          "url": "https://www.youtube.com/watch?v=W3N0pcc23Zo&list=PLG6PepT_DSdzuIGWkbUiiRtNQC7VnL-fE",
+          "grouped": false,
+          "priority": 2
+        },
+        "73": {
+          "id": "T0XKTbg7X0o",
+          "title": "【令和６年春 応用情報技術者試験】午前　問７３│ゲーム理論におけるナッシュ均衡",
+          "url": "https://www.youtube.com/watch?v=T0XKTbg7X0o&list=PLG6PepT_DSdzuIGWkbUiiRtNQC7VnL-fE",
+          "grouped": false,
+          "priority": 2
+        },
+        "74": {
+          "id": "spIEuQQYOjc",
+          "title": "【令和６年春 応用情報技術者試験】午前　問７４│因果関係図",
+          "url": "https://www.youtube.com/watch?v=spIEuQQYOjc&list=PLG6PepT_DSdzuIGWkbUiiRtNQC7VnL-fE",
+          "grouped": false,
+          "priority": 2
+        },
+        "75": {
+          "id": "4fBItR14VSo",
+          "title": "【令和６年春 応用情報技術者試験】午前　問７５│最大利益",
+          "url": "https://www.youtube.com/watch?v=4fBItR14VSo&list=PLG6PepT_DSdzuIGWkbUiiRtNQC7VnL-fE",
+          "grouped": false,
+          "priority": 2
+        },
+        "76": {
+          "id": "_mKlvRZQ7is",
+          "title": "【令和６年春 応用情報技術者試験】午前　問７６│最低販売数",
+          "url": "https://www.youtube.com/watch?v=_mKlvRZQ7is&list=PLG6PepT_DSdzuIGWkbUiiRtNQC7VnL-fE",
+          "grouped": false,
+          "priority": 2
+        },
+        "77": {
+          "id": "ds3JWrbkOEk",
+          "title": "【令和６年春 応用情報技術者試験】午前　問７７│損益分岐点売上高",
+          "url": "https://www.youtube.com/watch?v=ds3JWrbkOEk&list=PLG6PepT_DSdzuIGWkbUiiRtNQC7VnL-fE",
+          "grouped": false,
+          "priority": 2
+        },
+        "78": {
+          "id": "hGjjUqU7M6I",
+          "title": "【令和６年春 応用情報技術者試験】午前　問７８│特許法",
+          "url": "https://www.youtube.com/watch?v=hGjjUqU7M6I&list=PLG6PepT_DSdzuIGWkbUiiRtNQC7VnL-fE",
+          "grouped": false,
+          "priority": 2
+        },
+        "79": {
+          "id": "6Vx1RZXy9mU",
+          "title": "【令和６年春 応用情報技術者試験】午前　問７９│不正競争防止法",
+          "url": "https://www.youtube.com/watch?v=6Vx1RZXy9mU&list=PLG6PepT_DSdzuIGWkbUiiRtNQC7VnL-fE",
+          "grouped": false,
+          "priority": 2
+        },
+        "80": {
+          "id": "87osNKLcPMY",
+          "title": "【令和６年春 応用情報技術者試験】午前　問８０│要配慮個人情報",
+          "url": "https://www.youtube.com/watch?v=87osNKLcPMY&list=PLG6PepT_DSdzuIGWkbUiiRtNQC7VnL-fE",
+          "grouped": false,
+          "priority": 2
         }
-      ],
+      },
+      "afternoon": {
+        "1": {
+          "id": "gwL8CIRmlNQ",
+          "title": "【令和６年春 応用情報技術者試験】午後　問１　情報セキュリティ",
+          "url": "https://www.youtube.com/watch?v=gwL8CIRmlNQ&list=PLG6PepT_DSdwjoN1-Ng_bxF7MA4_t2ePU",
+          "grouped": false,
+          "priority": 2
+        },
+        "2": {
+          "id": "PPRuPJZ1Mqg",
+          "title": "【令和６年春 応用情報技術者試験】午後　問２　経営戦略",
+          "url": "https://www.youtube.com/watch?v=PPRuPJZ1Mqg&list=PLG6PepT_DSdwjoN1-Ng_bxF7MA4_t2ePU",
+          "grouped": false,
+          "priority": 2
+        },
+        "3": {
+          "id": "PTKuWQMxd1s",
+          "title": "【令和６年春 応用情報技術者試験】午後　問３　プログラミング",
+          "url": "https://www.youtube.com/watch?v=PTKuWQMxd1s&list=PLG6PepT_DSdwjoN1-Ng_bxF7MA4_t2ePU",
+          "grouped": false,
+          "priority": 2
+        },
+        "4": {
+          "id": "Ogz_Pd6J8ek",
+          "title": "【令和６年春 応用情報技術者試験】午後　問４　システムアーキテクチャ",
+          "url": "https://www.youtube.com/watch?v=Ogz_Pd6J8ek&list=PLG6PepT_DSdwjoN1-Ng_bxF7MA4_t2ePU",
+          "grouped": false,
+          "priority": 2
+        },
+        "5": {
+          "id": "c8X4we970Rg",
+          "title": "【令和６年春 応用情報技術者試験】午後　問５　ネットワーク",
+          "url": "https://www.youtube.com/watch?v=c8X4we970Rg&list=PLG6PepT_DSdwjoN1-Ng_bxF7MA4_t2ePU",
+          "grouped": false,
+          "priority": 2
+        },
+        "6": {
+          "id": "E_BSL0CoGIw",
+          "title": "【令和６年春 応用情報技術者試験】午後　問６　データベース",
+          "url": "https://www.youtube.com/watch?v=E_BSL0CoGIw&list=PLG6PepT_DSdwjoN1-Ng_bxF7MA4_t2ePU",
+          "grouped": false,
+          "priority": 2
+        },
+        "7": {
+          "id": "_HBdrTA9rkI",
+          "title": "【令和６年春 応用情報技術者試験】午後　問７　組み込みシステム",
+          "url": "https://www.youtube.com/watch?v=_HBdrTA9rkI&list=PLG6PepT_DSdwjoN1-Ng_bxF7MA4_t2ePU",
+          "grouped": false,
+          "priority": 2
+        },
+        "8": {
+          "id": "wWAgY_YFuak",
+          "title": "【令和６年春 応用情報技術者試験】午後　問８　情報システム開発",
+          "url": "https://www.youtube.com/watch?v=wWAgY_YFuak&list=PLG6PepT_DSdwjoN1-Ng_bxF7MA4_t2ePU",
+          "grouped": false,
+          "priority": 2
+        },
+        "9": {
+          "id": "9BAFLc6lM0Y",
+          "title": "【令和６年春 応用情報技術者試験】午後　問９　プロジェクトマネジメント",
+          "url": "https://www.youtube.com/watch?v=9BAFLc6lM0Y&list=PLG6PepT_DSdwjoN1-Ng_bxF7MA4_t2ePU",
+          "grouped": false,
+          "priority": 2
+        },
+        "10": {
+          "id": "_PFVqJn7Kco",
+          "title": "【令和６年春 応用情報技術者試験】午後　問１０　サービスマネジメント",
+          "url": "https://www.youtube.com/watch?v=_PFVqJn7Kco&list=PLG6PepT_DSdwjoN1-Ng_bxF7MA4_t2ePU",
+          "grouped": false,
+          "priority": 2
+        },
+        "11": {
+          "id": "g02hskGNh8o",
+          "title": "【令和６年春 応用情報技術者試験】午後　問１１　システム監査",
+          "url": "https://www.youtube.com/watch?v=g02hskGNh8o&list=PLG6PepT_DSdwjoN1-Ng_bxF7MA4_t2ePU",
+          "grouped": false,
+          "priority": 2
+        }
+      },
       "summaries": [
         {
+          "id": "THVKj37Hegw",
           "title": "【令和６年春 】応用情報技術者　午前の解答速報＆（少し午後）",
           "url": "https://www.youtube.com/watch?v=THVKj37Hegw&list=PLG6PepT_DSdzMFZ2fcMHOBeb3oodhqbQV"
         }
@@ -297,21 +1729,1315 @@
       "year": 2023,
       "label": "令和5年秋",
       "season": "秋",
-      "morning": {},
-      "afternoon": {},
-      "playlists": [
-        {
-          "id": "PLG6PepT_DSdz58YbVkKy05RhAxvmQzNWq",
-          "title": "令和５年秋　応用情報技術者試験",
-          "url": "https://www.youtube.com/playlist?list=PLG6PepT_DSdz58YbVkKy05RhAxvmQzNWq"
+      "morning": {
+        "1": {
+          "id": "0zZyWmElqPM",
+          "title": "【令和５年秋 応用情報技術者試験】 午前　問１",
+          "url": "https://www.youtube.com/watch?v=0zZyWmElqPM&list=PLG6PepT_DSdwUwg3fGGb6UH9wpV2-MCAT",
+          "grouped": false,
+          "priority": 2
+        },
+        "2": {
+          "id": "s_LydHAYWkE",
+          "title": "【令和５年秋 応用情報技術者試験】 午前　問２",
+          "url": "https://www.youtube.com/watch?v=s_LydHAYWkE&list=PLG6PepT_DSdwUwg3fGGb6UH9wpV2-MCAT",
+          "grouped": false,
+          "priority": 2
+        },
+        "3": {
+          "id": "9tG-nY_SCgw",
+          "title": "【令和５年秋 応用情報技術者試験】 午前　問３",
+          "url": "https://www.youtube.com/watch?v=9tG-nY_SCgw&list=PLG6PepT_DSdwUwg3fGGb6UH9wpV2-MCAT",
+          "grouped": false,
+          "priority": 2
+        },
+        "4": {
+          "id": "cNI9b2isuV4",
+          "title": "【令和５年秋 応用情報技術者試験】 午前　問４",
+          "url": "https://www.youtube.com/watch?v=cNI9b2isuV4&list=PLG6PepT_DSdwUwg3fGGb6UH9wpV2-MCAT",
+          "grouped": false,
+          "priority": 2
+        },
+        "5": {
+          "id": "rkGSwXxdaDc",
+          "title": "【令和５年秋 応用情報技術者試験】 午前　問５",
+          "url": "https://www.youtube.com/watch?v=rkGSwXxdaDc&list=PLG6PepT_DSdwUwg3fGGb6UH9wpV2-MCAT",
+          "grouped": false,
+          "priority": 2
+        },
+        "6": {
+          "id": "ioLbNyVgPQE",
+          "title": "【令和５年秋 応用情報技術者試験】 午前　問６",
+          "url": "https://www.youtube.com/watch?v=ioLbNyVgPQE&list=PLG6PepT_DSdwUwg3fGGb6UH9wpV2-MCAT",
+          "grouped": false,
+          "priority": 2
+        },
+        "7": {
+          "id": "45apbIJVlgo",
+          "title": "【令和５年秋 応用情報技術者試験】 午前　問７",
+          "url": "https://www.youtube.com/watch?v=45apbIJVlgo&list=PLG6PepT_DSdwUwg3fGGb6UH9wpV2-MCAT",
+          "grouped": false,
+          "priority": 2
+        },
+        "8": {
+          "id": "rvAdJon4MjM",
+          "title": "【令和５年秋 応用情報技術者試験】 午前　問８",
+          "url": "https://www.youtube.com/watch?v=rvAdJon4MjM&list=PLG6PepT_DSdwUwg3fGGb6UH9wpV2-MCAT",
+          "grouped": false,
+          "priority": 2
+        },
+        "9": {
+          "id": "d6-N6zAV0tU",
+          "title": "【令和５年秋 応用情報技術者試験】 午前　問９",
+          "url": "https://www.youtube.com/watch?v=d6-N6zAV0tU&list=PLG6PepT_DSdwUwg3fGGb6UH9wpV2-MCAT",
+          "grouped": false,
+          "priority": 2
+        },
+        "10": {
+          "id": "PjRaHhaTHe8",
+          "title": "【令和５年秋 応用情報技術者試験】 午前　問１０",
+          "url": "https://www.youtube.com/watch?v=PjRaHhaTHe8&list=PLG6PepT_DSdwUwg3fGGb6UH9wpV2-MCAT",
+          "grouped": false,
+          "priority": 2
+        },
+        "11": {
+          "id": "-FlYv_2YKL8",
+          "title": "【令和５年秋 応用情報技術者試験】 午前　問１１",
+          "url": "https://www.youtube.com/watch?v=-FlYv_2YKL8&list=PLG6PepT_DSdwUwg3fGGb6UH9wpV2-MCAT",
+          "grouped": false,
+          "priority": 2
+        },
+        "12": {
+          "id": "1_Mc3ZtEpy0",
+          "title": "【令和５年秋 応用情報技術者試験】 午前　問１２",
+          "url": "https://www.youtube.com/watch?v=1_Mc3ZtEpy0&list=PLG6PepT_DSdwUwg3fGGb6UH9wpV2-MCAT",
+          "grouped": false,
+          "priority": 2
+        },
+        "13": {
+          "id": "I4G39bTQg4Y",
+          "title": "【令和５年秋 応用情報技術者試験】 午前　問１３",
+          "url": "https://www.youtube.com/watch?v=I4G39bTQg4Y&list=PLG6PepT_DSdwUwg3fGGb6UH9wpV2-MCAT",
+          "grouped": false,
+          "priority": 2
+        },
+        "14": {
+          "id": "t94j-r-xU94",
+          "title": "【令和５年秋 応用情報技術者試験】 午前　問１４",
+          "url": "https://www.youtube.com/watch?v=t94j-r-xU94&list=PLG6PepT_DSdwUwg3fGGb6UH9wpV2-MCAT",
+          "grouped": false,
+          "priority": 2
+        },
+        "15": {
+          "id": "C3gdh3-fNg4",
+          "title": "【令和５年秋 応用情報技術者試験】 午前　問１５",
+          "url": "https://www.youtube.com/watch?v=C3gdh3-fNg4&list=PLG6PepT_DSdwUwg3fGGb6UH9wpV2-MCAT",
+          "grouped": false,
+          "priority": 2
+        },
+        "16": {
+          "id": "eyuQTeUD-JY",
+          "title": "【令和５年秋 応用情報技術者試験】 午前　問１６",
+          "url": "https://www.youtube.com/watch?v=eyuQTeUD-JY&list=PLG6PepT_DSdwUwg3fGGb6UH9wpV2-MCAT",
+          "grouped": false,
+          "priority": 2
+        },
+        "17": {
+          "id": "gtvZuufDBfA",
+          "title": "【令和５年秋 応用情報技術者試験】 午前　問１７",
+          "url": "https://www.youtube.com/watch?v=gtvZuufDBfA&list=PLG6PepT_DSdwUwg3fGGb6UH9wpV2-MCAT",
+          "grouped": false,
+          "priority": 2
+        },
+        "18": {
+          "id": "VORXPMRkRuE",
+          "title": "【令和５年秋 応用情報技術者試験】 午前　問１８",
+          "url": "https://www.youtube.com/watch?v=VORXPMRkRuE&list=PLG6PepT_DSdwUwg3fGGb6UH9wpV2-MCAT",
+          "grouped": false,
+          "priority": 2
+        },
+        "19": {
+          "id": "tSrr11CgcK8",
+          "title": "【令和５年秋 応用情報技術者試験】 午前　問１９",
+          "url": "https://www.youtube.com/watch?v=tSrr11CgcK8&list=PLG6PepT_DSdwUwg3fGGb6UH9wpV2-MCAT",
+          "grouped": false,
+          "priority": 2
+        },
+        "20": {
+          "id": "sWet5dLkSJA",
+          "title": "【令和５年秋 応用情報技術者試験】 午前　問２０",
+          "url": "https://www.youtube.com/watch?v=sWet5dLkSJA&list=PLG6PepT_DSdwUwg3fGGb6UH9wpV2-MCAT",
+          "grouped": false,
+          "priority": 2
+        },
+        "21": {
+          "id": "8aBOOaBXIV0",
+          "title": "【令和５年秋 応用情報技術者試験】 午前　問２１",
+          "url": "https://www.youtube.com/watch?v=8aBOOaBXIV0&list=PLG6PepT_DSdwUwg3fGGb6UH9wpV2-MCAT",
+          "grouped": false,
+          "priority": 2
+        },
+        "22": {
+          "id": "4tit0NHaDWM",
+          "title": "【令和５年秋 応用情報技術者試験】 午前　問２２",
+          "url": "https://www.youtube.com/watch?v=4tit0NHaDWM&list=PLG6PepT_DSdwUwg3fGGb6UH9wpV2-MCAT",
+          "grouped": false,
+          "priority": 2
+        },
+        "23": {
+          "id": "SId3nfU9VSw",
+          "title": "【令和５年秋 応用情報技術者試験】 午前　問２３",
+          "url": "https://www.youtube.com/watch?v=SId3nfU9VSw&list=PLG6PepT_DSdwUwg3fGGb6UH9wpV2-MCAT",
+          "grouped": false,
+          "priority": 2
+        },
+        "24": {
+          "id": "0N63X1ePZZI",
+          "title": "【令和５年秋 応用情報技術者試験】 午前　問２４",
+          "url": "https://www.youtube.com/watch?v=0N63X1ePZZI&list=PLG6PepT_DSdwUwg3fGGb6UH9wpV2-MCAT",
+          "grouped": false,
+          "priority": 2
+        },
+        "25": {
+          "id": "HychXptfQl8",
+          "title": "【令和５年秋 応用情報技術者試験】 午前　問２５",
+          "url": "https://www.youtube.com/watch?v=HychXptfQl8&list=PLG6PepT_DSdwUwg3fGGb6UH9wpV2-MCAT",
+          "grouped": false,
+          "priority": 2
+        },
+        "26": {
+          "id": "rZ8Nws5F7YY",
+          "title": "【令和５年秋 応用情報技術者試験】 午前　問２６",
+          "url": "https://www.youtube.com/watch?v=rZ8Nws5F7YY&list=PLG6PepT_DSdwUwg3fGGb6UH9wpV2-MCAT",
+          "grouped": false,
+          "priority": 2
+        },
+        "27": {
+          "id": "1hK_Z50DVZc",
+          "title": "【令和５年秋 応用情報技術者試験】 午前　問２７",
+          "url": "https://www.youtube.com/watch?v=1hK_Z50DVZc&list=PLG6PepT_DSdwUwg3fGGb6UH9wpV2-MCAT",
+          "grouped": false,
+          "priority": 2
+        },
+        "28": {
+          "id": "Zmvxl9e7qUA",
+          "title": "【令和５年秋 応用情報技術者試験】 午前　問２８",
+          "url": "https://www.youtube.com/watch?v=Zmvxl9e7qUA&list=PLG6PepT_DSdwUwg3fGGb6UH9wpV2-MCAT",
+          "grouped": false,
+          "priority": 2
+        },
+        "29": {
+          "id": "QajD7WN3zdk",
+          "title": "【令和５年秋 応用情報技術者試験】 午前　問２９",
+          "url": "https://www.youtube.com/watch?v=QajD7WN3zdk&list=PLG6PepT_DSdwUwg3fGGb6UH9wpV2-MCAT",
+          "grouped": false,
+          "priority": 2
+        },
+        "30": {
+          "id": "r5JyEZq6zt4",
+          "title": "【令和５年秋 応用情報技術者試験】 午前　問３０",
+          "url": "https://www.youtube.com/watch?v=r5JyEZq6zt4&list=PLG6PepT_DSdwUwg3fGGb6UH9wpV2-MCAT",
+          "grouped": false,
+          "priority": 2
+        },
+        "31": {
+          "id": "t82Ex3rHFFg",
+          "title": "【令和５年秋 応用情報技術者試験】 午前　問３１",
+          "url": "https://www.youtube.com/watch?v=t82Ex3rHFFg&list=PLG6PepT_DSdwUwg3fGGb6UH9wpV2-MCAT",
+          "grouped": false,
+          "priority": 2
+        },
+        "32": {
+          "id": "tfJ50rYjrlQ",
+          "title": "【令和５年秋 応用情報技術者試験】 午前　問３２",
+          "url": "https://www.youtube.com/watch?v=tfJ50rYjrlQ&list=PLG6PepT_DSdwUwg3fGGb6UH9wpV2-MCAT",
+          "grouped": false,
+          "priority": 2
+        },
+        "33": {
+          "id": "MiLc1ykoRt8",
+          "title": "【令和５年秋 応用情報技術者試験】 午前　問３３",
+          "url": "https://www.youtube.com/watch?v=MiLc1ykoRt8&list=PLG6PepT_DSdwUwg3fGGb6UH9wpV2-MCAT",
+          "grouped": false,
+          "priority": 2
+        },
+        "34": {
+          "id": "sKo3Cl6vuAY",
+          "title": "【令和５年秋 応用情報技術者試験】 午前　問３４",
+          "url": "https://www.youtube.com/watch?v=sKo3Cl6vuAY&list=PLG6PepT_DSdwUwg3fGGb6UH9wpV2-MCAT",
+          "grouped": false,
+          "priority": 2
+        },
+        "35": {
+          "id": "fF07micQS6I",
+          "title": "【令和５年秋 応用情報技術者試験】 午前　問３５",
+          "url": "https://www.youtube.com/watch?v=fF07micQS6I&list=PLG6PepT_DSdwUwg3fGGb6UH9wpV2-MCAT",
+          "grouped": false,
+          "priority": 2
+        },
+        "36": {
+          "id": "0gw4xrRXezs",
+          "title": "【令和５年秋 応用情報技術者試験】 午前　問３６",
+          "url": "https://www.youtube.com/watch?v=0gw4xrRXezs&list=PLG6PepT_DSdwUwg3fGGb6UH9wpV2-MCAT",
+          "grouped": false,
+          "priority": 2
+        },
+        "37": {
+          "id": "cJ9_9lhUlFI",
+          "title": "【令和５年秋 応用情報技術者試験】 午前　問３７",
+          "url": "https://www.youtube.com/watch?v=cJ9_9lhUlFI&list=PLG6PepT_DSdwUwg3fGGb6UH9wpV2-MCAT",
+          "grouped": false,
+          "priority": 2
+        },
+        "38": {
+          "id": "H4s2l5KDzPI",
+          "title": "【令和５年秋 応用情報技術者試験】 午前　問３８",
+          "url": "https://www.youtube.com/watch?v=H4s2l5KDzPI&list=PLG6PepT_DSdwUwg3fGGb6UH9wpV2-MCAT",
+          "grouped": false,
+          "priority": 2
+        },
+        "39": {
+          "id": "6iS4fx7GvkU",
+          "title": "【令和５年秋 応用情報技術者試験】 午前　問３９",
+          "url": "https://www.youtube.com/watch?v=6iS4fx7GvkU&list=PLG6PepT_DSdwUwg3fGGb6UH9wpV2-MCAT",
+          "grouped": false,
+          "priority": 2
+        },
+        "40": {
+          "id": "XsewuXPmhm0",
+          "title": "【令和５年秋 応用情報技術者試験】 午前　問４０",
+          "url": "https://www.youtube.com/watch?v=XsewuXPmhm0&list=PLG6PepT_DSdwUwg3fGGb6UH9wpV2-MCAT",
+          "grouped": false,
+          "priority": 2
+        },
+        "41": {
+          "id": "SDgxt7ebEDU",
+          "title": "【令和５年秋 応用情報技術者試験】 午前　問４１",
+          "url": "https://www.youtube.com/watch?v=SDgxt7ebEDU&list=PLG6PepT_DSdwUwg3fGGb6UH9wpV2-MCAT",
+          "grouped": false,
+          "priority": 2
+        },
+        "42": {
+          "id": "Zz3X-_R92ng",
+          "title": "【令和５年秋 応用情報技術者試験】 午前　問４２",
+          "url": "https://www.youtube.com/watch?v=Zz3X-_R92ng&list=PLG6PepT_DSdwUwg3fGGb6UH9wpV2-MCAT",
+          "grouped": false,
+          "priority": 2
+        },
+        "43": {
+          "id": "2sJM5N4GWb8",
+          "title": "【令和５年秋 応用情報技術者試験】 午前　問４３",
+          "url": "https://www.youtube.com/watch?v=2sJM5N4GWb8&list=PLG6PepT_DSdwUwg3fGGb6UH9wpV2-MCAT",
+          "grouped": false,
+          "priority": 2
+        },
+        "44": {
+          "id": "GYLz0tsAUYE",
+          "title": "【令和５年秋 応用情報技術者試験】 午前　問４４",
+          "url": "https://www.youtube.com/watch?v=GYLz0tsAUYE&list=PLG6PepT_DSdwUwg3fGGb6UH9wpV2-MCAT",
+          "grouped": false,
+          "priority": 2
+        },
+        "45": {
+          "id": "2ta-IVVcMrc",
+          "title": "【令和５年秋 応用情報技術者試験】 午前　問４５",
+          "url": "https://www.youtube.com/watch?v=2ta-IVVcMrc&list=PLG6PepT_DSdwUwg3fGGb6UH9wpV2-MCAT",
+          "grouped": false,
+          "priority": 2
+        },
+        "46": {
+          "id": "vUaLSBfBiKE",
+          "title": "【令和５年秋 応用情報技術者試験】 午前　問４６",
+          "url": "https://www.youtube.com/watch?v=vUaLSBfBiKE&list=PLG6PepT_DSdwUwg3fGGb6UH9wpV2-MCAT",
+          "grouped": false,
+          "priority": 2
+        },
+        "47": {
+          "id": "gxFQ644Z53I",
+          "title": "【令和５年秋 応用情報技術者試験】 午前　問４７",
+          "url": "https://www.youtube.com/watch?v=gxFQ644Z53I&list=PLG6PepT_DSdwUwg3fGGb6UH9wpV2-MCAT",
+          "grouped": false,
+          "priority": 2
+        },
+        "48": {
+          "id": "6G6KaQTqvxc",
+          "title": "【令和５年秋 応用情報技術者試験】 午前　問４８",
+          "url": "https://www.youtube.com/watch?v=6G6KaQTqvxc&list=PLG6PepT_DSdwUwg3fGGb6UH9wpV2-MCAT",
+          "grouped": false,
+          "priority": 2
+        },
+        "49": {
+          "id": "B_tNaxzsjqw",
+          "title": "【令和５年秋 応用情報技術者試験】 午前　問４９",
+          "url": "https://www.youtube.com/watch?v=B_tNaxzsjqw&list=PLG6PepT_DSdwUwg3fGGb6UH9wpV2-MCAT",
+          "grouped": false,
+          "priority": 2
+        },
+        "50": {
+          "id": "Y6yuCz4Z2p4",
+          "title": "【令和５年秋 応用情報技術者試験】 午前　問５０",
+          "url": "https://www.youtube.com/watch?v=Y6yuCz4Z2p4&list=PLG6PepT_DSdwUwg3fGGb6UH9wpV2-MCAT",
+          "grouped": false,
+          "priority": 2
+        },
+        "51": {
+          "id": "QWcRwtB1i6k",
+          "title": "【令和５年秋 応用情報技術者試験】 午前　問５１",
+          "url": "https://www.youtube.com/watch?v=QWcRwtB1i6k&list=PLG6PepT_DSdwUwg3fGGb6UH9wpV2-MCAT",
+          "grouped": false,
+          "priority": 2
+        },
+        "52": {
+          "id": "XZnQoitwUBE",
+          "title": "【令和５年秋 応用情報技術者試験】 午前　問５２",
+          "url": "https://www.youtube.com/watch?v=XZnQoitwUBE&list=PLG6PepT_DSdwUwg3fGGb6UH9wpV2-MCAT",
+          "grouped": false,
+          "priority": 2
+        },
+        "53": {
+          "id": "-BQF2B-iA2g",
+          "title": "【令和５年秋 応用情報技術者試験】 午前　問５３",
+          "url": "https://www.youtube.com/watch?v=-BQF2B-iA2g&list=PLG6PepT_DSdwUwg3fGGb6UH9wpV2-MCAT",
+          "grouped": false,
+          "priority": 2
+        },
+        "54": {
+          "id": "SzGeU6GAb48",
+          "title": "【令和５年秋 応用情報技術者試験】 午前　問５４",
+          "url": "https://www.youtube.com/watch?v=SzGeU6GAb48&list=PLG6PepT_DSdwUwg3fGGb6UH9wpV2-MCAT",
+          "grouped": false,
+          "priority": 2
+        },
+        "55": {
+          "id": "qGmnfwCEWRA",
+          "title": "【令和５年秋 応用情報技術者試験】 午前　問５５",
+          "url": "https://www.youtube.com/watch?v=qGmnfwCEWRA&list=PLG6PepT_DSdwUwg3fGGb6UH9wpV2-MCAT",
+          "grouped": false,
+          "priority": 2
+        },
+        "56": {
+          "id": "kNEjctAZSoE",
+          "title": "【令和５年秋 応用情報技術者試験】 午前　問５６",
+          "url": "https://www.youtube.com/watch?v=kNEjctAZSoE&list=PLG6PepT_DSdwUwg3fGGb6UH9wpV2-MCAT",
+          "grouped": false,
+          "priority": 2
+        },
+        "57": {
+          "id": "Ab0prU9W_h0",
+          "title": "【令和５年秋 応用情報技術者試験】 午前　問５７",
+          "url": "https://www.youtube.com/watch?v=Ab0prU9W_h0&list=PLG6PepT_DSdwUwg3fGGb6UH9wpV2-MCAT",
+          "grouped": false,
+          "priority": 2
+        },
+        "58": {
+          "id": "CafUhVF77oY",
+          "title": "【令和５年秋 応用情報技術者試験】 午前　問５８",
+          "url": "https://www.youtube.com/watch?v=CafUhVF77oY&list=PLG6PepT_DSdwUwg3fGGb6UH9wpV2-MCAT",
+          "grouped": false,
+          "priority": 2
+        },
+        "59": {
+          "id": "jjfgIvBelIs",
+          "title": "【令和５年秋 応用情報技術者試験】 午前　問５９",
+          "url": "https://www.youtube.com/watch?v=jjfgIvBelIs&list=PLG6PepT_DSdwUwg3fGGb6UH9wpV2-MCAT",
+          "grouped": false,
+          "priority": 2
+        },
+        "60": {
+          "id": "0y2K1LnKMUs",
+          "title": "【令和５年秋 応用情報技術者試験】 午前　問６０",
+          "url": "https://www.youtube.com/watch?v=0y2K1LnKMUs&list=PLG6PepT_DSdwUwg3fGGb6UH9wpV2-MCAT",
+          "grouped": false,
+          "priority": 2
+        },
+        "61": {
+          "id": "itdsPbMnNts",
+          "title": "【令和５年秋 応用情報技術者試験】 午前　問６１",
+          "url": "https://www.youtube.com/watch?v=itdsPbMnNts&list=PLG6PepT_DSdwUwg3fGGb6UH9wpV2-MCAT",
+          "grouped": false,
+          "priority": 2
+        },
+        "62": {
+          "id": "iHHZxGlKcrM",
+          "title": "【令和５年秋 応用情報技術者試験】 午前　問６２",
+          "url": "https://www.youtube.com/watch?v=iHHZxGlKcrM&list=PLG6PepT_DSdwUwg3fGGb6UH9wpV2-MCAT",
+          "grouped": false,
+          "priority": 2
+        },
+        "63": {
+          "id": "PbbMn5ldDR0",
+          "title": "【令和５年秋 応用情報技術者試験】 午前　問６３",
+          "url": "https://www.youtube.com/watch?v=PbbMn5ldDR0&list=PLG6PepT_DSdwUwg3fGGb6UH9wpV2-MCAT",
+          "grouped": false,
+          "priority": 2
+        },
+        "64": {
+          "id": "SINMduQQDQw",
+          "title": "【令和５年秋 応用情報技術者試験】 午前　問６４",
+          "url": "https://www.youtube.com/watch?v=SINMduQQDQw&list=PLG6PepT_DSdwUwg3fGGb6UH9wpV2-MCAT",
+          "grouped": false,
+          "priority": 2
+        },
+        "65": {
+          "id": "Bq2GanD9KJQ",
+          "title": "【令和５年秋 応用情報技術者試験】 午前　問６５",
+          "url": "https://www.youtube.com/watch?v=Bq2GanD9KJQ&list=PLG6PepT_DSdwUwg3fGGb6UH9wpV2-MCAT",
+          "grouped": false,
+          "priority": 2
+        },
+        "66": {
+          "id": "zPqUo1vpjSo",
+          "title": "【令和５年秋 応用情報技術者試験】 午前　問６６",
+          "url": "https://www.youtube.com/watch?v=zPqUo1vpjSo&list=PLG6PepT_DSdwUwg3fGGb6UH9wpV2-MCAT",
+          "grouped": false,
+          "priority": 2
+        },
+        "67": {
+          "id": "po9UlC4jMr4",
+          "title": "【令和５年秋 応用情報技術者試験】 午前　問６７",
+          "url": "https://www.youtube.com/watch?v=po9UlC4jMr4&list=PLG6PepT_DSdwUwg3fGGb6UH9wpV2-MCAT",
+          "grouped": false,
+          "priority": 2
+        },
+        "68": {
+          "id": "aH8h_Tah4iM",
+          "title": "【令和５年秋 応用情報技術者試験】 午前　問６８",
+          "url": "https://www.youtube.com/watch?v=aH8h_Tah4iM&list=PLG6PepT_DSdwUwg3fGGb6UH9wpV2-MCAT",
+          "grouped": false,
+          "priority": 2
+        },
+        "69": {
+          "id": "0Yv_IVD9O7Y",
+          "title": "【令和５年秋 応用情報技術者試験】 午前　問６９",
+          "url": "https://www.youtube.com/watch?v=0Yv_IVD9O7Y&list=PLG6PepT_DSdwUwg3fGGb6UH9wpV2-MCAT",
+          "grouped": false,
+          "priority": 2
+        },
+        "70": {
+          "id": "E1QQuCgGuSY",
+          "title": "【令和５年秋 応用情報技術者試験】 午前　問７０",
+          "url": "https://www.youtube.com/watch?v=E1QQuCgGuSY&list=PLG6PepT_DSdwUwg3fGGb6UH9wpV2-MCAT",
+          "grouped": false,
+          "priority": 2
+        },
+        "71": {
+          "id": "tMAiWx7ehGA",
+          "title": "【令和５年秋 応用情報技術者試験】 午前　問７１",
+          "url": "https://www.youtube.com/watch?v=tMAiWx7ehGA&list=PLG6PepT_DSdwUwg3fGGb6UH9wpV2-MCAT",
+          "grouped": false,
+          "priority": 2
+        },
+        "72": {
+          "id": "_xGP1NkBa6U",
+          "title": "【令和５年秋 応用情報技術者試験】 午前　問７２",
+          "url": "https://www.youtube.com/watch?v=_xGP1NkBa6U&list=PLG6PepT_DSdwUwg3fGGb6UH9wpV2-MCAT",
+          "grouped": false,
+          "priority": 2
+        },
+        "73": {
+          "id": "7mwwIQrddNU",
+          "title": "【令和５年秋 応用情報技術者試験】 午前　問７３",
+          "url": "https://www.youtube.com/watch?v=7mwwIQrddNU&list=PLG6PepT_DSdwUwg3fGGb6UH9wpV2-MCAT",
+          "grouped": false,
+          "priority": 2
+        },
+        "74": {
+          "id": "DAMXuH6oVj4",
+          "title": "【令和５年秋 応用情報技術者試験】 午前　問７４",
+          "url": "https://www.youtube.com/watch?v=DAMXuH6oVj4&list=PLG6PepT_DSdwUwg3fGGb6UH9wpV2-MCAT",
+          "grouped": false,
+          "priority": 2
+        },
+        "75": {
+          "id": "L0CYzUtwkBo",
+          "title": "【令和５年秋 応用情報技術者試験】 午前　問７５",
+          "url": "https://www.youtube.com/watch?v=L0CYzUtwkBo&list=PLG6PepT_DSdwUwg3fGGb6UH9wpV2-MCAT",
+          "grouped": false,
+          "priority": 2
+        },
+        "76": {
+          "id": "2jyE1FNuKXU",
+          "title": "【令和５年秋 応用情報技術者試験】 午前　問７６",
+          "url": "https://www.youtube.com/watch?v=2jyE1FNuKXU&list=PLG6PepT_DSdwUwg3fGGb6UH9wpV2-MCAT",
+          "grouped": false,
+          "priority": 2
+        },
+        "77": {
+          "id": "MUUQ2ra6Zns",
+          "title": "【令和５年秋 応用情報技術者試験】 午前　問７７",
+          "url": "https://www.youtube.com/watch?v=MUUQ2ra6Zns&list=PLG6PepT_DSdwUwg3fGGb6UH9wpV2-MCAT",
+          "grouped": false,
+          "priority": 2
+        },
+        "78": {
+          "id": "-bvmHsVOmcY",
+          "title": "【令和５年秋 応用情報技術者試験】 午前　問 ７８",
+          "url": "https://www.youtube.com/watch?v=-bvmHsVOmcY&list=PLG6PepT_DSdwUwg3fGGb6UH9wpV2-MCAT",
+          "grouped": false,
+          "priority": 2
+        },
+        "79": {
+          "id": "9wy4Id2g86o",
+          "title": "【令和５年秋 応用情報技術者試験】 午前　問 ７９",
+          "url": "https://www.youtube.com/watch?v=9wy4Id2g86o&list=PLG6PepT_DSdwUwg3fGGb6UH9wpV2-MCAT",
+          "grouped": false,
+          "priority": 2
+        },
+        "80": {
+          "id": "snj9Z4Ou9n4",
+          "title": "【令和５年秋 応用情報技術者試験】 午前　問８０",
+          "url": "https://www.youtube.com/watch?v=snj9Z4Ou9n4&list=PLG6PepT_DSdwUwg3fGGb6UH9wpV2-MCAT",
+          "grouped": false,
+          "priority": 2
         }
-      ],
+      },
+      "afternoon": {
+        "1": {
+          "id": "EyGBfsJnihY",
+          "title": "【令和５年秋 応用情報技術者試験】 午後　問１　情報セキュリティ",
+          "url": "https://www.youtube.com/watch?v=EyGBfsJnihY&list=PLG6PepT_DSdzaVte-CmNAe4Cd2t9bn0rV",
+          "grouped": false,
+          "priority": 2
+        },
+        "2": {
+          "id": "DhpmT3xBplg",
+          "title": "【令和５年秋 応用情報技術者試験】 午後　問２　経営戦略",
+          "url": "https://www.youtube.com/watch?v=DhpmT3xBplg&list=PLG6PepT_DSdzaVte-CmNAe4Cd2t9bn0rV",
+          "grouped": false,
+          "priority": 2
+        },
+        "3": {
+          "id": "xGaBqOAt4x8",
+          "title": "【令和５年秋 応用情報技術者試験】 午後　問３　プログラミング",
+          "url": "https://www.youtube.com/watch?v=xGaBqOAt4x8&list=PLG6PepT_DSdzaVte-CmNAe4Cd2t9bn0rV",
+          "grouped": false,
+          "priority": 2
+        },
+        "4": {
+          "id": "WnkKBTUBWLs",
+          "title": "【令和５年秋 応用情報技術者試験】 午後　問４　システムアーキテクチャー",
+          "url": "https://www.youtube.com/watch?v=WnkKBTUBWLs&list=PLG6PepT_DSdzaVte-CmNAe4Cd2t9bn0rV",
+          "grouped": false,
+          "priority": 2
+        },
+        "5": {
+          "id": "50ghImDehC0",
+          "title": "【令和５年秋 応用情報技術者試験】 午後　問５　ネットワーク",
+          "url": "https://www.youtube.com/watch?v=50ghImDehC0&list=PLG6PepT_DSdzaVte-CmNAe4Cd2t9bn0rV",
+          "grouped": false,
+          "priority": 2
+        },
+        "6": {
+          "id": "1OQkgADqt1U",
+          "title": "【令和５年秋 応用情報技術者試験】 午後　問６　データベース",
+          "url": "https://www.youtube.com/watch?v=1OQkgADqt1U&list=PLG6PepT_DSdzaVte-CmNAe4Cd2t9bn0rV",
+          "grouped": false,
+          "priority": 2
+        },
+        "7": {
+          "id": "WTBY7oIgZPQ",
+          "title": "【令和５年秋 応用情報技術者試験】 午後　問７　組み込みシステム",
+          "url": "https://www.youtube.com/watch?v=WTBY7oIgZPQ&list=PLG6PepT_DSdzaVte-CmNAe4Cd2t9bn0rV",
+          "grouped": false,
+          "priority": 2
+        },
+        "8": {
+          "id": "SlCgYjoxsbI",
+          "title": "【令和５年秋 応用情報技術者試験】 午後　問８　情報システム開発",
+          "url": "https://www.youtube.com/watch?v=SlCgYjoxsbI&list=PLG6PepT_DSdzaVte-CmNAe4Cd2t9bn0rV",
+          "grouped": false,
+          "priority": 2
+        },
+        "9": {
+          "id": "ztnwAt25J6Y",
+          "title": "【令和５年秋 応用情報技術者試験】 午後　問９　プロジェクトマネジメント",
+          "url": "https://www.youtube.com/watch?v=ztnwAt25J6Y&list=PLG6PepT_DSdzaVte-CmNAe4Cd2t9bn0rV",
+          "grouped": false,
+          "priority": 2
+        },
+        "10": {
+          "id": "Xw6ryLKWi78",
+          "title": "【令和５年秋 応用情報技術者試験】 午後　問１０　サービスマネジメント",
+          "url": "https://www.youtube.com/watch?v=Xw6ryLKWi78&list=PLG6PepT_DSdzaVte-CmNAe4Cd2t9bn0rV",
+          "grouped": false,
+          "priority": 2
+        },
+        "11": {
+          "id": "3sJ60JkaxOg",
+          "title": "【令和５年秋 応用情報技術者試験】 午後　問１１　システム監査",
+          "url": "https://www.youtube.com/watch?v=3sJ60JkaxOg&list=PLG6PepT_DSdzaVte-CmNAe4Cd2t9bn0rV",
+          "grouped": false,
+          "priority": 2
+        }
+      },
       "summaries": [
         {
+          "id": "BmMCfRMAODI",
           "title": "【令和５年秋 】応用情報技術者　午前の解答速報",
           "url": "https://www.youtube.com/watch?v=BmMCfRMAODI&list=PLG6PepT_DSdz58YbVkKy05RhAxvmQzNWq"
         }
       ]
+    },
+    {
+      "year": 2023,
+      "label": "令和5年春",
+      "season": "春",
+      "morning": {
+        "1": {
+          "id": "BMD8G1dRYAU",
+          "title": "令和5年春 応用情報技術者試験（午前） 問１の解説｜ビット演算",
+          "url": "https://www.youtube.com/watch?v=BMD8G1dRYAU&list=PLG6PepT_DSdzzYBJGLC2tUz7fB9JZHoFU",
+          "grouped": false,
+          "priority": 2
+        },
+        "2": {
+          "id": "GVvOsTaKp9E",
+          "title": "令和5年春 応用情報技術者試験（午前） 問２の解説│正規分布",
+          "url": "https://www.youtube.com/watch?v=GVvOsTaKp9E&list=PLG6PepT_DSdzzYBJGLC2tUz7fB9JZHoFU",
+          "grouped": false,
+          "priority": 2
+        },
+        "3": {
+          "id": "7m5Fcr39Kuw",
+          "title": "令和5年春 応用情報技術者試験（午前） 問３の解説｜ROC曲線",
+          "url": "https://www.youtube.com/watch?v=7m5Fcr39Kuw&list=PLG6PepT_DSdzzYBJGLC2tUz7fB9JZHoFU",
+          "grouped": false,
+          "priority": 2
+        },
+        "4": {
+          "id": "ohR47neOpuE",
+          "title": "令和5年春 応用情報技術者試験（午前） 問４の解説｜ドップラー効果",
+          "url": "https://www.youtube.com/watch?v=ohR47neOpuE&list=PLG6PepT_DSdzzYBJGLC2tUz7fB9JZHoFU",
+          "grouped": false,
+          "priority": 2
+        },
+        "5": {
+          "id": "_nHlysGPhsQ",
+          "title": "令和5年春 応用情報技術者試験（午前） 問５の解説｜メモリ管理",
+          "url": "https://www.youtube.com/watch?v=_nHlysGPhsQ&list=PLG6PepT_DSdzzYBJGLC2tUz7fB9JZHoFU",
+          "grouped": false,
+          "priority": 2
+        },
+        "6": {
+          "id": "TL-RSdL4cp8",
+          "title": "令和5年春 応用情報技術者試験（午前） 問６の解説｜線形探索法",
+          "url": "https://www.youtube.com/watch?v=TL-RSdL4cp8&list=PLG6PepT_DSdzzYBJGLC2tUz7fB9JZHoFU",
+          "grouped": false,
+          "priority": 2
+        },
+        "7": {
+          "id": "_ls_6_Itgik",
+          "title": "令和5年春 応用情報技術者試験（午前） 問７の解説｜クイックソート",
+          "url": "https://www.youtube.com/watch?v=_ls_6_Itgik&list=PLG6PepT_DSdzzYBJGLC2tUz7fB9JZHoFU",
+          "grouped": false,
+          "priority": 2
+        },
+        "8": {
+          "id": "uqUlReE64Kk",
+          "title": "令和5年春 応用情報技術者試験（午前） 問８の解説｜CPI",
+          "url": "https://www.youtube.com/watch?v=uqUlReE64Kk&list=PLG6PepT_DSdzzYBJGLC2tUz7fB9JZHoFU",
+          "grouped": false,
+          "priority": 2
+        },
+        "9": {
+          "id": "Nlft9UMFWAs",
+          "title": "令和5年春 応用情報技術者試験（午前） 問９の解説｜パイプライン制御",
+          "url": "https://www.youtube.com/watch?v=Nlft9UMFWAs&list=PLG6PepT_DSdzzYBJGLC2tUz7fB9JZHoFU",
+          "grouped": false,
+          "priority": 2
+        },
+        "10": {
+          "id": "FQ4uRe-z63w",
+          "title": "令和5年春 応用情報技術者試験（午前） 問１０の解説｜キャッシュメモリ",
+          "url": "https://www.youtube.com/watch?v=FQ4uRe-z63w&list=PLG6PepT_DSdzzYBJGLC2tUz7fB9JZHoFU",
+          "grouped": false,
+          "priority": 2
+        },
+        "11": {
+          "id": "tMcvVunDG28",
+          "title": "令和5年春 応用情報技術者試験（午前） 問１１の解説｜ウェアレベリング",
+          "url": "https://www.youtube.com/watch?v=tMcvVunDG28&list=PLG6PepT_DSdzzYBJGLC2tUz7fB9JZHoFU",
+          "grouped": false,
+          "priority": 2
+        },
+        "12": {
+          "id": "5_YpaWhAV-o",
+          "title": "令和5年春 応用情報技術者試験（午前） 問１２の解説｜有機ELディスプレイ",
+          "url": "https://www.youtube.com/watch?v=5_YpaWhAV-o&list=PLG6PepT_DSdzzYBJGLC2tUz7fB9JZHoFU",
+          "grouped": false,
+          "priority": 2
+        },
+        "13": {
+          "id": "_XUrDjJC4A4",
+          "title": "令和5年春 応用情報技術者試験（午前） 問１３の解説｜スケールイン",
+          "url": "https://www.youtube.com/watch?v=_XUrDjJC4A4&list=PLG6PepT_DSdzzYBJGLC2tUz7fB9JZHoFU",
+          "grouped": false,
+          "priority": 2
+        },
+        "14": {
+          "id": "FevJA7TbkFs",
+          "title": "令和5年春 応用情報技術者試験（午前） 問１４の解説｜CPU",
+          "url": "https://www.youtube.com/watch?v=FevJA7TbkFs&list=PLG6PepT_DSdzzYBJGLC2tUz7fB9JZHoFU",
+          "grouped": false,
+          "priority": 2
+        },
+        "15": {
+          "id": "hW9c1t99TRE",
+          "title": "令和5年春 応用情報技術者試験（午前） 問１５の解説｜コンピュータシステム",
+          "url": "https://www.youtube.com/watch?v=hW9c1t99TRE&list=PLG6PepT_DSdzzYBJGLC2tUz7fB9JZHoFU",
+          "grouped": false,
+          "priority": 2
+        },
+        "16": {
+          "id": "dWlAbDngfyc",
+          "title": "令和5年春 応用情報技術者試験（午前） 問１６の解説｜システムの稼働率",
+          "url": "https://www.youtube.com/watch?v=dWlAbDngfyc&list=PLG6PepT_DSdzzYBJGLC2tUz7fB9JZHoFU",
+          "grouped": false,
+          "priority": 2
+        },
+        "17": {
+          "id": "Co8PafOUjas",
+          "title": "令和5年春 応用情報技術者試験（午前） 問１７の解説｜FIFO",
+          "url": "https://www.youtube.com/watch?v=Co8PafOUjas&list=PLG6PepT_DSdzzYBJGLC2tUz7fB9JZHoFU",
+          "grouped": false,
+          "priority": 2
+        },
+        "18": {
+          "id": "iMLqBLQu044",
+          "title": "令和5年春 応用情報技術者試験（午前） 問１８の解説｜仮想記憶方式",
+          "url": "https://www.youtube.com/watch?v=iMLqBLQu044&list=PLG6PepT_DSdzzYBJGLC2tUz7fB9JZHoFU",
+          "grouped": false,
+          "priority": 2
+        },
+        "19": {
+          "id": "PE0rvH529mg",
+          "title": "令和5年春 応用情報技術者試験（午前） 問１９の解説｜ハッシュ値",
+          "url": "https://www.youtube.com/watch?v=PE0rvH529mg&list=PLG6PepT_DSdzzYBJGLC2tUz7fB9JZHoFU",
+          "grouped": false,
+          "priority": 2
+        },
+        "20": {
+          "id": "IxW5mAaKRSw",
+          "title": "令和5年春 応用情報技術者試験（午前） 問２０の解説｜コンテナ型仮想化",
+          "url": "https://www.youtube.com/watch?v=IxW5mAaKRSw&list=PLG6PepT_DSdzzYBJGLC2tUz7fB9JZHoFU",
+          "grouped": false,
+          "priority": 2
+        },
+        "21": {
+          "id": "kgoBP-SQ4ww",
+          "title": "令和5年春 応用情報技術者試験（午前） 問２１の解説｜NAND回路",
+          "url": "https://www.youtube.com/watch?v=kgoBP-SQ4ww&list=PLG6PepT_DSdzzYBJGLC2tUz7fB9JZHoFU",
+          "grouped": false,
+          "priority": 2
+        },
+        "22": {
+          "id": "EguFntPyNKs",
+          "title": "令和5年春 応用情報技術者試験（午前） 問２２の解説｜出力電圧",
+          "url": "https://www.youtube.com/watch?v=EguFntPyNKs&list=PLG6PepT_DSdzzYBJGLC2tUz7fB9JZHoFU",
+          "grouped": false,
+          "priority": 2
+        },
+        "23": {
+          "id": "qfk7fGwJa_A",
+          "title": "令和5年春 応用情報技術者試験（午前） 問２３の解説｜LiDAR",
+          "url": "https://www.youtube.com/watch?v=qfk7fGwJa_A&list=PLG6PepT_DSdzzYBJGLC2tUz7fB9JZHoFU",
+          "grouped": false,
+          "priority": 2
+        },
+        "24": {
+          "id": "YZu3VE5k4MU",
+          "title": "令和5年春 応用情報技術者試験（午前） 問２４の解説｜NFC",
+          "url": "https://www.youtube.com/watch?v=YZu3VE5k4MU&list=PLG6PepT_DSdzzYBJGLC2tUz7fB9JZHoFU",
+          "grouped": false,
+          "priority": 2
+        },
+        "25": {
+          "id": "AxysNyJvRzQ",
+          "title": "令和5年春 応用情報技術者試験（午前） 問２５の解説｜コンピュータグラフィックス",
+          "url": "https://www.youtube.com/watch?v=AxysNyJvRzQ&list=PLG6PepT_DSdzzYBJGLC2tUz7fB9JZHoFU",
+          "grouped": false,
+          "priority": 2
+        },
+        "26": {
+          "id": "Qy1m7KeSuQs",
+          "title": "令和5年春 応用情報技術者試験（午前） 問２６の解説｜データベース",
+          "url": "https://www.youtube.com/watch?v=Qy1m7KeSuQs&list=PLG6PepT_DSdzzYBJGLC2tUz7fB9JZHoFU",
+          "grouped": false,
+          "priority": 2
+        },
+        "27": {
+          "id": "YNU3lmItwjM",
+          "title": "令和5年春 応用情報技術者試験（午前） 問２7の解説",
+          "url": "https://www.youtube.com/watch?v=YNU3lmItwjM&list=PLG6PepT_DSdzzYBJGLC2tUz7fB9JZHoFU",
+          "grouped": false,
+          "priority": 2
+        },
+        "28": {
+          "id": "EP3xyw3aSwY",
+          "title": "令和5年春 応用情報技術者試験（午前） 問２８の解説｜べき等",
+          "url": "https://www.youtube.com/watch?v=EP3xyw3aSwY&list=PLG6PepT_DSdzzYBJGLC2tUz7fB9JZHoFU",
+          "grouped": false,
+          "priority": 2
+        },
+        "29": {
+          "id": "ZB8nJdNG8BU",
+          "title": "令和5年春 応用情報技術者試験（午前） 問２９の解説｜データモデル",
+          "url": "https://www.youtube.com/watch?v=ZB8nJdNG8BU&list=PLG6PepT_DSdzzYBJGLC2tUz7fB9JZHoFU",
+          "grouped": false,
+          "priority": 2
+        },
+        "30": {
+          "id": "DxZOfG121Ss",
+          "title": "令和5年春 応用情報技術者試験（午前） 問３０の解説｜関係データベース",
+          "url": "https://www.youtube.com/watch?v=DxZOfG121Ss&list=PLG6PepT_DSdzzYBJGLC2tUz7fB9JZHoFU",
+          "grouped": false,
+          "priority": 2
+        },
+        "31": {
+          "id": "vsB_4WjExl8",
+          "title": "令和5年春 応用情報技術者試験（午前） 問３１の解説｜PLC",
+          "url": "https://www.youtube.com/watch?v=vsB_4WjExl8&list=PLG6PepT_DSdzzYBJGLC2tUz7fB9JZHoFU",
+          "grouped": false,
+          "priority": 2
+        },
+        "32": {
+          "id": "1QsJ_4KqZ8c",
+          "title": "令和5年春 応用情報技術者試験（午前） 問３２の解説｜パケット",
+          "url": "https://www.youtube.com/watch?v=1QsJ_4KqZ8c&list=PLG6PepT_DSdzzYBJGLC2tUz7fB9JZHoFU",
+          "grouped": false,
+          "priority": 2
+        },
+        "33": {
+          "id": "PX29FLWSxmU",
+          "title": "令和5年春 応用情報技術者試験（午前） 問３３の解説｜イーサネット",
+          "url": "https://www.youtube.com/watch?v=PX29FLWSxmU&list=PLG6PepT_DSdzzYBJGLC2tUz7fB9JZHoFU",
+          "grouped": false,
+          "priority": 2
+        },
+        "34": {
+          "id": "49JQwc1lrzg",
+          "title": "令和5年春 応用情報技術者試験（午前） 問３４の解説｜トランスポート層",
+          "url": "https://www.youtube.com/watch?v=49JQwc1lrzg&list=PLG6PepT_DSdzzYBJGLC2tUz7fB9JZHoFU",
+          "grouped": false,
+          "priority": 2
+        },
+        "35": {
+          "id": "wiyDvmEGmN0",
+          "title": "令和5年春 応用情報技術者試験（午前） 問３５の解説｜モバイル通信",
+          "url": "https://www.youtube.com/watch?v=wiyDvmEGmN0&list=PLG6PepT_DSdzzYBJGLC2tUz7fB9JZHoFU",
+          "grouped": false,
+          "priority": 2
+        },
+        "36": {
+          "id": "zD7tNOXN2kg",
+          "title": "令和5年春 応用情報技術者試験（午前） 問３６の解説｜C&Cサーバ",
+          "url": "https://www.youtube.com/watch?v=zD7tNOXN2kg&list=PLG6PepT_DSdzzYBJGLC2tUz7fB9JZHoFU",
+          "grouped": false,
+          "priority": 2
+        },
+        "37": {
+          "id": "rQkNIPFt8Vg",
+          "title": "令和5年春 応用情報技術者試験（午前） 問３７の解説｜セキュアOS",
+          "url": "https://www.youtube.com/watch?v=rQkNIPFt8Vg&list=PLG6PepT_DSdzzYBJGLC2tUz7fB9JZHoFU",
+          "grouped": false,
+          "priority": 2
+        },
+        "38": {
+          "id": "yGK-Y3fVdoc",
+          "title": "令和5年春 応用情報技術者試験（午前） 問３８の解説｜デジタル署名",
+          "url": "https://www.youtube.com/watch?v=yGK-Y3fVdoc&list=PLG6PepT_DSdzzYBJGLC2tUz7fB9JZHoFU",
+          "grouped": false,
+          "priority": 2
+        },
+        "39": {
+          "id": "Sh9tj8QuR1w",
+          "title": "令和5年春 応用情報技術者試験（午前） 問３９の解説｜ISMAP",
+          "url": "https://www.youtube.com/watch?v=Sh9tj8QuR1w&list=PLG6PepT_DSdzzYBJGLC2tUz7fB9JZHoFU",
+          "grouped": false,
+          "priority": 2
+        },
+        "40": {
+          "id": "qZ0fr2eCqmo",
+          "title": "令和5年春 応用情報技術者試験（午前） 問４０の解説｜脆弱性を識別する情報",
+          "url": "https://www.youtube.com/watch?v=qZ0fr2eCqmo&list=PLG6PepT_DSdzzYBJGLC2tUz7fB9JZHoFU",
+          "grouped": false,
+          "priority": 2
+        },
+        "41": {
+          "id": "_RShT0s0jHw",
+          "title": "令和5年春 応用情報技術者試験（午前） 問４１の解説｜TPM",
+          "url": "https://www.youtube.com/watch?v=_RShT0s0jHw&list=PLG6PepT_DSdzzYBJGLC2tUz7fB9JZHoFU",
+          "grouped": false,
+          "priority": 2
+        },
+        "42": {
+          "id": "2W45FtVRCJ8",
+          "title": "令和5年春 応用情報技術者試験（午前） 問４２の解説｜デジタルフォレンジックス",
+          "url": "https://www.youtube.com/watch?v=2W45FtVRCJ8&list=PLG6PepT_DSdzzYBJGLC2tUz7fB9JZHoFU",
+          "grouped": false,
+          "priority": 2
+        },
+        "43": {
+          "id": "_Iw6ZYWhw1w",
+          "title": "令和5年春 応用情報技術者試験（午前） 問４３の解説｜セキュリティ対策",
+          "url": "https://www.youtube.com/watch?v=_Iw6ZYWhw1w&list=PLG6PepT_DSdzzYBJGLC2tUz7fB9JZHoFU",
+          "grouped": false,
+          "priority": 2
+        },
+        "44": {
+          "id": "b99CauQKHv8",
+          "title": "令和5年春 応用情報技術者試験（午前） 問４４の解説｜サブミッションポート",
+          "url": "https://www.youtube.com/watch?v=b99CauQKHv8&list=PLG6PepT_DSdzzYBJGLC2tUz7fB9JZHoFU",
+          "grouped": false,
+          "priority": 2
+        },
+        "45": {
+          "id": "fFOnY439hB4",
+          "title": "令和5年春 応用情報技術者試験（午前） 問４５の解説｜セキュリティ技術",
+          "url": "https://www.youtube.com/watch?v=fFOnY439hB4&list=PLG6PepT_DSdzzYBJGLC2tUz7fB9JZHoFU",
+          "grouped": false,
+          "priority": 2
+        },
+        "46": {
+          "id": "fUORZ_-Knhg",
+          "title": "令和5年春 応用情報技術者試験（午前） 問４６の解説｜モジュール結合度",
+          "url": "https://www.youtube.com/watch?v=fUORZ_-Knhg&list=PLG6PepT_DSdzzYBJGLC2tUz7fB9JZHoFU",
+          "grouped": false,
+          "priority": 2
+        },
+        "47": {
+          "id": "6d0reoHQ8pI",
+          "title": "令和5年春 応用情報技術者試験（午前） 問４７の解説｜決定表",
+          "url": "https://www.youtube.com/watch?v=6d0reoHQ8pI&list=PLG6PepT_DSdzzYBJGLC2tUz7fB9JZHoFU",
+          "grouped": false,
+          "priority": 2
+        },
+        "48": {
+          "id": "SIGtLdSM2og",
+          "title": "令和5年春 応用情報技術者試験（午前） 問４８の解説｜スクラム",
+          "url": "https://www.youtube.com/watch?v=SIGtLdSM2og&list=PLG6PepT_DSdzzYBJGLC2tUz7fB9JZHoFU",
+          "grouped": false,
+          "priority": 2
+        },
+        "49": {
+          "id": "k0mjPuDvJ2c",
+          "title": "令和5年春 応用情報技術者試験（午前） 問４９の解説｜特許権",
+          "url": "https://www.youtube.com/watch?v=k0mjPuDvJ2c&list=PLG6PepT_DSdzzYBJGLC2tUz7fB9JZHoFU",
+          "grouped": false,
+          "priority": 2
+        },
+        "50": {
+          "id": "_JV4BfhzP6s",
+          "title": "令和5年春 応用情報技術者試験（午前） 問５０の解説｜サーバプロビジョニングツール",
+          "url": "https://www.youtube.com/watch?v=_JV4BfhzP6s&list=PLG6PepT_DSdzzYBJGLC2tUz7fB9JZHoFU",
+          "grouped": false,
+          "priority": 2
+        },
+        "51": {
+          "id": "ExNd2-K0oH8",
+          "title": "令和5年春 応用情報技術者試験（午前） 問５１の解説｜プロジェクト憲章",
+          "url": "https://www.youtube.com/watch?v=ExNd2-K0oH8&list=PLG6PepT_DSdzzYBJGLC2tUz7fB9JZHoFU",
+          "grouped": false,
+          "priority": 2
+        },
+        "52": {
+          "id": "jLKZGSTq1lM",
+          "title": "令和5年春 応用情報技術者試験（午前） 問５２の解説｜クリティカルチェーン",
+          "url": "https://www.youtube.com/watch?v=jLKZGSTq1lM&list=PLG6PepT_DSdzzYBJGLC2tUz7fB9JZHoFU",
+          "grouped": false,
+          "priority": 2
+        },
+        "53": {
+          "id": "pF_OOK-LrqU",
+          "title": "令和5年春 応用情報技術者試験（午前） 問５３の解説｜プロジェクトの進捗管理",
+          "url": "https://www.youtube.com/watch?v=pF_OOK-LrqU&list=PLG6PepT_DSdzzYBJGLC2tUz7fB9JZHoFU",
+          "grouped": false,
+          "priority": 2
+        },
+        "54": {
+          "id": "x58y6eMktQY",
+          "title": "令和5年春 応用情報技術者試験（午前） 問５４の解説｜デルファイ法",
+          "url": "https://www.youtube.com/watch?v=x58y6eMktQY&list=PLG6PepT_DSdzzYBJGLC2tUz7fB9JZHoFU",
+          "grouped": false,
+          "priority": 2
+        },
+        "55": {
+          "id": "wC3mXlN0ayU",
+          "title": "令和5年春 応用情報技術者試験（午前） 問５５の解説｜サービスマネジメントシステム",
+          "url": "https://www.youtube.com/watch?v=wC3mXlN0ayU&list=PLG6PepT_DSdzzYBJGLC2tUz7fB9JZHoFU",
+          "grouped": false,
+          "priority": 2
+        },
+        "56": {
+          "id": "EzP_o-u9kUI",
+          "title": "令和5年春 応用情報技術者試験（午前） 問５６の解説｜パフォーマンスレビュー",
+          "url": "https://www.youtube.com/watch?v=EzP_o-u9kUI&list=PLG6PepT_DSdzzYBJGLC2tUz7fB9JZHoFU",
+          "grouped": false,
+          "priority": 2
+        },
+        "57": {
+          "id": "f9FvTiBj0sE",
+          "title": "令和5年春 応用情報技術者試験（午前） 問５７の解説｜クラウドサービス",
+          "url": "https://www.youtube.com/watch?v=f9FvTiBj0sE&list=PLG6PepT_DSdzzYBJGLC2tUz7fB9JZHoFU",
+          "grouped": false,
+          "priority": 2
+        },
+        "58": {
+          "id": "txIF3z5oVcc",
+          "title": "令和5年春 応用情報技術者試験（午前） 問５８の解説｜予備調査",
+          "url": "https://www.youtube.com/watch?v=txIF3z5oVcc&list=PLG6PepT_DSdzzYBJGLC2tUz7fB9JZHoFU",
+          "grouped": false,
+          "priority": 2
+        },
+        "59": {
+          "id": "XKM28QEZaI8",
+          "title": "令和5年春 応用情報技術者試験（午前） 問５９の解説｜監査手続",
+          "url": "https://www.youtube.com/watch?v=XKM28QEZaI8&list=PLG6PepT_DSdzzYBJGLC2tUz7fB9JZHoFU",
+          "grouped": false,
+          "priority": 2
+        },
+        "60": {
+          "id": "fJac90UXmJs",
+          "title": "令和5年春 応用情報技術者試験（午前） 問６０の解説｜内部統制",
+          "url": "https://www.youtube.com/watch?v=fJac90UXmJs&list=PLG6PepT_DSdzzYBJGLC2tUz7fB9JZHoFU",
+          "grouped": false,
+          "priority": 2
+        },
+        "61": {
+          "id": "Zoo09WsIM3w",
+          "title": "令和5年春 応用情報技術者試験（午前） 問６１の解説｜ROI",
+          "url": "https://www.youtube.com/watch?v=Zoo09WsIM3w&list=PLG6PepT_DSdzzYBJGLC2tUz7fB9JZHoFU",
+          "grouped": false,
+          "priority": 2
+        },
+        "62": {
+          "id": "OhbO8n5eQ8o",
+          "title": "令和5年春 応用情報技術者試験（午前） 問６２の解説｜カスタマーエクスペリエンス",
+          "url": "https://www.youtube.com/watch?v=OhbO8n5eQ8o&list=PLG6PepT_DSdzzYBJGLC2tUz7fB9JZHoFU",
+          "grouped": false,
+          "priority": 2
+        },
+        "63": {
+          "id": "INRqdFWzr8k",
+          "title": "令和5年春 応用情報技術者試験（午前） 問６３の解説｜情報銀行",
+          "url": "https://www.youtube.com/watch?v=INRqdFWzr8k&list=PLG6PepT_DSdzzYBJGLC2tUz7fB9JZHoFU",
+          "grouped": false,
+          "priority": 2
+        },
+        "64": {
+          "id": "YaOyUujwdbw",
+          "title": "令和5年春 応用情報技術者試験（午前） 問６４の解説｜トレーサビリティ",
+          "url": "https://www.youtube.com/watch?v=YaOyUujwdbw&list=PLG6PepT_DSdzzYBJGLC2tUz7fB9JZHoFU",
+          "grouped": false,
+          "priority": 2
+        },
+        "65": {
+          "id": "GJ4_fwB3_hA",
+          "title": "令和5年春 応用情報技術者試験（午前） 問６５の解説｜RFI",
+          "url": "https://www.youtube.com/watch?v=GJ4_fwB3_hA&list=PLG6PepT_DSdzzYBJGLC2tUz7fB9JZHoFU",
+          "grouped": false,
+          "priority": 2
+        },
+        "66": {
+          "id": "LBmV43VcVEc",
+          "title": "令和5年春 応用情報技術者試験（午前） 問６６の解説｜見積り依頼",
+          "url": "https://www.youtube.com/watch?v=LBmV43VcVEc&list=PLG6PepT_DSdzzYBJGLC2tUz7fB9JZHoFU",
+          "grouped": false,
+          "priority": 2
+        },
+        "67": {
+          "id": "cIYFqyxM_gQ",
+          "title": "令和5年春 応用情報技術者試験（午前） 問６７の解説｜ROAS",
+          "url": "https://www.youtube.com/watch?v=cIYFqyxM_gQ&list=PLG6PepT_DSdzzYBJGLC2tUz7fB9JZHoFU",
+          "grouped": false,
+          "priority": 2
+        },
+        "68": {
+          "id": "FZIcx4q4x30",
+          "title": "令和5年春 応用情報技術者試験（午前） 問６８の解説｜戦略マップ",
+          "url": "https://www.youtube.com/watch?v=FZIcx4q4x30&list=PLG6PepT_DSdzzYBJGLC2tUz7fB9JZHoFU",
+          "grouped": false,
+          "priority": 2
+        },
+        "69": {
+          "id": "lmxSA3chi7I",
+          "title": "令和5年春 応用情報技術者試験（午前） 問６９の解説｜フィージビリティスタディ",
+          "url": "https://www.youtube.com/watch?v=lmxSA3chi7I&list=PLG6PepT_DSdzzYBJGLC2tUz7fB9JZHoFU",
+          "grouped": false,
+          "priority": 2
+        },
+        "70": {
+          "id": "glC4N1LjT-E",
+          "title": "令和5年春 応用情報技術者試験（午前） 問７０の解説｜共同研究",
+          "url": "https://www.youtube.com/watch?v=glC4N1LjT-E&list=PLG6PepT_DSdzzYBJGLC2tUz7fB9JZHoFU",
+          "grouped": false,
+          "priority": 2
+        },
+        "71": {
+          "id": "c6BoxXbKTwo",
+          "title": "令和5年春 応用情報技術者試験（午前） 問７１の解説｜エネルギーハーベスティング",
+          "url": "https://www.youtube.com/watch?v=c6BoxXbKTwo&list=PLG6PepT_DSdzzYBJGLC2tUz7fB9JZHoFU",
+          "grouped": false,
+          "priority": 2
+        },
+        "72": {
+          "id": "SCmv9T3q_j8",
+          "title": "令和5年春 応用情報技術者試験（午前） 問７２の解説｜アグリゲーションサービス",
+          "url": "https://www.youtube.com/watch?v=SCmv9T3q_j8&list=PLG6PepT_DSdzzYBJGLC2tUz7fB9JZHoFU",
+          "grouped": false,
+          "priority": 2
+        },
+        "73": {
+          "id": "b5wIxi5RzKo",
+          "title": "令和5年春 応用情報技術者試験（午前） 問７３の解説｜デジタルツイン",
+          "url": "https://www.youtube.com/watch?v=b5wIxi5RzKo&list=PLG6PepT_DSdzzYBJGLC2tUz7fB9JZHoFU",
+          "grouped": false,
+          "priority": 2
+        },
+        "74": {
+          "id": "Dz0uKkwripc",
+          "title": "令和5年春 応用情報技術者試験（午前） 問７４の解説｜事業部制組織",
+          "url": "https://www.youtube.com/watch?v=Dz0uKkwripc&list=PLG6PepT_DSdzzYBJGLC2tUz7fB9JZHoFU",
+          "grouped": false,
+          "priority": 2
+        },
+        "75": {
+          "id": "UjUQG84s3PM",
+          "title": "令和5年春 応用情報技術者試験（午前） 問７５の解説｜デシジョンツリー",
+          "url": "https://www.youtube.com/watch?v=UjUQG84s3PM&list=PLG6PepT_DSdzzYBJGLC2tUz7fB9JZHoFU",
+          "grouped": false,
+          "priority": 2
+        },
+        "76": {
+          "id": "hajvl_BeNWA",
+          "title": "令和5年春 応用情報技術者試験（午前） 問７６の解説",
+          "url": "https://www.youtube.com/watch?v=hajvl_BeNWA&list=PLG6PepT_DSdzzYBJGLC2tUz7fB9JZHoFU",
+          "grouped": false,
+          "priority": 2
+        },
+        "77": {
+          "id": "mDy93DGTtYs",
+          "title": "令和5年春 応用情報技術者試験（午前） 問７７の解説｜売上高",
+          "url": "https://www.youtube.com/watch?v=mDy93DGTtYs&list=PLG6PepT_DSdzzYBJGLC2tUz7fB9JZHoFU",
+          "grouped": false,
+          "priority": 2
+        },
+        "78": {
+          "id": "M5ocpG3639I",
+          "title": "令和5年春 応用情報技術者試験（午前） 問７８の解説｜下請法",
+          "url": "https://www.youtube.com/watch?v=M5ocpG3639I&list=PLG6PepT_DSdzzYBJGLC2tUz7fB9JZHoFU",
+          "grouped": false,
+          "priority": 2
+        },
+        "79": {
+          "id": "XonrcJIK87o",
+          "title": "令和5年春 応用情報技術者試験（午前） 問７９の解説｜労働者派遣法",
+          "url": "https://www.youtube.com/watch?v=XonrcJIK87o&list=PLG6PepT_DSdzzYBJGLC2tUz7fB9JZHoFU",
+          "grouped": false,
+          "priority": 2
+        },
+        "80": {
+          "id": "wPN0KfyxPbc",
+          "title": "令和5年春 応用情報技術者試験（午前） 問８０の解説｜集団思考",
+          "url": "https://www.youtube.com/watch?v=wPN0KfyxPbc&list=PLG6PepT_DSdzzYBJGLC2tUz7fB9JZHoFU",
+          "grouped": false,
+          "priority": 2
+        }
+      },
+      "afternoon": {
+        "1": {
+          "id": "fbOYJJlX7Es",
+          "title": "【令和５年春 応用情報技術者試験】午後 問１ 情報セキュリティ",
+          "url": "https://www.youtube.com/watch?v=fbOYJJlX7Es&list=PLG6PepT_DSdwbr9nHvXnuSS3ZBAQezZMA",
+          "grouped": false,
+          "priority": 2
+        },
+        "2": {
+          "id": "3l5glxIz8Fw",
+          "title": "【令和５年春 応用情報技術者試験】午後 問２ 経営戦略",
+          "url": "https://www.youtube.com/watch?v=3l5glxIz8Fw&list=PLG6PepT_DSdwbr9nHvXnuSS3ZBAQezZMA",
+          "grouped": false,
+          "priority": 2
+        },
+        "3": {
+          "id": "NV7LBHVoIAs",
+          "title": "【令和５年春 応用情報技術者試験】午後 問３ プログラミング",
+          "url": "https://www.youtube.com/watch?v=NV7LBHVoIAs&list=PLG6PepT_DSdwbr9nHvXnuSS3ZBAQezZMA",
+          "grouped": false,
+          "priority": 2
+        },
+        "4": {
+          "id": "0F87YRbLRHk",
+          "title": "【令和５年春 応用情報技術者試験】午後 問４ システムアーキテクチャ",
+          "url": "https://www.youtube.com/watch?v=0F87YRbLRHk&list=PLG6PepT_DSdwbr9nHvXnuSS3ZBAQezZMA",
+          "grouped": false,
+          "priority": 2
+        },
+        "5": {
+          "id": "FK4iVbMafQg",
+          "title": "【令和５年春 応用情報技術者試験】午後 問５ ネットワーク",
+          "url": "https://www.youtube.com/watch?v=FK4iVbMafQg&list=PLG6PepT_DSdwbr9nHvXnuSS3ZBAQezZMA",
+          "grouped": false,
+          "priority": 2
+        },
+        "6": {
+          "id": "PznACpY1TIs",
+          "title": "【令和５年春 応用情報技術者試験】午後 問６ データベース",
+          "url": "https://www.youtube.com/watch?v=PznACpY1TIs&list=PLG6PepT_DSdwbr9nHvXnuSS3ZBAQezZMA",
+          "grouped": false,
+          "priority": 2
+        },
+        "7": {
+          "id": "KTcLdXsB6hY",
+          "title": "【令和５年春 応用情報技術者試験】午後 問７ 組み込みシステム",
+          "url": "https://www.youtube.com/watch?v=KTcLdXsB6hY&list=PLG6PepT_DSdwbr9nHvXnuSS3ZBAQezZMA",
+          "grouped": false,
+          "priority": 2
+        },
+        "8": {
+          "id": "t0NskQTkUEQ",
+          "title": "【令和５年春 応用情報技術者試験】午後 問８ 情報システム開発",
+          "url": "https://www.youtube.com/watch?v=t0NskQTkUEQ&list=PLG6PepT_DSdwbr9nHvXnuSS3ZBAQezZMA",
+          "grouped": false,
+          "priority": 2
+        },
+        "9": {
+          "id": "N3JDp4hQKt0",
+          "title": "【令和５年春 応用情報技術者試験】 午後 問９ プロジェクトマネジメント",
+          "url": "https://www.youtube.com/watch?v=N3JDp4hQKt0&list=PLG6PepT_DSdwbr9nHvXnuSS3ZBAQezZMA",
+          "grouped": false,
+          "priority": 2
+        },
+        "10": {
+          "id": "z7QH9Rppz_E",
+          "title": "【令和５年春 応用情報技術者試験】午後 問１０ サービスマネジメント",
+          "url": "https://www.youtube.com/watch?v=z7QH9Rppz_E&list=PLG6PepT_DSdwbr9nHvXnuSS3ZBAQezZMA",
+          "grouped": false,
+          "priority": 2
+        },
+        "11": {
+          "id": "Adrc8s2mscA",
+          "title": "【令和５年春 応用情報技術者試験】午後 問１１ システム監査",
+          "url": "https://www.youtube.com/watch?v=Adrc8s2mscA&list=PLG6PepT_DSdwbr9nHvXnuSS3ZBAQezZMA",
+          "grouped": false,
+          "priority": 2
+        }
+      },
+      "summaries": [
+        {
+          "id": "Ao0hIdesjWE",
+          "title": "【令和５年 春】応用情報技術者試験　解答速報",
+          "url": "https://www.youtube.com/watch?v=Ao0hIdesjWE"
+        }
+      ]
+    },
+    {
+      "year": 2022,
+      "label": "令和4年秋",
+      "season": "秋",
+      "morning": {},
+      "afternoon": {},
+      "summaries": []
     },
     {
       "year": 2022,
@@ -322,17 +3048,11 @@
           "id": "jG_yHjIMVIA",
           "title": "【応用情報技術者試験】過去問解説　令和４年春　問１　情報落ち",
           "url": "https://www.youtube.com/watch?v=jG_yHjIMVIA&list=PLG6PepT_DSdyMLfGuxXsKCokC4tLUjH-s",
-          "grouped": false
+          "grouped": false,
+          "priority": 2
         }
       },
       "afternoon": {},
-      "playlists": [
-        {
-          "id": "PLG6PepT_DSdyMLfGuxXsKCokC4tLUjH-s",
-          "title": "応用情報技術者試験令和４年春期",
-          "url": "https://www.youtube.com/playlist?list=PLG6PepT_DSdyMLfGuxXsKCokC4tLUjH-s"
-        }
-      ],
       "summaries": []
     }
   ],
@@ -351,6 +3071,11 @@
       "id": "PLG6PepT_DSdzt-Y2P5lvk1MgutH4-qY6V",
       "title": "一問一答",
       "url": "https://www.youtube.com/playlist?list=PLG6PepT_DSdzt-Y2P5lvk1MgutH4-qY6V"
+    },
+    {
+      "id": "PLG6PepT_DSdy-L-fbC9Jg54fY_lx--g09",
+      "title": "短編映画で学ぶ情報処理技術者試験",
+      "url": "https://www.youtube.com/playlist?list=PLG6PepT_DSdy-L-fbC9Jg54fY_lx--g09"
     },
     {
       "id": "PLG6PepT_DSdxwsTXMDIdwfSkHPoor3jfF",

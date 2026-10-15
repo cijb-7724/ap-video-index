@@ -1,0 +1,6506 @@
+[
+  {
+    "id": "c9LS8cHMKeQ",
+    "title": "ARPの仕組みを3Dで可視化｜MACアドレスを探すブロードキャストの流れを完全理解",
+    "playlist": "PLBj9gtZya_IA",
+    "playlistTitle": "３Dアニメーションで学ぶ情報処理技術者試験"
+  },
+  {
+    "id": "jYUC-Ccm060",
+    "title": "ARPの仕組みを3Dで可視化｜IPアドレスからMACアドレスが分かるまで",
+    "playlist": "PLBj9gtZya_IA",
+    "playlistTitle": "３Dアニメーションで学ぶ情報処理技術者試験"
+  },
+  {
+    "id": "9OyF5N-IxEs",
+    "title": "NAPTの仕組みを3Dで可視化｜Wi-FiからYouTubeまで通信の流れを完全理解",
+    "playlist": "PLBj9gtZya_IA",
+    "playlistTitle": "３Dアニメーションで学ぶ情報処理技術者試験"
+  },
+  {
+    "id": "Fm8Jop-kQns",
+    "title": "【3Dで完全理解】DNS名前解決の仕組み｜ルートDNSから権威DNSまで通信を可視化",
+    "playlist": "PLBj9gtZya_IA",
+    "playlistTitle": "３Dアニメーションで学ぶ情報処理技術者試験"
+  },
+  {
+    "id": "P_wW0o-cmnU",
+    "title": "【関数従属・候補キー】ドミノでわかるデータベース｜DBスペシャリスト・応用情報対策",
+    "playlist": "PLBj9gtZya_IA",
+    "playlistTitle": "３Dアニメーションで学ぶ情報処理技術者試験"
+  },
+  {
+    "id": "kw5vDP4tD_U",
+    "title": "【速報解説】新設「データマネジメント試験」科目Bサンプル問題 問2を最速解説！顧客データ統合・結合キー・NULL",
+    "playlist": "PLG6PepT_DSdyvSSyumzjUogNJd9HsISwo",
+    "playlistTitle": "データマネジメント試験"
+  },
+  {
+    "id": "afG-ai9yQk0",
+    "title": "【速報解説】新設「データマネジメント試験」科目Bサンプル問題を最速解説！データオーナー・データ品質・カタログ管理",
+    "playlist": "PLG6PepT_DSdyvSSyumzjUogNJd9HsISwo",
+    "playlistTitle": "データマネジメント試験"
+  },
+  {
+    "id": "pfwBbLwixzo",
+    "title": "【速報解説】新設「データマネジメント試験」科目Aサンプル問題を最速解説！データガバナンス・品質・メタデータ",
+    "playlist": "PLG6PepT_DSdyvSSyumzjUogNJd9HsISwo",
+    "playlistTitle": "データマネジメント試験"
+  },
+  {
+    "id": "W1uWCFvDPaI",
+    "title": "令和７年秋　応用情報技術者試験　午後１　情報セキュリティ",
+    "playlist": "PLG6PepT_DSdwRl9f7qULupaAovTxXGPX4",
+    "playlistTitle": "令和７年秋　応用情報技術者試験　午後"
+  },
+  {
+    "id": "Eci7qog_XvQ",
+    "title": "令和７年秋　応用情報技術者試験　午後９　プロジェクトマネジメント",
+    "playlist": "PLG6PepT_DSdwRl9f7qULupaAovTxXGPX4",
+    "playlistTitle": "令和７年秋　応用情報技術者試験　午後"
+  },
+  {
+    "id": "_nNCRHSAILM",
+    "title": "Journey through the Decade mv",
+    "playlist": "PLG6PepT_DSdwRl9f7qULupaAovTxXGPX4",
+    "playlistTitle": "令和７年秋　応用情報技術者試験　午後"
+  },
+  {
+    "id": "Xo7LATuMeF8",
+    "title": "【令和７年秋　応用情報技術者試験】午前　問１１～問１５ #応用情報技術者試験 #令和７年秋 #午前",
+    "playlist": "PLG6PepT_DSdwVuypY_kwQ6L1Rvw2I3plh",
+    "playlistTitle": "令和７年秋　応用情報技術者試験　午前"
+  },
+  {
+    "id": "V6Q1U9evd-0",
+    "title": "【令和７年秋　応用情報技術者試験】午前　問６～問１０ #応用情報技術者試験 #過去問解説 #令和７年秋",
+    "playlist": "PLG6PepT_DSdwVuypY_kwQ6L1Rvw2I3plh",
+    "playlistTitle": "令和７年秋　応用情報技術者試験　午前"
+  },
+  {
+    "id": "Zosgr8wcjEo",
+    "title": "【令和７年秋　応用情報技術者試験】午前　問１〜問５　カルノー図、待ち行列、偽陽性率、CRC、ベストフィット方式 #応用情報技術者試験 #過去問解説 #令和７年秋",
+    "playlist": "PLG6PepT_DSdwVuypY_kwQ6L1Rvw2I3plh",
+    "playlistTitle": "令和７年秋　応用情報技術者試験　午前"
+  },
+  {
+    "id": "d5qRGJoiRwg",
+    "title": "【令和７年秋　応用情報技術者試験】午前　問１５　ジョブスケジューリング",
+    "playlist": "PLG6PepT_DSdwVuypY_kwQ6L1Rvw2I3plh",
+    "playlistTitle": "令和７年秋　応用情報技術者試験　午前"
+  },
+  {
+    "id": "fMYYwd4ogS4",
+    "title": "【令和７年秋　応用情報技術者試験】午前　問１４　キャパシティプランニング",
+    "playlist": "PLG6PepT_DSdwVuypY_kwQ6L1Rvw2I3plh",
+    "playlistTitle": "令和７年秋　応用情報技術者試験　午前"
+  },
+  {
+    "id": "MVVYMdZ9eUs",
+    "title": "【令和７年秋　応用情報技術者試験】午前　問１３　稼働率計算",
+    "playlist": "PLG6PepT_DSdwVuypY_kwQ6L1Rvw2I3plh",
+    "playlistTitle": "令和７年秋　応用情報技術者試験　午前"
+  },
+  {
+    "id": "C-OLC4nXT98",
+    "title": "【令和７年秋　応用情報技術者試験】午前　問１１　HPCの性能計算",
+    "playlist": "PLG6PepT_DSdwVuypY_kwQ6L1Rvw2I3plh",
+    "playlistTitle": "令和７年秋　応用情報技術者試験　午前"
+  },
+  {
+    "id": "N92JReiWmBU",
+    "title": "【令和７年秋　応用情報技術者試験】午前　問１０　パルス",
+    "playlist": "PLG6PepT_DSdwVuypY_kwQ6L1Rvw2I3plh",
+    "playlistTitle": "令和７年秋　応用情報技術者試験　午前"
+  },
+  {
+    "id": "gqXdfx4NJdE",
+    "title": "【令和７年秋　応用情報技術者試験】午前　問９　ユニファイドメモリ",
+    "playlist": "PLG6PepT_DSdwVuypY_kwQ6L1Rvw2I3plh",
+    "playlistTitle": "令和７年秋　応用情報技術者試験　午前"
+  },
+  {
+    "id": "VRp2rDajAvE",
+    "title": "【令和７年秋　応用情報技術者試験】午前　問８　RISC　CISC　VLIW",
+    "playlist": "PLG6PepT_DSdwVuypY_kwQ6L1Rvw2I3plh",
+    "playlistTitle": "令和７年秋　応用情報技術者試験　午前"
+  },
+  {
+    "id": "P7LgkDUma0M",
+    "title": "【令和７年秋　応用情報技術者試験】午前　問７　Scala",
+    "playlist": "PLG6PepT_DSdwVuypY_kwQ6L1Rvw2I3plh",
+    "playlistTitle": "令和７年秋　応用情報技術者試験　午前"
+  },
+  {
+    "id": "NnHj7rl3utU",
+    "title": "【令和７年秋　応用情報技術者試験】午前　問６　平均探索回数",
+    "playlist": "PLG6PepT_DSdwVuypY_kwQ6L1Rvw2I3plh",
+    "playlistTitle": "令和７年秋　応用情報技術者試験　午前"
+  },
+  {
+    "id": "JD0vDiQv6Nw",
+    "title": "【令和７年秋　応用情報技術者試験】午前　問５　ベストフィット方式",
+    "playlist": "PLG6PepT_DSdwVuypY_kwQ6L1Rvw2I3plh",
+    "playlistTitle": "令和７年秋　応用情報技術者試験　午前"
+  },
+  {
+    "id": "bp-f-9C_drg",
+    "title": "【令和７年秋　応用情報技術者試験】午前　問４　CRC　巡回符号方式",
+    "playlist": "PLG6PepT_DSdwVuypY_kwQ6L1Rvw2I3plh",
+    "playlistTitle": "令和７年秋　応用情報技術者試験　午前"
+  },
+  {
+    "id": "tHDedxqLo7g",
+    "title": "【令和７年秋　応用情報技術者試験】午前　問３",
+    "playlist": "PLG6PepT_DSdwVuypY_kwQ6L1Rvw2I3plh",
+    "playlistTitle": "令和７年秋　応用情報技術者試験　午前"
+  },
+  {
+    "id": "HbQ6-4d4Bn4",
+    "title": "【令和７年秋　応用情報技術者試験】午前　問２",
+    "playlist": "PLG6PepT_DSdwVuypY_kwQ6L1Rvw2I3plh",
+    "playlistTitle": "令和７年秋　応用情報技術者試験　午前"
+  },
+  {
+    "id": "aqSErcK5CPE",
+    "title": "【令和７年秋　応用情報技術者試験】午前　問１",
+    "playlist": "PLG6PepT_DSdwVuypY_kwQ6L1Rvw2I3plh",
+    "playlistTitle": "令和７年秋　応用情報技術者試験　午前"
+  },
+  {
+    "id": "aqSErcK5CPE",
+    "title": "【令和７年秋　応用情報技術者試験】午前　問１",
+    "playlist": "PLG6PepT_DSdwVuypY_kwQ6L1Rvw2I3plh",
+    "playlistTitle": "令和７年秋　応用情報技術者試験　午前"
+  },
+  {
+    "id": "PZtY-m1929M",
+    "title": "【令和７年秋　応用情報技術者試験】午前　問２１〜問２５ #応用情報技術者試験 #令和７年秋 #午前",
+    "playlist": "PLG6PepT_DSdwVuypY_kwQ6L1Rvw2I3plh",
+    "playlistTitle": "令和７年秋　応用情報技術者試験　午前"
+  },
+  {
+    "id": "1mMiUfVVmNs",
+    "title": "【令和７年秋　応用情報技術者試験】午前　問２６〜問３０ #応用情報技術者試験 #令和７年秋 #午前",
+    "playlist": "PLG6PepT_DSdwVuypY_kwQ6L1Rvw2I3plh",
+    "playlistTitle": "令和７年秋　応用情報技術者試験　午前"
+  },
+  {
+    "id": "oOBVBX4CeHA",
+    "title": "【令和７年秋　応用情報技術者試験】午前　問１６〜問２０ #応用情報技術者試験 #令和７年秋 #午前",
+    "playlist": "PLG6PepT_DSdwVuypY_kwQ6L1Rvw2I3plh",
+    "playlistTitle": "令和７年秋　応用情報技術者試験　午前"
+  },
+  {
+    "id": "9M2Uf0LY7l8",
+    "title": "【聞き流し】基本情報・応用情報技術者試験によく出るコンピュータシステム１３０一問一答 #情報技術者試験 #基本情報技術者試験 #itパスポート #応用情報技術者試験",
+    "playlist": "PLG6PepT_DSdzt-Y2P5lvk1MgutH4-qY6V",
+    "playlistTitle": "一問一答"
+  },
+  {
+    "id": "XKmNSlaId-Q",
+    "title": "【聞き流し】基本情報・応用情報技術者試験によく出るストラテジ１３０用語　一問一答",
+    "playlist": "PLG6PepT_DSdzt-Y2P5lvk1MgutH4-qY6V",
+    "playlistTitle": "一問一答"
+  },
+  {
+    "id": "CE7vBHtBlzg",
+    "title": "【聞き流し】基本情報・応用情報技術者試験によく出るプロジェクトマネジメント・ITサービスマネジメント・監査１３０一問一答 #情報技術者試験 #基本情報技術者試験 #itパスポート",
+    "playlist": "PLG6PepT_DSdzt-Y2P5lvk1MgutH4-qY6V",
+    "playlistTitle": "一問一答"
+  },
+  {
+    "id": "Se1aTlhdf4Q",
+    "title": "【聞き流し】基本情報・応用情報技術者試験によく出る情報システム開発１３０一問一答#情報技術者試験 #基本情報技術者試験 #itパスポート試験  #応用情報技術者試験",
+    "playlist": "PLG6PepT_DSdzt-Y2P5lvk1MgutH4-qY6V",
+    "playlistTitle": "一問一答"
+  },
+  {
+    "id": "KOhrcZLnRS4",
+    "title": "【聞き流し】基本情報・応用情報技術者試験によく出る情報データベース用語１３０一問一答#情報技術者試験 #基本情報技術者試験 #itパスポート試験  #応用情報技術者試験",
+    "playlist": "PLG6PepT_DSdzt-Y2P5lvk1MgutH4-qY6V",
+    "playlistTitle": "一問一答"
+  },
+  {
+    "id": "1PoXCiAvRMA",
+    "title": "【聞き流し】基本情報・応用情報技術者試験によく出る情報セキュリティ用語１７０一問一答#情報技術者試験 #基本情報技術者試験 #itパスポート試験  #応用情報技術者試験",
+    "playlist": "PLG6PepT_DSdzt-Y2P5lvk1MgutH4-qY6V",
+    "playlistTitle": "一問一答"
+  },
+  {
+    "id": "PPlEXLJRFPs",
+    "title": "【聞き流し】基本情報・応用情報技術者試験によく出るネットワーク用語１３０一問一答#情報技術者試験 #基本情報技術者試験 #itパスポート試験  #応用情報技術者試験",
+    "playlist": "PLG6PepT_DSdzt-Y2P5lvk1MgutH4-qY6V",
+    "playlistTitle": "一問一答"
+  },
+  {
+    "id": "tNhlXg3LmbY",
+    "title": "【聞き流し】情報処理技術者試験　よく出る用語３００一問一答",
+    "playlist": "PLG6PepT_DSdzt-Y2P5lvk1MgutH4-qY6V",
+    "playlistTitle": "一問一答"
+  },
+  {
+    "id": "gEimECp4_q8",
+    "title": "【令和７年秋 】応用情報技術者　解答速報（午前と午後をそれぞれピックアップ）",
+    "playlist": "PLG6PepT_DSdwKK7mNzwiBOKuiMt_rHDNe",
+    "playlistTitle": "【解答速報】令和7年秋　応用情報技術者試験　午後試験"
+  },
+  {
+    "id": "ZFJFquo0-T8",
+    "title": "【解答速報】応用情報技術者試験　令和７年秋　午後　問１　情報セキュリティ",
+    "playlist": "PLG6PepT_DSdwKK7mNzwiBOKuiMt_rHDNe",
+    "playlistTitle": "【解答速報】令和7年秋　応用情報技術者試験　午後試験"
+  },
+  {
+    "id": "TyFHg-gmAhg",
+    "title": "【解答速報】応用情報技術者試験　令和７年秋　午後　問２　経営戦略",
+    "playlist": "PLG6PepT_DSdwKK7mNzwiBOKuiMt_rHDNe",
+    "playlistTitle": "【解答速報】令和7年秋　応用情報技術者試験　午後試験"
+  },
+  {
+    "id": "bIHErEoFx-c",
+    "title": "【解答速報】応用情報技術者試験　令和７年秋　午後　問３　プログラミング",
+    "playlist": "PLG6PepT_DSdwKK7mNzwiBOKuiMt_rHDNe",
+    "playlistTitle": "【解答速報】令和7年秋　応用情報技術者試験　午後試験"
+  },
+  {
+    "id": "LVyBkHPF3oU",
+    "title": "【解答速報】応用情報技術者試験　令和７年秋　午後　問４　システムアーキテクチャ",
+    "playlist": "PLG6PepT_DSdwKK7mNzwiBOKuiMt_rHDNe",
+    "playlistTitle": "【解答速報】令和7年秋　応用情報技術者試験　午後試験"
+  },
+  {
+    "id": "5YJFqIraVV0",
+    "title": "【解答速報】応用情報技術者試験　令和７年秋　午後　問５　ネットワーク",
+    "playlist": "PLG6PepT_DSdwKK7mNzwiBOKuiMt_rHDNe",
+    "playlistTitle": "【解答速報】令和7年秋　応用情報技術者試験　午後試験"
+  },
+  {
+    "id": "NDY8RsgFnGA",
+    "title": "【解答速報】応用情報技術者試験　令和７年秋　午後　問６　データベース",
+    "playlist": "PLG6PepT_DSdwKK7mNzwiBOKuiMt_rHDNe",
+    "playlistTitle": "【解答速報】令和7年秋　応用情報技術者試験　午後試験"
+  },
+  {
+    "id": "bap6b2AlcBA",
+    "title": "【解答速報】応用情報技術者試験　令和７年秋　午後　問７　組込システム",
+    "playlist": "PLG6PepT_DSdwKK7mNzwiBOKuiMt_rHDNe",
+    "playlistTitle": "【解答速報】令和7年秋　応用情報技術者試験　午後試験"
+  },
+  {
+    "id": "nzBfVFJujwE",
+    "title": "【解答速報】応用情報技術者試験　令和７年秋　午後　問８　情報システム開発",
+    "playlist": "PLG6PepT_DSdwKK7mNzwiBOKuiMt_rHDNe",
+    "playlistTitle": "【解答速報】令和7年秋　応用情報技術者試験　午後試験"
+  },
+  {
+    "id": "hOarM2NUM1I",
+    "title": "【解答速報】応用情報技術者試験　令和７年秋　午後　問９　プロジェクトマネジメント",
+    "playlist": "PLG6PepT_DSdwKK7mNzwiBOKuiMt_rHDNe",
+    "playlistTitle": "【解答速報】令和7年秋　応用情報技術者試験　午後試験"
+  },
+  {
+    "id": "ZzFIw4NU57k",
+    "title": "【解答速報】応用情報技術者試験　令和７年秋　午後　問１０　サービスマネジメント",
+    "playlist": "PLG6PepT_DSdwKK7mNzwiBOKuiMt_rHDNe",
+    "playlistTitle": "【解答速報】令和7年秋　応用情報技術者試験　午後試験"
+  },
+  {
+    "id": "ZDHOJ-oVdSY",
+    "title": "【解答速報】応用情報技術者試験　令和７年秋　午後　問１１　システム監査",
+    "playlist": "PLG6PepT_DSdwKK7mNzwiBOKuiMt_rHDNe",
+    "playlistTitle": "【解答速報】令和7年秋　応用情報技術者試験　午後試験"
+  },
+  {
+    "id": "3nYv58ETNe4",
+    "title": "【令和７年秋　応用情報技術者試験試験　午後問９　プロジェクトマネジメント】を短編映画で再現してみた #応用情報技術者試験  #情報処理技術者試験  #基本情報技術者試験  #itパスポート試験",
+    "playlist": "PLG6PepT_DSdy-L-fbC9Jg54fY_lx--g09",
+    "playlistTitle": "短編映画で学ぶ情報処理技術者試験"
+  },
+  {
+    "id": "gIOCBVnxv_4",
+    "title": "【応用情報技術者試験×短編映画】短編映画を通じて情報処理技術者試験を学習 #応用情報技術者試験  #情報処理技術者試験  #基本情報技術者試験  #itパスポート試験",
+    "playlist": "PLG6PepT_DSdy-L-fbC9Jg54fY_lx--g09",
+    "playlistTitle": "短編映画で学ぶ情報処理技術者試験"
+  },
+  {
+    "id": "rm0mT59kFL4",
+    "title": "【情報処理技術者試験×短編映画 MISSION】短編映画を通じて情報処理技術者試験を学習 #応用情報技術者試験  #情報処理技術者試験  #基本情報技術者試験  #itパスポート試験",
+    "playlist": "PLG6PepT_DSdy-L-fbC9Jg54fY_lx--g09",
+    "playlistTitle": "短編映画で学ぶ情報処理技術者試験"
+  },
+  {
+    "id": "pp_GXlK6Y1E",
+    "title": "【データマネジメント試験】データ管理の崩壊…その末路を短編映画化｜データマネジメントの重要性 #DMBOK #情報処理技術者試験 #応用情報技術者試験",
+    "playlist": "PLG6PepT_DSdy-L-fbC9Jg54fY_lx--g09",
+    "playlistTitle": "短編映画で学ぶ情報処理技術者試験"
+  },
+  {
+    "id": "t_SxUdpZoXg",
+    "title": "【情報処理安全確保支援士】アサヒビールの事例に学ぶ、ランサムウェア被害のリアルを短編映画化 #情報処理技術者試験 #応用情報技術者試験 #情報セキュリティ",
+    "playlist": "PLG6PepT_DSdy-L-fbC9Jg54fY_lx--g09",
+    "playlistTitle": "短編映画で学ぶ情報処理技術者試験"
+  },
+  {
+    "id": "Pg-c5QQd5hc",
+    "title": "【データマネジメント試験】科目Aのサンプル問題を短編映画化｜潜入 #DMBOK #情報処理技術者試験 #応用情報技術者試験 17時までに3つの答えを持ち帰れ…",
+    "playlist": "PLG6PepT_DSdy-L-fbC9Jg54fY_lx--g09",
+    "playlistTitle": "短編映画で学ぶ情報処理技術者試験"
+  },
+  {
+    "id": "db80bwgtqcM",
+    "title": "【データマネジメント試験】科目Bのサンプル問題を短編映画化｜鍵 #DMBOK #情報処理技術者試験 #応用情報技術者試験 消えたデータと深夜のオフィスで起きた事件…",
+    "playlist": "PLG6PepT_DSdy-L-fbC9Jg54fY_lx--g09",
+    "playlistTitle": "短編映画で学ぶ情報処理技術者試験"
+  },
+  {
+    "id": "nBWWQ2eSS_8",
+    "title": "【データマネジメント試験】科目Bのサンプル問題を短編映画化｜責任 #DMBOK #情報処理技術者試験 #応用情報技術者試験 データの責任を巡る争い、その夜に起きた殺人事件…",
+    "playlist": "PLG6PepT_DSdy-L-fbC9Jg54fY_lx--g09",
+    "playlistTitle": "短編映画で学ぶ情報処理技術者試験"
+  },
+  {
+    "id": "miEXlSG3h8o",
+    "title": "【短編映画】パワハラ上司に\"知識\"で立ち向かう新人エンジニア　情報処理技術者試験",
+    "playlist": "PLG6PepT_DSdy-L-fbC9Jg54fY_lx--g09",
+    "playlistTitle": "短編映画で学ぶ情報処理技術者試験"
+  },
+  {
+    "id": "-vr_18qQk8o",
+    "title": "【令和７年春　応用情報技術者試験】午前問２１｜ IoT機器のセンサーノードの消費電流",
+    "playlist": "PLG6PepT_DSdzQVo6YwtY4DbYrZln3WUwR",
+    "playlistTitle": "令和７年春　応用情報技術者試験　午前"
+  },
+  {
+    "id": "Juqn5LlW1A0",
+    "title": "【令和７年春　応用情報技術者試験】午前問３｜AIにおける過学習対策",
+    "playlist": "PLG6PepT_DSdzQVo6YwtY4DbYrZln3WUwR",
+    "playlistTitle": "令和７年春　応用情報技術者試験　午前"
+  },
+  {
+    "id": "hvbnvfqcUoQ",
+    "title": "【令和７年春　応用情報技術者試験】午前問２｜近似的に求めるアルゴリズム",
+    "playlist": "PLG6PepT_DSdzQVo6YwtY4DbYrZln3WUwR",
+    "playlistTitle": "令和７年春　応用情報技術者試験　午前"
+  },
+  {
+    "id": "ljJikEfYQW8",
+    "title": "【令和７年春　応用情報技術者試験】午前問１｜論理式と含意",
+    "playlist": "PLG6PepT_DSdzQVo6YwtY4DbYrZln3WUwR",
+    "playlistTitle": "令和７年春　応用情報技術者試験　午前"
+  },
+  {
+    "id": "zpqI63Zr2nI",
+    "title": "令和７年春　応用情報技術者試験　午後１　情報セキュリティ",
+    "playlist": "PLG6PepT_DSdysaYrc6Ln2zSxkIBQExxJ4",
+    "playlistTitle": "令和７年春　応用情報技術者試験　午後"
+  },
+  {
+    "id": "dzy0189Dobc",
+    "title": "令和７年春　応用情報技術者試験　午後５　ネットワーク",
+    "playlist": "PLG6PepT_DSdysaYrc6Ln2zSxkIBQExxJ4",
+    "playlistTitle": "令和７年春　応用情報技術者試験　午後"
+  },
+  {
+    "id": "E7f7jWGeHmw",
+    "title": "【情報処理技術者試験用語クイズ】ミリ波、超音波、可視光カメラ、LiDAR",
+    "playlist": "PLG6PepT_DSdxwsTXMDIdwfSkHPoor3jfF",
+    "playlistTitle": "情報処理技術者試験　用語クイズ"
+  },
+  {
+    "id": "JmZA9OLPo5Q",
+    "title": "【情報処理技術者試験用語クイズ】IoT、スマートロック、BLE、多要素認証、アクチュエーター",
+    "playlist": "PLG6PepT_DSdxwsTXMDIdwfSkHPoor3jfF",
+    "playlistTitle": "情報処理技術者試験　用語クイズ"
+  },
+  {
+    "id": "lgg2Po4QY9g",
+    "title": "【令和６年秋 応用情報技術者試験】午前問１｜M/M/1待ち行列｜応用数学",
+    "playlist": "PLG6PepT_DSdw0NOPe8Bz_P4Sahwo9-NE_",
+    "playlistTitle": "令和６年秋　応用情報技術者試験　午前"
+  },
+  {
+    "id": "R7I83JGzBEU",
+    "title": "【令和６年秋 応用情報技術者試験】午前問２｜教師あり学習の交差検証｜情報に関する理",
+    "playlist": "PLG6PepT_DSdw0NOPe8Bz_P4Sahwo9-NE_",
+    "playlistTitle": "令和６年秋　応用情報技術者試験　午前"
+  },
+  {
+    "id": "YJjFGp0FtoI",
+    "title": "【令和６年秋 応用情報技術者試験】午前問３｜逆ポーランド表記法｜情報に関する理論",
+    "playlist": "PLG6PepT_DSdw0NOPe8Bz_P4Sahwo9-NE_",
+    "playlistTitle": "令和６年秋　応用情報技術者試験　午前"
+  },
+  {
+    "id": "VMhdrrZRgA4",
+    "title": "【令和６年秋 応用情報技術者試験】午前問４｜先進運営支援システムのセンサー｜計測・制御に関する理論",
+    "playlist": "PLG6PepT_DSdw0NOPe8Bz_P4Sahwo9-NE_",
+    "playlistTitle": "令和６年秋　応用情報技術者試験　午前"
+  },
+  {
+    "id": "imbzLvjIJA8",
+    "title": "【令和６年秋 応用情報技術者試験】午前問５｜２分探索木｜データ構造",
+    "playlist": "PLG6PepT_DSdw0NOPe8Bz_P4Sahwo9-NE_",
+    "playlistTitle": "令和６年秋　応用情報技術者試験　午前"
+  },
+  {
+    "id": "AyzWiYblL1c",
+    "title": "【令和６年秋 応用情報技術者試験】午前問６｜ハッシュ関数｜アルゴリズム",
+    "playlist": "PLG6PepT_DSdw0NOPe8Bz_P4Sahwo9-NE_",
+    "playlistTitle": "令和６年秋　応用情報技術者試験　午前"
+  },
+  {
+    "id": "1hs-opT8rns",
+    "title": "【令和６年秋 応用情報技術者試験】午前問７｜プログラム言語｜テクノロジ系",
+    "playlist": "PLG6PepT_DSdw0NOPe8Bz_P4Sahwo9-NE_",
+    "playlistTitle": "令和６年秋　応用情報技術者試験　午前"
+  },
+  {
+    "id": "QtaO5j6IGD0",
+    "title": "【令和６年秋 応用情報技術者試験】午前問８｜命令実行｜プロセッサ",
+    "playlist": "PLG6PepT_DSdw0NOPe8Bz_P4Sahwo9-NE_",
+    "playlistTitle": "令和６年秋　応用情報技術者試験　午前"
+  },
+  {
+    "id": "BulfMSClbdU",
+    "title": "【令和６年秋 応用情報技術者試験】午前問９｜量子超越性",
+    "playlist": "PLG6PepT_DSdw0NOPe8Bz_P4Sahwo9-NE_",
+    "playlistTitle": "令和６年秋　応用情報技術者試験　午前"
+  },
+  {
+    "id": "nSveH194XkQ",
+    "title": "【令和６年秋 応用情報技術者試験】午前問１０｜キャッシュメモリ｜コンピュータ構成要素",
+    "playlist": "PLG6PepT_DSdw0NOPe8Bz_P4Sahwo9-NE_",
+    "playlistTitle": "令和６年秋　応用情報技術者試験　午前"
+  },
+  {
+    "id": "TeBuDkY8J2A",
+    "title": "【令和６年秋 応用情報技術者試験】午前問１１｜ファイバチャネル｜入出力デバイス",
+    "playlist": "PLG6PepT_DSdw0NOPe8Bz_P4Sahwo9-NE_",
+    "playlistTitle": "令和６年秋　応用情報技術者試験　午前"
+  },
+  {
+    "id": "_GkDlzK58WQ",
+    "title": "【令和６年秋 応用情報技術者試験】午前問１２｜Webアプリケーションサーバ｜システムの構成",
+    "playlist": "PLG6PepT_DSdw0NOPe8Bz_P4Sahwo9-NE_",
+    "playlistTitle": "令和６年秋　応用情報技術者試験　午前"
+  },
+  {
+    "id": "3pCaJlnsynM",
+    "title": "【令和６年秋 応用情報技術者試験】午前問１３｜オブジェクトストレージ｜システムの構成",
+    "playlist": "PLG6PepT_DSdw0NOPe8Bz_P4Sahwo9-NE_",
+    "playlistTitle": "令和６年秋　応用情報技術者試験　午前"
+  },
+  {
+    "id": "dGJfdc9YqKU",
+    "title": "【令和６年秋 応用情報技術者試験】午前問１４｜稼働率の比較｜システムの評価指標",
+    "playlist": "PLG6PepT_DSdw0NOPe8Bz_P4Sahwo9-NE_",
+    "playlistTitle": "令和６年秋　応用情報技術者試験　午前"
+  },
+  {
+    "id": "aiIgnqpVTwE",
+    "title": "【令和６年秋 応用情報技術者試験】午前問１５｜クライアントサーバシステム｜システムの評価指標",
+    "playlist": "PLG6PepT_DSdw0NOPe8Bz_P4Sahwo9-NE_",
+    "playlistTitle": "令和６年秋　応用情報技術者試験　午前"
+  },
+  {
+    "id": "8YWO4UrkMxs",
+    "title": "【令和６年秋 応用情報技術者試験】午前問１６｜タスクスケジューリング｜オペレーティングシステム",
+    "playlist": "PLG6PepT_DSdw0NOPe8Bz_P4Sahwo9-NE_",
+    "playlistTitle": "令和６年秋　応用情報技術者試験　午前"
+  },
+  {
+    "id": "8HdbE6IupyE",
+    "title": "【令和６年秋 応用情報技術者試験】午前問１７｜ページング方式における性能低下",
+    "playlist": "PLG6PepT_DSdw0NOPe8Bz_P4Sahwo9-NE_",
+    "playlistTitle": "令和６年秋　応用情報技術者試験　午前"
+  },
+  {
+    "id": "neoV7dLvzog",
+    "title": "【令和６年秋 応用情報技術者試験】午前問１８｜ページング方式の長所｜オペレーティングシステム",
+    "playlist": "PLG6PepT_DSdw0NOPe8Bz_P4Sahwo9-NE_",
+    "playlistTitle": "令和６年秋　応用情報技術者試験　午前"
+  },
+  {
+    "id": "NIbRb1nzor4",
+    "title": "【令和６年秋 応用情報技術者試験】午前問１９｜バージョン管理ツール｜開発ツール",
+    "playlist": "PLG6PepT_DSdw0NOPe8Bz_P4Sahwo9-NE_",
+    "playlistTitle": "令和６年秋　応用情報技術者試験　午前"
+  },
+  {
+    "id": "BDmSyJ4on1I",
+    "title": "【令和６年秋 応用情報技術者試験】午前問２０｜コンパイラのコード生成処理｜開発ツール",
+    "playlist": "PLG6PepT_DSdw0NOPe8Bz_P4Sahwo9-NE_",
+    "playlistTitle": "令和６年秋　応用情報技術者試験　午前"
+  },
+  {
+    "id": "I0RQfm_DmHA",
+    "title": "【令和６年秋 応用情報技術者試験】午前問２１｜タイミングチャート｜ハードウェア",
+    "playlist": "PLG6PepT_DSdw0NOPe8Bz_P4Sahwo9-NE_",
+    "playlistTitle": "令和６年秋　応用情報技術者試験　午前"
+  },
+  {
+    "id": "mq0v9sez7aQ",
+    "title": "【令和６年秋 応用情報技術者試験】午前問２２｜SoC｜ハードウェア",
+    "playlist": "PLG6PepT_DSdw0NOPe8Bz_P4Sahwo9-NE_",
+    "playlistTitle": "令和６年秋　応用情報技術者試験　午前"
+  },
+  {
+    "id": "S3r3XkViS0c",
+    "title": "【令和６年秋 応用情報技術者試験】午前問２３｜アクチュエーター｜ハードウェア",
+    "playlist": "PLG6PepT_DSdw0NOPe8Bz_P4Sahwo9-NE_",
+    "playlistTitle": "令和６年秋　応用情報技術者試験　午前"
+  },
+  {
+    "id": "UgEAlALyEUI",
+    "title": "【令和６年秋 応用情報技術者試験】午前問２４｜マイクロプロセッサ｜ハードウェア",
+    "playlist": "PLG6PepT_DSdw0NOPe8Bz_P4Sahwo9-NE_",
+    "playlistTitle": "令和６年秋　応用情報技術者試験　午前"
+  },
+  {
+    "id": "ItoxzakWpEw",
+    "title": "【令和６年秋 応用情報技術者試験】午前問２５｜Webページの構成要素｜UX/UIデザイン",
+    "playlist": "PLG6PepT_DSdw0NOPe8Bz_P4Sahwo9-NE_",
+    "playlistTitle": "令和６年秋　応用情報技術者試験　午前"
+  },
+  {
+    "id": "BrTbkUnJZ7Q",
+    "title": "【令和６年秋 応用情報技術者試験】午前問２６｜帯域幅｜マルチメディア技術",
+    "playlist": "PLG6PepT_DSdw0NOPe8Bz_P4Sahwo9-NE_",
+    "playlistTitle": "令和６年秋　応用情報技術者試験　午前"
+  },
+  {
+    "id": "MyREwtAhv5E",
+    "title": "【令和６年秋 応用情報技術者試験】午前問２７｜2相コミット中の障害｜トランザクション処理",
+    "playlist": "PLG6PepT_DSdw0NOPe8Bz_P4Sahwo9-NE_",
+    "playlistTitle": "令和６年秋　応用情報技術者試験　午前"
+  },
+  {
+    "id": "-Cl-uY1sX_E",
+    "title": "【令和６年秋 応用情報技術者試験】午前問２８｜表情報の読み取り｜データ操作",
+    "playlist": "PLG6PepT_DSdw0NOPe8Bz_P4Sahwo9-NE_",
+    "playlistTitle": "令和６年秋　応用情報技術者試験　午前"
+  },
+  {
+    "id": "kDhf3Yx8QLY",
+    "title": "【令和６年秋 応用情報技術者試験】午前問２９｜オブジェクト図｜データベース設計",
+    "playlist": "PLG6PepT_DSdw0NOPe8Bz_P4Sahwo9-NE_",
+    "playlistTitle": "令和６年秋　応用情報技術者試験　午前"
+  },
+  {
+    "id": "Y7cPMvG39_U",
+    "title": "【令和６年秋 応用情報技術者試験】午前問３０｜SQL文",
+    "playlist": "PLG6PepT_DSdw0NOPe8Bz_P4Sahwo9-NE_",
+    "playlistTitle": "令和６年秋　応用情報技術者試験　午前"
+  },
+  {
+    "id": "E9f6pCzsAUI",
+    "title": "【令和６年秋 応用情報技術者試験】午前問３１｜DBMSのチェックポイント",
+    "playlist": "PLG6PepT_DSdw0NOPe8Bz_P4Sahwo9-NE_",
+    "playlistTitle": "令和６年秋　応用情報技術者試験　午前"
+  },
+  {
+    "id": "u1Uzq-iaNFs",
+    "title": "【令和６年秋 応用情報技術者試験】午前問３２｜最低速度の回線サービス",
+    "playlist": "PLG6PepT_DSdw0NOPe8Bz_P4Sahwo9-NE_",
+    "playlistTitle": "令和６年秋　応用情報技術者試験　午前"
+  },
+  {
+    "id": "s618eDn3g5I",
+    "title": "【令和６年秋 応用情報技術者試験】午前問３３｜DNS",
+    "playlist": "PLG6PepT_DSdw0NOPe8Bz_P4Sahwo9-NE_",
+    "playlistTitle": "令和６年秋　応用情報技術者試験　午前"
+  },
+  {
+    "id": "omOML6-svIg",
+    "title": "【令和６年秋 応用情報技術者試験】午前問３４｜ICMPの機能",
+    "playlist": "PLG6PepT_DSdw0NOPe8Bz_P4Sahwo9-NE_",
+    "playlistTitle": "令和６年秋　応用情報技術者試験　午前"
+  },
+  {
+    "id": "-WD6t6Rzz8s",
+    "title": "【令和６年秋 応用情報技術者試験】午前問３５｜クラスDのIPv4アドレス",
+    "playlist": "PLG6PepT_DSdw0NOPe8Bz_P4Sahwo9-NE_",
+    "playlistTitle": "令和６年秋　応用情報技術者試験　午前"
+  },
+  {
+    "id": "okLdFtn00Rg",
+    "title": "【令和６年秋 応用情報技術者試験】午前問３６｜MACアドレス",
+    "playlist": "PLG6PepT_DSdw0NOPe8Bz_P4Sahwo9-NE_",
+    "playlistTitle": "令和６年秋　応用情報技術者試験　午前"
+  },
+  {
+    "id": "g9cPCYF6ywc",
+    "title": "【令和６年秋 応用情報技術者試験】午前問３７｜SAML認証",
+    "playlist": "PLG6PepT_DSdw0NOPe8Bz_P4Sahwo9-NE_",
+    "playlistTitle": "令和６年秋　応用情報技術者試験　午前"
+  },
+  {
+    "id": "i3OdHUFlGuM",
+    "title": "【令和６年秋 応用情報技術者試験】午前問３８｜パケット",
+    "playlist": "PLG6PepT_DSdw0NOPe8Bz_P4Sahwo9-NE_",
+    "playlistTitle": "令和６年秋　応用情報技術者試験　午前"
+  },
+  {
+    "id": "fm3JoeEMQdU",
+    "title": "【令和６年秋 応用情報技術者試験】午前問３９｜ディープフェイク",
+    "playlist": "PLG6PepT_DSdw0NOPe8Bz_P4Sahwo9-NE_",
+    "playlistTitle": "令和６年秋　応用情報技術者試験　午前"
+  },
+  {
+    "id": "nX7vaHl50dw",
+    "title": "【令和６年秋 応用情報技術者試験】午前問４０｜パスワードリスト攻撃",
+    "playlist": "PLG6PepT_DSdw0NOPe8Bz_P4Sahwo9-NE_",
+    "playlistTitle": "令和６年秋　応用情報技術者試験　午前"
+  },
+  {
+    "id": "O-2wHv0bfQE",
+    "title": "【令和６年秋 応用情報技術者試験】午前問４１｜CVE識別子",
+    "playlist": "PLG6PepT_DSdw0NOPe8Bz_P4Sahwo9-NE_",
+    "playlistTitle": "令和６年秋　応用情報技術者試験　午前"
+  },
+  {
+    "id": "rDZ_6kaLVw0",
+    "title": "【令和６年秋 応用情報技術者試験】午前問４２｜DNSキャッシュポイズニング攻撃",
+    "playlist": "PLG6PepT_DSdw0NOPe8Bz_P4Sahwo9-NE_",
+    "playlistTitle": "令和６年秋　応用情報技術者試験　午前"
+  },
+  {
+    "id": "MIXsyKSeJVQ",
+    "title": "【令和６年秋 応用情報技術者試験】午前問４３｜SBOM",
+    "playlist": "PLG6PepT_DSdw0NOPe8Bz_P4Sahwo9-NE_",
+    "playlistTitle": "令和６年秋　応用情報技術者試験　午前"
+  },
+  {
+    "id": "Y2ZQPnFHumo",
+    "title": "【令和６年秋 応用情報技術者試験】午前問４４｜DNSSEC",
+    "playlist": "PLG6PepT_DSdw0NOPe8Bz_P4Sahwo9-NE_",
+    "playlistTitle": "令和６年秋　応用情報技術者試験　午前"
+  },
+  {
+    "id": "l_1PynhbCGI",
+    "title": "【令和６年秋 応用情報技術者試験】午前問４５｜VLAN機能のセキュリティ効果",
+    "playlist": "PLG6PepT_DSdw0NOPe8Bz_P4Sahwo9-NE_",
+    "playlistTitle": "令和６年秋　応用情報技術者試験　午前"
+  },
+  {
+    "id": "vlAPCefo2XM",
+    "title": "【令和６年秋 応用情報技術者試験】午前問４６｜エクスプロイトコード",
+    "playlist": "PLG6PepT_DSdw0NOPe8Bz_P4Sahwo9-NE_",
+    "playlistTitle": "令和６年秋　応用情報技術者試験　午前"
+  },
+  {
+    "id": "NECPvRfdp-0",
+    "title": "【令和６年秋 応用情報技術者試験】午前問４７｜マイクロサービスアーキテクチャ",
+    "playlist": "PLG6PepT_DSdw0NOPe8Bz_P4Sahwo9-NE_",
+    "playlistTitle": "令和６年秋　応用情報技術者試験　午前"
+  },
+  {
+    "id": "FLeaoRgdZCw",
+    "title": "【令和６年秋 応用情報技術者試験】午前問４８｜使用性を評価する指標",
+    "playlist": "PLG6PepT_DSdw0NOPe8Bz_P4Sahwo9-NE_",
+    "playlistTitle": "令和６年秋　応用情報技術者試験　午前"
+  },
+  {
+    "id": "s_0fVka9woY",
+    "title": "【令和６年秋 応用情報技術者試験】午前問４９｜アジャイル開発",
+    "playlist": "PLG6PepT_DSdw0NOPe8Bz_P4Sahwo9-NE_",
+    "playlistTitle": "令和６年秋　応用情報技術者試験　午前"
+  },
+  {
+    "id": "fvwOWEo7Vh0",
+    "title": "【令和６年秋 応用情報技術者試験】午前問５０｜レスポンシブWebデザイン",
+    "playlist": "PLG6PepT_DSdw0NOPe8Bz_P4Sahwo9-NE_",
+    "playlistTitle": "令和６年秋　応用情報技術者試験　午前"
+  },
+  {
+    "id": "_zcyJ_kDLUU",
+    "title": "【令和６年秋 応用情報技術者試験】午前問５１｜スコープの管理",
+    "playlist": "PLG6PepT_DSdw0NOPe8Bz_P4Sahwo9-NE_",
+    "playlistTitle": "令和６年秋　応用情報技術者試験　午前"
+  },
+  {
+    "id": "zQRIf4TRjx0",
+    "title": "【令和６年秋 応用情報技術者試験】午前問５２｜WBS",
+    "playlist": "PLG6PepT_DSdw0NOPe8Bz_P4Sahwo9-NE_",
+    "playlistTitle": "令和６年秋　応用情報技術者試験　午前"
+  },
+  {
+    "id": "TEHU7qY3zYY",
+    "title": "【令和６年秋 応用情報技術者試験】午前問５３｜プロジェクトマネジメント",
+    "playlist": "PLG6PepT_DSdw0NOPe8Bz_P4Sahwo9-NE_",
+    "playlistTitle": "令和６年秋　応用情報技術者試験　午前"
+  },
+  {
+    "id": "uK0Pou_cGnE",
+    "title": "【令和６年秋 応用情報技術者試験】午前問５４｜ファストトラッキング",
+    "playlist": "PLG6PepT_DSdw0NOPe8Bz_P4Sahwo9-NE_",
+    "playlistTitle": "令和６年秋　応用情報技術者試験　午前"
+  },
+  {
+    "id": "IL0onyfPFFU",
+    "title": "【令和６年秋 応用情報技術者試験】午前問５５｜RTOとRLO",
+    "playlist": "PLG6PepT_DSdw0NOPe8Bz_P4Sahwo9-NE_",
+    "playlistTitle": "令和６年秋　応用情報技術者試験　午前"
+  },
+  {
+    "id": "J4e_ii_wEJQ",
+    "title": "【令和６年秋 応用情報技術者試験】午前問５６｜JIS Q 20000-1:2020",
+    "playlist": "PLG6PepT_DSdw0NOPe8Bz_P4Sahwo9-NE_",
+    "playlistTitle": "令和６年秋　応用情報技術者試験　午前"
+  },
+  {
+    "id": "mAHSIhnELBM",
+    "title": "【令和６年秋 応用情報技術者試験】午前問５７｜入出力データの管理方針",
+    "playlist": "PLG6PepT_DSdw0NOPe8Bz_P4Sahwo9-NE_",
+    "playlistTitle": "令和６年秋　応用情報技術者試験　午前"
+  },
+  {
+    "id": "FSOMKoJPWUE",
+    "title": "【令和６年秋 応用情報技術者試験】午前問５８｜監査手続の技法",
+    "playlist": "PLG6PepT_DSdw0NOPe8Bz_P4Sahwo9-NE_",
+    "playlistTitle": "令和６年秋　応用情報技術者試験　午前"
+  },
+  {
+    "id": "aSTH3b17W10",
+    "title": "【令和６年秋 応用情報技術者試験】午前問５９｜システム監査基準の予備調査",
+    "playlist": "PLG6PepT_DSdw0NOPe8Bz_P4Sahwo9-NE_",
+    "playlistTitle": "令和６年秋　応用情報技術者試験　午前"
+  },
+  {
+    "id": "RZjqC_k7wL8",
+    "title": "【令和６年秋 応用情報技術者試験】午前問６０｜システム監査基準のフォローアップ",
+    "playlist": "PLG6PepT_DSdw0NOPe8Bz_P4Sahwo9-NE_",
+    "playlistTitle": "令和６年秋　応用情報技術者試験　午前"
+  },
+  {
+    "id": "-xub-kbmpfY",
+    "title": "【令和６年秋 応用情報技術者試験】午前問６１｜DX推進指標",
+    "playlist": "PLG6PepT_DSdw0NOPe8Bz_P4Sahwo9-NE_",
+    "playlistTitle": "令和６年秋　応用情報技術者試験　午前"
+  },
+  {
+    "id": "JUMYSEMk_hI",
+    "title": "【令和６年秋 応用情報技術者試験】午前問６２｜オープンデータバイデザイン",
+    "playlist": "PLG6PepT_DSdw0NOPe8Bz_P4Sahwo9-NE_",
+    "playlistTitle": "令和６年秋　応用情報技術者試験　午前"
+  },
+  {
+    "id": "KEIjQDmk3Fk",
+    "title": "【令和６年秋 応用情報技術者試験】午前問６３｜業務改善の4原則",
+    "playlist": "PLG6PepT_DSdw0NOPe8Bz_P4Sahwo9-NE_",
+    "playlistTitle": "令和６年秋　応用情報技術者試験　午前"
+  },
+  {
+    "id": "i7FeZVi1tIM",
+    "title": "【令和６年秋 応用情報技術者試験】午前問６４｜BPR",
+    "playlist": "PLG6PepT_DSdw0NOPe8Bz_P4Sahwo9-NE_",
+    "playlistTitle": "令和６年秋　応用情報技術者試験　午前"
+  },
+  {
+    "id": "6PdXOMRmycA",
+    "title": "【令和６年秋 応用情報技術者試験】午前問６５｜UXデザイン",
+    "playlist": "PLG6PepT_DSdw0NOPe8Bz_P4Sahwo9-NE_",
+    "playlistTitle": "令和６年秋　応用情報技術者試験　午前"
+  },
+  {
+    "id": "cONWFfCfgcs",
+    "title": "【令和６年秋 応用情報技術者試験】午前問６６｜UML",
+    "playlist": "PLG6PepT_DSdw0NOPe8Bz_P4Sahwo9-NE_",
+    "playlistTitle": "令和６年秋　応用情報技術者試験　午前"
+  },
+  {
+    "id": "E809IE9kA4s",
+    "title": "【令和６年秋 応用情報技術者試験】午前問６７｜SCM",
+    "playlist": "PLG6PepT_DSdw0NOPe8Bz_P4Sahwo9-NE_",
+    "playlistTitle": "令和６年秋　応用情報技術者試験　午前"
+  },
+  {
+    "id": "80VO0aa4BC0",
+    "title": "【令和６年秋 応用情報技術者試験】午前問６８｜アンゾフの成長マトリクス",
+    "playlist": "PLG6PepT_DSdw0NOPe8Bz_P4Sahwo9-NE_",
+    "playlistTitle": "令和６年秋　応用情報技術者試験　午前"
+  },
+  {
+    "id": "cF9AUIbSsao",
+    "title": "【令和６年秋 応用情報技術者試験】午前問６９｜コ・クリエーション戦略",
+    "playlist": "PLG6PepT_DSdw0NOPe8Bz_P4Sahwo9-NE_",
+    "playlistTitle": "令和６年秋　応用情報技術者試験　午前"
+  },
+  {
+    "id": "wcc-SF6POpU",
+    "title": "【令和６年秋 応用情報技術者試験】午前問７０｜競合製品との競争過程にある障壁",
+    "playlist": "PLG6PepT_DSdw0NOPe8Bz_P4Sahwo9-NE_",
+    "playlistTitle": "令和６年秋　応用情報技術者試験　午前"
+  },
+  {
+    "id": "KauLj6nkH9w",
+    "title": "【令和６年秋 応用情報技術者試験】午前問７１｜生成AI",
+    "playlist": "PLG6PepT_DSdw0NOPe8Bz_P4Sahwo9-NE_",
+    "playlistTitle": "令和６年秋　応用情報技術者試験　午前"
+  },
+  {
+    "id": "hmHoTKqoLos",
+    "title": "【令和６年秋 応用情報技術者試験】午前問７２｜段取り時間の計算",
+    "playlist": "PLG6PepT_DSdw0NOPe8Bz_P4Sahwo9-NE_",
+    "playlistTitle": "令和６年秋　応用情報技術者試験　午前"
+  },
+  {
+    "id": "JusZa-WxP9w",
+    "title": "【令和６年秋 応用情報技術者試験】午前問７３｜正味所要量の計算",
+    "playlist": "PLG6PepT_DSdw0NOPe8Bz_P4Sahwo9-NE_",
+    "playlistTitle": "令和６年秋　応用情報技術者試験　午前"
+  },
+  {
+    "id": "6deWbB04Ub4",
+    "title": "【令和６年秋 応用情報技術者試験】午前問７４｜経営理念，経営戦略，事業戦略",
+    "playlist": "PLG6PepT_DSdw0NOPe8Bz_P4Sahwo9-NE_",
+    "playlistTitle": "令和６年秋　応用情報技術者試験　午前"
+  },
+  {
+    "id": "huPCOWvYAts",
+    "title": "【令和６年秋 応用情報技術者試験】午前問７５｜ナッシュ均衡",
+    "playlist": "PLG6PepT_DSdw0NOPe8Bz_P4Sahwo9-NE_",
+    "playlistTitle": "令和６年秋　応用情報技術者試験　午前"
+  },
+  {
+    "id": "YRbSW-4T7J8",
+    "title": "【令和６年秋 応用情報技術者試験】午前問７６｜ベイズ統計",
+    "playlist": "PLG6PepT_DSdw0NOPe8Bz_P4Sahwo9-NE_",
+    "playlistTitle": "令和６年秋　応用情報技術者試験　午前"
+  },
+  {
+    "id": "KJyW7C2hxjY",
+    "title": "【令和６年秋 応用情報技術者試験】午前問７７｜損益分岐点などの比較",
+    "playlist": "PLG6PepT_DSdw0NOPe8Bz_P4Sahwo9-NE_",
+    "playlistTitle": "令和６年秋　応用情報技術者試験　午前"
+  },
+  {
+    "id": "VlA7AekikMM",
+    "title": "【令和６年秋 応用情報技術者試験】午前問７８｜著作権法",
+    "playlist": "PLG6PepT_DSdw0NOPe8Bz_P4Sahwo9-NE_",
+    "playlistTitle": "令和６年秋　応用情報技術者試験　午前"
+  },
+  {
+    "id": "k98vUkfK39M",
+    "title": "【令和６年秋 応用情報技術者試験】午前問７９｜労働者派遣法",
+    "playlist": "PLG6PepT_DSdw0NOPe8Bz_P4Sahwo9-NE_",
+    "playlistTitle": "令和６年秋　応用情報技術者試験　午前"
+  },
+  {
+    "id": "BiafTB7RCrs",
+    "title": "【令和６年秋 応用情報技術者試験】午前問８０｜デジタル社会形成基本法",
+    "playlist": "PLG6PepT_DSdw0NOPe8Bz_P4Sahwo9-NE_",
+    "playlistTitle": "令和６年秋　応用情報技術者試験　午前"
+  },
+  {
+    "id": "jbx6gP95zZg",
+    "title": "【令和６年秋 応用情報技術者試験】午後　問１　情報セキュリティ",
+    "playlist": "PLG6PepT_DSdyqoPinUFuLntqpZmaie-nT",
+    "playlistTitle": "令和６年秋　応用情報技術者試験　午後"
+  },
+  {
+    "id": "p0FRHcrHkIQ",
+    "title": "【令和６年秋 応用情報技術者試験】午後　問２　経営戦略",
+    "playlist": "PLG6PepT_DSdyqoPinUFuLntqpZmaie-nT",
+    "playlistTitle": "令和６年秋　応用情報技術者試験　午後"
+  },
+  {
+    "id": "jbM95BvMxx8",
+    "title": "【令和６年秋 応用情報技術者試験】午後　問３　プログラミング",
+    "playlist": "PLG6PepT_DSdyqoPinUFuLntqpZmaie-nT",
+    "playlistTitle": "令和６年秋　応用情報技術者試験　午後"
+  },
+  {
+    "id": "HkfhXzyQkWk",
+    "title": "【令和６年秋 応用情報技術者試験】午後　問４　システムアーキテクチャ",
+    "playlist": "PLG6PepT_DSdyqoPinUFuLntqpZmaie-nT",
+    "playlistTitle": "令和６年秋　応用情報技術者試験　午後"
+  },
+  {
+    "id": "k4V3Fn9da44",
+    "title": "【令和６年秋 応用情報技術者試験】午後　問５　ネットワーク",
+    "playlist": "PLG6PepT_DSdyqoPinUFuLntqpZmaie-nT",
+    "playlistTitle": "令和６年秋　応用情報技術者試験　午後"
+  },
+  {
+    "id": "Nvoe8jLis_s",
+    "title": "【令和６年秋 応用情報技術者試験】午後　問６　データベース",
+    "playlist": "PLG6PepT_DSdyqoPinUFuLntqpZmaie-nT",
+    "playlistTitle": "令和６年秋　応用情報技術者試験　午後"
+  },
+  {
+    "id": "dtOgNtEhRXo",
+    "title": "【令和６年秋 応用情報技術者試験】午後　問７　組込システム",
+    "playlist": "PLG6PepT_DSdyqoPinUFuLntqpZmaie-nT",
+    "playlistTitle": "令和６年秋　応用情報技術者試験　午後"
+  },
+  {
+    "id": "6miXieKLmLE",
+    "title": "【令和６年秋 応用情報技術者試験】午後　問８　情報システム開発",
+    "playlist": "PLG6PepT_DSdyqoPinUFuLntqpZmaie-nT",
+    "playlistTitle": "令和６年秋　応用情報技術者試験　午後"
+  },
+  {
+    "id": "F-j2p_4_PD0",
+    "title": "【令和６年秋 応用情報技術者試験】午後　問９　プロジェクトマネジメント",
+    "playlist": "PLG6PepT_DSdyqoPinUFuLntqpZmaie-nT",
+    "playlistTitle": "令和６年秋　応用情報技術者試験　午後"
+  },
+  {
+    "id": "O7NqGYrw9T8",
+    "title": "【令和６年秋 応用情報技術者試験】午後　問１０　サービスマネジメント",
+    "playlist": "PLG6PepT_DSdyqoPinUFuLntqpZmaie-nT",
+    "playlistTitle": "令和６年秋　応用情報技術者試験　午後"
+  },
+  {
+    "id": "NtePNIP5Q44",
+    "title": "【令和６年秋 応用情報技術者試験】午後　問１１　システム監査",
+    "playlist": "PLG6PepT_DSdyqoPinUFuLntqpZmaie-nT",
+    "playlistTitle": "令和６年秋　応用情報技術者試験　午後"
+  },
+  {
+    "id": "MdVcNvvF3i4",
+    "title": "【解答速報】応用情報技術者試験　令和７年春　午後　問３　プログラミング",
+    "playlist": "PLG6PepT_DSdxt-ld0MbCbyDhVZBfxWyKU",
+    "playlistTitle": "【解答速報】令和7年春　応用情報技術者試験　午後試験"
+  },
+  {
+    "id": "HXb6pGS6HAk",
+    "title": "【解答速報】応用情報技術者試験　令和７年春　午後７　組込システム",
+    "playlist": "PLG6PepT_DSdxt-ld0MbCbyDhVZBfxWyKU",
+    "playlistTitle": "【解答速報】令和7年春　応用情報技術者試験　午後試験"
+  },
+  {
+    "id": "9dmQ9-knbXk",
+    "title": "【解答速報】応用情報技術者試験　令和７年春　午後１１　システム監査",
+    "playlist": "PLG6PepT_DSdxt-ld0MbCbyDhVZBfxWyKU",
+    "playlistTitle": "【解答速報】令和7年春　応用情報技術者試験　午後試験"
+  },
+  {
+    "id": "-cyUsz6riks",
+    "title": "【解答速報】応用情報技術者試験　令和７年春　午後１０　サービスマネジメント",
+    "playlist": "PLG6PepT_DSdxt-ld0MbCbyDhVZBfxWyKU",
+    "playlistTitle": "【解答速報】令和7年春　応用情報技術者試験　午後試験"
+  },
+  {
+    "id": "FqUv03sElJ4",
+    "title": "【解答速報】応用情報技術者試験　令和７年春　午後９　プロジェクトマネジメント",
+    "playlist": "PLG6PepT_DSdxt-ld0MbCbyDhVZBfxWyKU",
+    "playlistTitle": "【解答速報】令和7年春　応用情報技術者試験　午後試験"
+  },
+  {
+    "id": "e7u65PK10W4",
+    "title": "【解答速報】応用情報技術者試験　令和７年春　午後８　情報システム開発",
+    "playlist": "PLG6PepT_DSdxt-ld0MbCbyDhVZBfxWyKU",
+    "playlistTitle": "【解答速報】令和7年春　応用情報技術者試験　午後試験"
+  },
+  {
+    "id": "9rRT1i79F7o",
+    "title": "【解答速報】応用情報技術者試験　令和７年春　午後４　システムアーキテクチャ",
+    "playlist": "PLG6PepT_DSdxt-ld0MbCbyDhVZBfxWyKU",
+    "playlistTitle": "【解答速報】令和7年春　応用情報技術者試験　午後試験"
+  },
+  {
+    "id": "OUpH-Bels7k",
+    "title": "【解答速報】応用情報技術者試験　令和７年春　午後６　データベース",
+    "playlist": "PLG6PepT_DSdxt-ld0MbCbyDhVZBfxWyKU",
+    "playlistTitle": "【解答速報】令和7年春　応用情報技術者試験　午後試験"
+  },
+  {
+    "id": "1ZnaLjLByqc",
+    "title": "【解答速報】応用情報技術者試験　令和７年春　午後５　ネットワーク",
+    "playlist": "PLG6PepT_DSdxt-ld0MbCbyDhVZBfxWyKU",
+    "playlistTitle": "【解答速報】令和7年春　応用情報技術者試験　午後試験"
+  },
+  {
+    "id": "c85gd6VbDmM",
+    "title": "【解答速報】応用情報技術者試験　令和７年春　午後２　経営",
+    "playlist": "PLG6PepT_DSdxt-ld0MbCbyDhVZBfxWyKU",
+    "playlistTitle": "【解答速報】令和7年春　応用情報技術者試験　午後試験"
+  },
+  {
+    "id": "Tpg6oiJ47s8",
+    "title": "【解答速報】応用情報技術者試験　令和７年春　午後１　情報セキュリティ",
+    "playlist": "PLG6PepT_DSdxt-ld0MbCbyDhVZBfxWyKU",
+    "playlistTitle": "【解答速報】令和7年春　応用情報技術者試験　午後試験"
+  },
+  {
+    "id": "ywq0eYwVGUI",
+    "title": "【令和６年春 応用情報技術者試験】午前　問１｜ベイズの定理",
+    "playlist": "PLG6PepT_DSdzuIGWkbUiiRtNQC7VnL-fE",
+    "playlistTitle": "令和６年春　応用情報技術者試験　午前"
+  },
+  {
+    "id": "xSlRIOQK33U",
+    "title": "【令和６年春 応用情報技術者試験】午前　問２｜待ち行列モデル",
+    "playlist": "PLG6PepT_DSdzuIGWkbUiiRtNQC7VnL-fE",
+    "playlistTitle": "令和６年春　応用情報技術者試験　午前"
+  },
+  {
+    "id": "NRx7AmY8Zb0",
+    "title": "【令和６年春 応用情報技術者試験】午前　問３｜ディープラーニング",
+    "playlist": "PLG6PepT_DSdzuIGWkbUiiRtNQC7VnL-fE",
+    "playlistTitle": "令和６年春　応用情報技術者試験　午前"
+  },
+  {
+    "id": "2ebxHNdU1Yc",
+    "title": "【令和６年春 応用情報技術者試験】午前　問４｜ハミング符号",
+    "playlist": "PLG6PepT_DSdzuIGWkbUiiRtNQC7VnL-fE",
+    "playlistTitle": "令和６年春　応用情報技術者試験　午前"
+  },
+  {
+    "id": "r7HlLkYSc7A",
+    "title": "【令和６年春 応用情報技術者試験】午前　問５｜流れ図",
+    "playlist": "PLG6PepT_DSdzuIGWkbUiiRtNQC7VnL-fE",
+    "playlistTitle": "令和６年春　応用情報技術者試験　午前"
+  },
+  {
+    "id": "AH0qVabn-a8",
+    "title": "【令和６年春 応用情報技術者試験】午前　問６｜再帰処理",
+    "playlist": "PLG6PepT_DSdzuIGWkbUiiRtNQC7VnL-fE",
+    "playlistTitle": "令和６年春　応用情報技術者試験　午前"
+  },
+  {
+    "id": "KsE3647vZGk",
+    "title": "【令和６年春 応用情報技術者試験】午前　問７｜バブルソート",
+    "playlist": "PLG6PepT_DSdzuIGWkbUiiRtNQC7VnL-fE",
+    "playlistTitle": "令和６年春　応用情報技術者試験　午前"
+  },
+  {
+    "id": "KRjz_j_G_g8",
+    "title": "【令和６年春 応用情報技術者試験】午前　問８｜メモリ上のデータ転送",
+    "playlist": "PLG6PepT_DSdzuIGWkbUiiRtNQC7VnL-fE",
+    "playlistTitle": "令和６年春　応用情報技術者試験　午前"
+  },
+  {
+    "id": "QfA4Xb7mNJg",
+    "title": "【令和６年春 応用情報技術者試験】午前　問９｜量子コンピュータ",
+    "playlist": "PLG6PepT_DSdzuIGWkbUiiRtNQC7VnL-fE",
+    "playlistTitle": "令和６年春　応用情報技術者試験　午前"
+  },
+  {
+    "id": "rww1mK06KjY",
+    "title": "【令和６年春 応用情報技術者試験】午前　問１０｜主記憶",
+    "playlist": "PLG6PepT_DSdzuIGWkbUiiRtNQC7VnL-fE",
+    "playlistTitle": "令和６年春　応用情報技術者試験　午前"
+  },
+  {
+    "id": "W2IwdKHsdBs",
+    "title": "【令和６年春 応用情報技術者試験】午前　問１１｜主記憶への時間",
+    "playlist": "PLG6PepT_DSdzuIGWkbUiiRtNQC7VnL-fE",
+    "playlistTitle": "令和６年春　応用情報技術者試験　午前"
+  },
+  {
+    "id": "z139vdxbuo4",
+    "title": "【令和６年春 応用情報技術者試験】午前　問１２｜システムの信頼性設計",
+    "playlist": "PLG6PepT_DSdzuIGWkbUiiRtNQC7VnL-fE",
+    "playlistTitle": "令和６年春　応用情報技術者試験　午前"
+  },
+  {
+    "id": "5I_pczNNJZQ",
+    "title": "【令和６年春 応用情報技術者試験】午前　問１３｜オブジェクトストレージ",
+    "playlist": "PLG6PepT_DSdzuIGWkbUiiRtNQC7VnL-fE",
+    "playlistTitle": "令和６年春　応用情報技術者試験　午前"
+  },
+  {
+    "id": "Mm2iHmVY4bw",
+    "title": "【令和６年春 応用情報技術者試験】午前　問１４｜マルチプロセッサ",
+    "playlist": "PLG6PepT_DSdzuIGWkbUiiRtNQC7VnL-fE",
+    "playlistTitle": "令和６年春　応用情報技術者試験　午前"
+  },
+  {
+    "id": "2NFN3njBagc",
+    "title": "【令和６年春 応用情報技術者試験】午前　問１５｜性能評価",
+    "playlist": "PLG6PepT_DSdzuIGWkbUiiRtNQC7VnL-fE",
+    "playlistTitle": "令和６年春　応用情報技術者試験　午前"
+  },
+  {
+    "id": "XMNubfbz8Ec",
+    "title": "【令和６年春 応用情報技術者試験】午前　問１６｜ノンプリエンプティブ方式",
+    "playlist": "PLG6PepT_DSdzuIGWkbUiiRtNQC7VnL-fE",
+    "playlistTitle": "令和６年春　応用情報技術者試験　午前"
+  },
+  {
+    "id": "M1Nga1UP36M",
+    "title": "【令和６年春 応用情報技術者試験】午前　問１７｜デッドロック",
+    "playlist": "PLG6PepT_DSdzuIGWkbUiiRtNQC7VnL-fE",
+    "playlistTitle": "令和６年春　応用情報技術者試験　午前"
+  },
+  {
+    "id": "quNQLq3J1qU",
+    "title": "【令和６年春 応用情報技術者試験】午前　問１８｜タスク処理時間",
+    "playlist": "PLG6PepT_DSdzuIGWkbUiiRtNQC7VnL-fE",
+    "playlistTitle": "令和６年春　応用情報技術者試験　午前"
+  },
+  {
+    "id": "2ym_zdQcNkc",
+    "title": "【令和６年春 応用情報技術者試験】午前　問１９│情報収集ツール",
+    "playlist": "PLG6PepT_DSdzuIGWkbUiiRtNQC7VnL-fE",
+    "playlistTitle": "令和６年春　応用情報技術者試験　午前"
+  },
+  {
+    "id": "-pOSHOEX19o",
+    "title": "【令和６年春 応用情報技術者試験】午前　問２０│インバータ",
+    "playlist": "PLG6PepT_DSdzuIGWkbUiiRtNQC7VnL-fE",
+    "playlistTitle": "令和６年春　応用情報技術者試験　午前"
+  },
+  {
+    "id": "ipbW4zedRwU",
+    "title": "【令和６年春 応用情報技術者試験】午前　問２１│論理回路とタイムチャート",
+    "playlist": "PLG6PepT_DSdzuIGWkbUiiRtNQC7VnL-fE",
+    "playlistTitle": "令和６年春　応用情報技術者試験　午前"
+  },
+  {
+    "id": "6BDO7pBOhYI",
+    "title": "【令和６年春 応用情報技術者試験】午前　問２２│メモリのアドレスの先頭",
+    "playlist": "PLG6PepT_DSdzuIGWkbUiiRtNQC7VnL-fE",
+    "playlistTitle": "令和６年春　応用情報技術者試験　午前"
+  },
+  {
+    "id": "T8oA2sBmbJk",
+    "title": "【令和６年春 応用情報技術者試験】午前　問２３│直流給電",
+    "playlist": "PLG6PepT_DSdzuIGWkbUiiRtNQC7VnL-fE",
+    "playlistTitle": "令和６年春　応用情報技術者試験　午前"
+  },
+  {
+    "id": "Q8QZdDeUeaw",
+    "title": "【令和６年春 応用情報技術者試験】午前　問２４│アウトラインフォント",
+    "playlist": "PLG6PepT_DSdzuIGWkbUiiRtNQC7VnL-fE",
+    "playlistTitle": "令和６年春　応用情報技術者試験　午前"
+  },
+  {
+    "id": "kIOtUS7H4g0",
+    "title": "【令和６年春 応用情報技術者試験】午前　問２５│ストアドプロシージャ",
+    "playlist": "PLG6PepT_DSdzuIGWkbUiiRtNQC7VnL-fE",
+    "playlistTitle": "令和６年春　応用情報技術者試験　午前"
+  },
+  {
+    "id": "lrJwaNV936g",
+    "title": "【令和６年春 応用情報技術者試験】午前　問２６│SQL文",
+    "playlist": "PLG6PepT_DSdzuIGWkbUiiRtNQC7VnL-fE",
+    "playlistTitle": "令和６年春　応用情報技術者試験　午前"
+  },
+  {
+    "id": "5A8WzZtzxaM",
+    "title": "【令和６年春 応用情報技術者試験】午前　問２７│システム障害",
+    "playlist": "PLG6PepT_DSdzuIGWkbUiiRtNQC7VnL-fE",
+    "playlistTitle": "令和６年春　応用情報技術者試験　午前"
+  },
+  {
+    "id": "0_SeuI8Y8y0",
+    "title": "【令和６年春 応用情報技術者試験】午前　問２８│スタースキーマ",
+    "playlist": "PLG6PepT_DSdzuIGWkbUiiRtNQC7VnL-fE",
+    "playlistTitle": "令和６年春　応用情報技術者試験　午前"
+  },
+  {
+    "id": "2M6N8b6xI0I",
+    "title": "【令和６年春 応用情報技術者試験】午前　問２９│NoSQLに分類されるデータベース",
+    "playlist": "PLG6PepT_DSdzuIGWkbUiiRtNQC7VnL-fE",
+    "playlistTitle": "令和６年春　応用情報技術者試験　午前"
+  },
+  {
+    "id": "EEd0Dd15r80",
+    "title": "【令和６年春 応用情報技術者試験】午前　問３０│CSMA/CD方式",
+    "playlist": "PLG6PepT_DSdzuIGWkbUiiRtNQC7VnL-fE",
+    "playlistTitle": "令和６年春　応用情報技術者試験　午前"
+  },
+  {
+    "id": "tvFlZ_9GK_Q",
+    "title": "【令和６年春 応用情報技術者試験】午前　問３１│IPアドレス",
+    "playlist": "PLG6PepT_DSdzuIGWkbUiiRtNQC7VnL-fE",
+    "playlistTitle": "令和６年春　応用情報技術者試験　午前"
+  },
+  {
+    "id": "kCdlWNQPZO4",
+    "title": "【令和６年春 応用情報技術者試験】午前　問３２│プロトコル",
+    "playlist": "PLG6PepT_DSdzuIGWkbUiiRtNQC7VnL-fE",
+    "playlistTitle": "令和６年春　応用情報技術者試験　午前"
+  },
+  {
+    "id": "O9GB9g6Q88o",
+    "title": "【令和６年春 応用情報技術者試験】午前　問３３│パケットの個数の期待値",
+    "playlist": "PLG6PepT_DSdzuIGWkbUiiRtNQC7VnL-fE",
+    "playlistTitle": "令和６年春　応用情報技術者試験　午前"
+  },
+  {
+    "id": "06cdp4Zymec",
+    "title": "【令和６年春 応用情報技術者試験】午前　問３４│OpenFlowを使ったSDN",
+    "playlist": "PLG6PepT_DSdzuIGWkbUiiRtNQC7VnL-fE",
+    "playlistTitle": "令和６年春　応用情報技術者試験　午前"
+  },
+  {
+    "id": "locaK7JkxYM",
+    "title": "【令和６年春 応用情報技術者試験】午前　問３５│3Dセキュア2.0",
+    "playlist": "PLG6PepT_DSdzuIGWkbUiiRtNQC7VnL-fE",
+    "playlistTitle": "令和６年春　応用情報技術者試験　午前"
+  },
+  {
+    "id": "12WZQo01pBU",
+    "title": "【令和６年春 応用情報技術者試験】午前　問３６│DNSキャッシュポイズニング攻撃",
+    "playlist": "PLG6PepT_DSdzuIGWkbUiiRtNQC7VnL-fE",
+    "playlistTitle": "令和６年春　応用情報技術者試験　午前"
+  },
+  {
+    "id": "oVEnXroN4Ac",
+    "title": "【令和６年春 応用情報技術者試験】午前　問３７│DNSSEC",
+    "playlist": "PLG6PepT_DSdzuIGWkbUiiRtNQC7VnL-fE",
+    "playlistTitle": "令和６年春　応用情報技術者試験　午前"
+  },
+  {
+    "id": "9aCFCZzN3gE",
+    "title": "【令和６年春 応用情報技術者試験】午前　問３８│公開鍵暗号方式",
+    "playlist": "PLG6PepT_DSdzuIGWkbUiiRtNQC7VnL-fE",
+    "playlistTitle": "令和６年春　応用情報技術者試験　午前"
+  },
+  {
+    "id": "Y8Sajk2qoPE",
+    "title": "【令和６年春 応用情報技術者試験】午前　問３９│脆弱性に起因するリスク",
+    "playlist": "PLG6PepT_DSdzuIGWkbUiiRtNQC7VnL-fE",
+    "playlistTitle": "令和６年春　応用情報技術者試験　午前"
+  },
+  {
+    "id": "mMNHcpfx4S8",
+    "title": "【令和６年春 応用情報技術者試験】午前　問４０│JIS Q 31000:2019",
+    "playlist": "PLG6PepT_DSdzuIGWkbUiiRtNQC7VnL-fE",
+    "playlistTitle": "令和６年春　応用情報技術者試験　午前"
+  },
+  {
+    "id": "9otmqMY0_Tw",
+    "title": "【令和６年春 応用情報技術者試験】午前　問４１│WAF",
+    "playlist": "PLG6PepT_DSdzuIGWkbUiiRtNQC7VnL-fE",
+    "playlistTitle": "令和６年春　応用情報技術者試験　午前"
+  },
+  {
+    "id": "eiWmhx1XPB8",
+    "title": "【令和６年春 応用情報技術者試験】午前　問４２│ネットワーク層で暗号化",
+    "playlist": "PLG6PepT_DSdzuIGWkbUiiRtNQC7VnL-fE",
+    "playlistTitle": "令和６年春　応用情報技術者試験　午前"
+  },
+  {
+    "id": "FAft4trADBU",
+    "title": "【令和６年春 応用情報技術者試験】午前　問４３│SPF",
+    "playlist": "PLG6PepT_DSdzuIGWkbUiiRtNQC7VnL-fE",
+    "playlistTitle": "令和６年春　応用情報技術者試験　午前"
+  },
+  {
+    "id": "d6dYaq7S2Nk",
+    "title": "【令和６年春 応用情報技術者試験】午前　問４４│ICカードの耐タンパ性",
+    "playlist": "PLG6PepT_DSdzuIGWkbUiiRtNQC7VnL-fE",
+    "playlistTitle": "令和６年春　応用情報技術者試験　午前"
+  },
+  {
+    "id": "QQtmLHUS2G8",
+    "title": "【令和６年春 応用情報技術者試験】午前　問４５│オブジェクト指向",
+    "playlist": "PLG6PepT_DSdzuIGWkbUiiRtNQC7VnL-fE",
+    "playlistTitle": "令和６年春　応用情報技術者試験　午前"
+  },
+  {
+    "id": "Wu03PjxBdAE",
+    "title": "【令和６年春 応用情報技術者試験】午前　問４６│モジュール結合度",
+    "playlist": "PLG6PepT_DSdzuIGWkbUiiRtNQC7VnL-fE",
+    "playlistTitle": "令和６年春　応用情報技術者試験　午前"
+  },
+  {
+    "id": "DbdEAzpMsr8",
+    "title": "【令和６年春 応用情報技術者試験】午前　問４７│ゴンペルツ曲線",
+    "playlist": "PLG6PepT_DSdzuIGWkbUiiRtNQC7VnL-fE",
+    "playlistTitle": "令和６年春　応用情報技術者試験　午前"
+  },
+  {
+    "id": "8Nn3twMp7XU",
+    "title": "【令和６年春 応用情報技術者試験】午前　問４８│リーンソフトウェア開発",
+    "playlist": "PLG6PepT_DSdzuIGWkbUiiRtNQC7VnL-fE",
+    "playlistTitle": "令和６年春　応用情報技術者試験　午前"
+  },
+  {
+    "id": "K9rEwkuvK7w",
+    "title": "【令和６年春 応用情報技術者試験】午前　問４９│JIS X 33002:2017",
+    "playlist": "PLG6PepT_DSdzuIGWkbUiiRtNQC7VnL-fE",
+    "playlistTitle": "令和６年春　応用情報技術者試験　午前"
+  },
+  {
+    "id": "8xQOc7FiJgE",
+    "title": "【令和６年春 応用情報技術者試験】午前　問５０│ドキュメンテーションジェネレーター",
+    "playlist": "PLG6PepT_DSdzuIGWkbUiiRtNQC7VnL-fE",
+    "playlistTitle": "令和６年春　応用情報技術者試験　午前"
+  },
+  {
+    "id": "0jy2Nj1LjGo",
+    "title": "【令和６年春 応用情報技術者試験】午前　問５１│EVM",
+    "playlist": "PLG6PepT_DSdzuIGWkbUiiRtNQC7VnL-fE",
+    "playlistTitle": "令和６年春　応用情報技術者試験　午前"
+  },
+  {
+    "id": "NTwTgwPezxw",
+    "title": "【令和６年春 応用情報技術者試験】午前　問５２│アローダイアグラム",
+    "playlist": "PLG6PepT_DSdzuIGWkbUiiRtNQC7VnL-fE",
+    "playlistTitle": "令和６年春　応用情報技術者試験　午前"
+  },
+  {
+    "id": "S7SqlCKQJ0k",
+    "title": "【令和６年春 応用情報技術者試験】午前　問５３│JIS Q 21500:2018",
+    "playlist": "PLG6PepT_DSdzuIGWkbUiiRtNQC7VnL-fE",
+    "playlistTitle": "令和６年春　応用情報技術者試験　午前"
+  },
+  {
+    "id": "ir6y0n5yadM",
+    "title": "【令和６年春 応用情報技術者試験】午前　問５４│期待金額価値",
+    "playlist": "PLG6PepT_DSdzuIGWkbUiiRtNQC7VnL-fE",
+    "playlistTitle": "令和６年春　応用情報技術者試験　午前"
+  },
+  {
+    "id": "Cn3YNqQCNUI",
+    "title": "【令和６年春 応用情報技術者試験】午前　問５５│SaaSによる新規サービスの課金方式",
+    "playlist": "PLG6PepT_DSdzuIGWkbUiiRtNQC7VnL-fE",
+    "playlistTitle": "令和６年春　応用情報技術者試験　午前"
+  },
+  {
+    "id": "50Bitdx_2uU",
+    "title": "【令和６年春 応用情報技術者試験】午前　問５６│サービスレベル管理の活動",
+    "playlist": "PLG6PepT_DSdzuIGWkbUiiRtNQC7VnL-fE",
+    "playlistTitle": "令和６年春　応用情報技術者試験　午前"
+  },
+  {
+    "id": "U7sSD_q_4AE",
+    "title": "【令和６年春 応用情報技術者試験】午前　問５７│GHGプロトコル",
+    "playlist": "PLG6PepT_DSdzuIGWkbUiiRtNQC7VnL-fE",
+    "playlistTitle": "令和６年春　応用情報技術者試験　午前"
+  },
+  {
+    "id": "Levhj4F2kcs",
+    "title": "【令和６年春 応用情報技術者試験】午前　問５８│監査調書",
+    "playlist": "PLG6PepT_DSdzuIGWkbUiiRtNQC7VnL-fE",
+    "playlistTitle": "令和６年春　応用情報技術者試験　午前"
+  },
+  {
+    "id": "tz1Bh9H25uw",
+    "title": "【令和６年春 応用情報技術者試験】午前　問５９│システム監査",
+    "playlist": "PLG6PepT_DSdzuIGWkbUiiRtNQC7VnL-fE",
+    "playlistTitle": "令和６年春　応用情報技術者試験　午前"
+  },
+  {
+    "id": "jsLPBeilbMA",
+    "title": "【令和６年春 応用情報技術者試験】午前　問６０│ITに係る業務処理統制",
+    "playlist": "PLG6PepT_DSdzuIGWkbUiiRtNQC7VnL-fE",
+    "playlistTitle": "令和６年春　応用情報技術者試験　午前"
+  },
+  {
+    "id": "bwVsqxahxXA",
+    "title": "【令和６年春 応用情報技術者試験】午前　問６１│BRM",
+    "playlist": "PLG6PepT_DSdzuIGWkbUiiRtNQC7VnL-fE",
+    "playlistTitle": "令和６年春　応用情報技術者試験　午前"
+  },
+  {
+    "id": "abo1c9nEL2I",
+    "title": "【令和６年春 応用情報技術者試験】午前　問６２│デジタルガバナンス・コード2.0",
+    "playlist": "PLG6PepT_DSdzuIGWkbUiiRtNQC7VnL-fE",
+    "playlistTitle": "令和６年春　応用情報技術者試験　午前"
+  },
+  {
+    "id": "6hsTG-bJZLc",
+    "title": "【令和６年春 応用情報技術者試験】午前　問６３│SOA",
+    "playlist": "PLG6PepT_DSdzuIGWkbUiiRtNQC7VnL-fE",
+    "playlistTitle": "令和６年春　応用情報技術者試験　午前"
+  },
+  {
+    "id": "wpTQSZBuvSc",
+    "title": "【令和６年春 応用情報技術者試験】午前　問６４│PBP",
+    "playlist": "PLG6PepT_DSdzuIGWkbUiiRtNQC7VnL-fE",
+    "playlistTitle": "令和６年春　応用情報技術者試験　午前"
+  },
+  {
+    "id": "Q1mSwdsu6qI",
+    "title": "【令和６年春 応用情報技術者試験】午前　問６５│EMS",
+    "playlist": "PLG6PepT_DSdzuIGWkbUiiRtNQC7VnL-fE",
+    "playlistTitle": "令和６年春　応用情報技術者試験　午前"
+  },
+  {
+    "id": "czxgL-zwSnc",
+    "title": "【令和６年春 応用情報技術者試験】午前　問６６│コンティンジェンシープラン",
+    "playlist": "PLG6PepT_DSdzuIGWkbUiiRtNQC7VnL-fE",
+    "playlistTitle": "令和６年春　応用情報技術者試験　午前"
+  },
+  {
+    "id": "mebSq6A7Fak",
+    "title": "【令和６年春 応用情報技術者試験】午前　問６７│PPM",
+    "playlist": "PLG6PepT_DSdzuIGWkbUiiRtNQC7VnL-fE",
+    "playlistTitle": "令和６年春　応用情報技術者試験　午前"
+  },
+  {
+    "id": "hKKdYhIHgh0",
+    "title": "【令和６年春 応用情報技術者試験】午前　問６８│フレームワーク",
+    "playlist": "PLG6PepT_DSdzuIGWkbUiiRtNQC7VnL-fE",
+    "playlistTitle": "令和６年春　応用情報技術者試験　午前"
+  },
+  {
+    "id": "ConeTwIjZew",
+    "title": "【令和６年春 応用情報技術者試験】午前　問６９│フィージビリティスタディ",
+    "playlist": "PLG6PepT_DSdzuIGWkbUiiRtNQC7VnL-fE",
+    "playlistTitle": "令和６年春　応用情報技術者試験　午前"
+  },
+  {
+    "id": "PaafJTrvvtY",
+    "title": "【令和６年春 応用情報技術者試験】午前　問７０│IoT活用におけるデジタルツイン",
+    "playlist": "PLG6PepT_DSdzuIGWkbUiiRtNQC7VnL-fE",
+    "playlistTitle": "令和６年春　応用情報技術者試験　午前"
+  },
+  {
+    "id": "FByKSt7pb_E",
+    "title": "【令和６年春 応用情報技術者試験】午前　問７１│ マスカスタマイゼーション",
+    "playlist": "PLG6PepT_DSdzuIGWkbUiiRtNQC7VnL-fE",
+    "playlistTitle": "令和６年春　応用情報技術者試験　午前"
+  },
+  {
+    "id": "W3N0pcc23Zo",
+    "title": "【令和６年春 応用情報技術者試験】午前　問７２│エッジコンピューティング",
+    "playlist": "PLG6PepT_DSdzuIGWkbUiiRtNQC7VnL-fE",
+    "playlistTitle": "令和６年春　応用情報技術者試験　午前"
+  },
+  {
+    "id": "T0XKTbg7X0o",
+    "title": "【令和６年春 応用情報技術者試験】午前　問７３│ゲーム理論におけるナッシュ均衡",
+    "playlist": "PLG6PepT_DSdzuIGWkbUiiRtNQC7VnL-fE",
+    "playlistTitle": "令和６年春　応用情報技術者試験　午前"
+  },
+  {
+    "id": "spIEuQQYOjc",
+    "title": "【令和６年春 応用情報技術者試験】午前　問７４│因果関係図",
+    "playlist": "PLG6PepT_DSdzuIGWkbUiiRtNQC7VnL-fE",
+    "playlistTitle": "令和６年春　応用情報技術者試験　午前"
+  },
+  {
+    "id": "4fBItR14VSo",
+    "title": "【令和６年春 応用情報技術者試験】午前　問７５│最大利益",
+    "playlist": "PLG6PepT_DSdzuIGWkbUiiRtNQC7VnL-fE",
+    "playlistTitle": "令和６年春　応用情報技術者試験　午前"
+  },
+  {
+    "id": "_mKlvRZQ7is",
+    "title": "【令和６年春 応用情報技術者試験】午前　問７６│最低販売数",
+    "playlist": "PLG6PepT_DSdzuIGWkbUiiRtNQC7VnL-fE",
+    "playlistTitle": "令和６年春　応用情報技術者試験　午前"
+  },
+  {
+    "id": "ds3JWrbkOEk",
+    "title": "【令和６年春 応用情報技術者試験】午前　問７７│損益分岐点売上高",
+    "playlist": "PLG6PepT_DSdzuIGWkbUiiRtNQC7VnL-fE",
+    "playlistTitle": "令和６年春　応用情報技術者試験　午前"
+  },
+  {
+    "id": "hGjjUqU7M6I",
+    "title": "【令和６年春 応用情報技術者試験】午前　問７８│特許法",
+    "playlist": "PLG6PepT_DSdzuIGWkbUiiRtNQC7VnL-fE",
+    "playlistTitle": "令和６年春　応用情報技術者試験　午前"
+  },
+  {
+    "id": "6Vx1RZXy9mU",
+    "title": "【令和６年春 応用情報技術者試験】午前　問７９│不正競争防止法",
+    "playlist": "PLG6PepT_DSdzuIGWkbUiiRtNQC7VnL-fE",
+    "playlistTitle": "令和６年春　応用情報技術者試験　午前"
+  },
+  {
+    "id": "87osNKLcPMY",
+    "title": "【令和６年春 応用情報技術者試験】午前　問８０│要配慮個人情報",
+    "playlist": "PLG6PepT_DSdzuIGWkbUiiRtNQC7VnL-fE",
+    "playlistTitle": "令和６年春　応用情報技術者試験　午前"
+  },
+  {
+    "id": "gwL8CIRmlNQ",
+    "title": "【令和６年春 応用情報技術者試験】午後　問１　情報セキュリティ",
+    "playlist": "PLG6PepT_DSdwjoN1-Ng_bxF7MA4_t2ePU",
+    "playlistTitle": "令和６年春　応用情報技術者試験　午後"
+  },
+  {
+    "id": "PPRuPJZ1Mqg",
+    "title": "【令和６年春 応用情報技術者試験】午後　問２　経営戦略",
+    "playlist": "PLG6PepT_DSdwjoN1-Ng_bxF7MA4_t2ePU",
+    "playlistTitle": "令和６年春　応用情報技術者試験　午後"
+  },
+  {
+    "id": "PTKuWQMxd1s",
+    "title": "【令和６年春 応用情報技術者試験】午後　問３　プログラミング",
+    "playlist": "PLG6PepT_DSdwjoN1-Ng_bxF7MA4_t2ePU",
+    "playlistTitle": "令和６年春　応用情報技術者試験　午後"
+  },
+  {
+    "id": "Ogz_Pd6J8ek",
+    "title": "【令和６年春 応用情報技術者試験】午後　問４　システムアーキテクチャ",
+    "playlist": "PLG6PepT_DSdwjoN1-Ng_bxF7MA4_t2ePU",
+    "playlistTitle": "令和６年春　応用情報技術者試験　午後"
+  },
+  {
+    "id": "c8X4we970Rg",
+    "title": "【令和６年春 応用情報技術者試験】午後　問５　ネットワーク",
+    "playlist": "PLG6PepT_DSdwjoN1-Ng_bxF7MA4_t2ePU",
+    "playlistTitle": "令和６年春　応用情報技術者試験　午後"
+  },
+  {
+    "id": "E_BSL0CoGIw",
+    "title": "【令和６年春 応用情報技術者試験】午後　問６　データベース",
+    "playlist": "PLG6PepT_DSdwjoN1-Ng_bxF7MA4_t2ePU",
+    "playlistTitle": "令和６年春　応用情報技術者試験　午後"
+  },
+  {
+    "id": "_HBdrTA9rkI",
+    "title": "【令和６年春 応用情報技術者試験】午後　問７　組み込みシステム",
+    "playlist": "PLG6PepT_DSdwjoN1-Ng_bxF7MA4_t2ePU",
+    "playlistTitle": "令和６年春　応用情報技術者試験　午後"
+  },
+  {
+    "id": "wWAgY_YFuak",
+    "title": "【令和６年春 応用情報技術者試験】午後　問８　情報システム開発",
+    "playlist": "PLG6PepT_DSdwjoN1-Ng_bxF7MA4_t2ePU",
+    "playlistTitle": "令和６年春　応用情報技術者試験　午後"
+  },
+  {
+    "id": "9BAFLc6lM0Y",
+    "title": "【令和６年春 応用情報技術者試験】午後　問９　プロジェクトマネジメント",
+    "playlist": "PLG6PepT_DSdwjoN1-Ng_bxF7MA4_t2ePU",
+    "playlistTitle": "令和６年春　応用情報技術者試験　午後"
+  },
+  {
+    "id": "_PFVqJn7Kco",
+    "title": "【令和６年春 応用情報技術者試験】午後　問１０　サービスマネジメント",
+    "playlist": "PLG6PepT_DSdwjoN1-Ng_bxF7MA4_t2ePU",
+    "playlistTitle": "令和６年春　応用情報技術者試験　午後"
+  },
+  {
+    "id": "g02hskGNh8o",
+    "title": "【令和６年春 応用情報技術者試験】午後　問１１　システム監査",
+    "playlist": "PLG6PepT_DSdwjoN1-Ng_bxF7MA4_t2ePU",
+    "playlistTitle": "令和６年春　応用情報技術者試験　午後"
+  },
+  {
+    "id": "THVKj37Hegw",
+    "title": "【令和６年春 】応用情報技術者　午前の解答速報＆（少し午後）",
+    "playlist": "PLG6PepT_DSdzMFZ2fcMHOBeb3oodhqbQV",
+    "playlistTitle": "令和６年春　応用情報技術者試験"
+  },
+  {
+    "id": "IU7CvMcxVcw",
+    "title": "ライオンのパラドックス - 古畑任三郎 Cast: 田村正和, 西村雅彦, 陣内孝則, 水野真紀",
+    "playlist": "PLG6PepT_DSdzMFZ2fcMHOBeb3oodhqbQV",
+    "playlistTitle": "令和６年春　応用情報技術者試験"
+  },
+  {
+    "id": "fbOYJJlX7Es",
+    "title": "【令和５年春 応用情報技術者試験】午後 問１ 情報セキュリティ",
+    "playlist": "PLG6PepT_DSdwbr9nHvXnuSS3ZBAQezZMA",
+    "playlistTitle": "令和５年春　応用情報技術者試験　午後"
+  },
+  {
+    "id": "3l5glxIz8Fw",
+    "title": "【令和５年春 応用情報技術者試験】午後 問２ 経営戦略",
+    "playlist": "PLG6PepT_DSdwbr9nHvXnuSS3ZBAQezZMA",
+    "playlistTitle": "令和５年春　応用情報技術者試験　午後"
+  },
+  {
+    "id": "NV7LBHVoIAs",
+    "title": "【令和５年春 応用情報技術者試験】午後 問３ プログラミング",
+    "playlist": "PLG6PepT_DSdwbr9nHvXnuSS3ZBAQezZMA",
+    "playlistTitle": "令和５年春　応用情報技術者試験　午後"
+  },
+  {
+    "id": "0F87YRbLRHk",
+    "title": "【令和５年春 応用情報技術者試験】午後 問４ システムアーキテクチャ",
+    "playlist": "PLG6PepT_DSdwbr9nHvXnuSS3ZBAQezZMA",
+    "playlistTitle": "令和５年春　応用情報技術者試験　午後"
+  },
+  {
+    "id": "FK4iVbMafQg",
+    "title": "【令和５年春 応用情報技術者試験】午後 問５ ネットワーク",
+    "playlist": "PLG6PepT_DSdwbr9nHvXnuSS3ZBAQezZMA",
+    "playlistTitle": "令和５年春　応用情報技術者試験　午後"
+  },
+  {
+    "id": "PznACpY1TIs",
+    "title": "【令和５年春 応用情報技術者試験】午後 問６ データベース",
+    "playlist": "PLG6PepT_DSdwbr9nHvXnuSS3ZBAQezZMA",
+    "playlistTitle": "令和５年春　応用情報技術者試験　午後"
+  },
+  {
+    "id": "KTcLdXsB6hY",
+    "title": "【令和５年春 応用情報技術者試験】午後 問７ 組み込みシステム",
+    "playlist": "PLG6PepT_DSdwbr9nHvXnuSS3ZBAQezZMA",
+    "playlistTitle": "令和５年春　応用情報技術者試験　午後"
+  },
+  {
+    "id": "t0NskQTkUEQ",
+    "title": "【令和５年春 応用情報技術者試験】午後 問８ 情報システム開発",
+    "playlist": "PLG6PepT_DSdwbr9nHvXnuSS3ZBAQezZMA",
+    "playlistTitle": "令和５年春　応用情報技術者試験　午後"
+  },
+  {
+    "id": "N3JDp4hQKt0",
+    "title": "【令和５年春 応用情報技術者試験】 午後 問９ プロジェクトマネジメント",
+    "playlist": "PLG6PepT_DSdwbr9nHvXnuSS3ZBAQezZMA",
+    "playlistTitle": "令和５年春　応用情報技術者試験　午後"
+  },
+  {
+    "id": "z7QH9Rppz_E",
+    "title": "【令和５年春 応用情報技術者試験】午後 問１０ サービスマネジメント",
+    "playlist": "PLG6PepT_DSdwbr9nHvXnuSS3ZBAQezZMA",
+    "playlistTitle": "令和５年春　応用情報技術者試験　午後"
+  },
+  {
+    "id": "Adrc8s2mscA",
+    "title": "【令和５年春 応用情報技術者試験】午後 問１１ システム監査",
+    "playlist": "PLG6PepT_DSdwbr9nHvXnuSS3ZBAQezZMA",
+    "playlistTitle": "令和５年春　応用情報技術者試験　午後"
+  },
+  {
+    "id": "EyGBfsJnihY",
+    "title": "【令和５年秋 応用情報技術者試験】 午後　問１　情報セキュリティ",
+    "playlist": "PLG6PepT_DSdzaVte-CmNAe4Cd2t9bn0rV",
+    "playlistTitle": "令和５年秋　応用情報技術者試験　午後"
+  },
+  {
+    "id": "DhpmT3xBplg",
+    "title": "【令和５年秋 応用情報技術者試験】 午後　問２　経営戦略",
+    "playlist": "PLG6PepT_DSdzaVte-CmNAe4Cd2t9bn0rV",
+    "playlistTitle": "令和５年秋　応用情報技術者試験　午後"
+  },
+  {
+    "id": "xGaBqOAt4x8",
+    "title": "【令和５年秋 応用情報技術者試験】 午後　問３　プログラミング",
+    "playlist": "PLG6PepT_DSdzaVte-CmNAe4Cd2t9bn0rV",
+    "playlistTitle": "令和５年秋　応用情報技術者試験　午後"
+  },
+  {
+    "id": "WnkKBTUBWLs",
+    "title": "【令和５年秋 応用情報技術者試験】 午後　問４　システムアーキテクチャー",
+    "playlist": "PLG6PepT_DSdzaVte-CmNAe4Cd2t9bn0rV",
+    "playlistTitle": "令和５年秋　応用情報技術者試験　午後"
+  },
+  {
+    "id": "50ghImDehC0",
+    "title": "【令和５年秋 応用情報技術者試験】 午後　問５　ネットワーク",
+    "playlist": "PLG6PepT_DSdzaVte-CmNAe4Cd2t9bn0rV",
+    "playlistTitle": "令和５年秋　応用情報技術者試験　午後"
+  },
+  {
+    "id": "1OQkgADqt1U",
+    "title": "【令和５年秋 応用情報技術者試験】 午後　問６　データベース",
+    "playlist": "PLG6PepT_DSdzaVte-CmNAe4Cd2t9bn0rV",
+    "playlistTitle": "令和５年秋　応用情報技術者試験　午後"
+  },
+  {
+    "id": "WTBY7oIgZPQ",
+    "title": "【令和５年秋 応用情報技術者試験】 午後　問７　組み込みシステム",
+    "playlist": "PLG6PepT_DSdzaVte-CmNAe4Cd2t9bn0rV",
+    "playlistTitle": "令和５年秋　応用情報技術者試験　午後"
+  },
+  {
+    "id": "SlCgYjoxsbI",
+    "title": "【令和５年秋 応用情報技術者試験】 午後　問８　情報システム開発",
+    "playlist": "PLG6PepT_DSdzaVte-CmNAe4Cd2t9bn0rV",
+    "playlistTitle": "令和５年秋　応用情報技術者試験　午後"
+  },
+  {
+    "id": "ztnwAt25J6Y",
+    "title": "【令和５年秋 応用情報技術者試験】 午後　問９　プロジェクトマネジメント",
+    "playlist": "PLG6PepT_DSdzaVte-CmNAe4Cd2t9bn0rV",
+    "playlistTitle": "令和５年秋　応用情報技術者試験　午後"
+  },
+  {
+    "id": "Xw6ryLKWi78",
+    "title": "【令和５年秋 応用情報技術者試験】 午後　問１０　サービスマネジメント",
+    "playlist": "PLG6PepT_DSdzaVte-CmNAe4Cd2t9bn0rV",
+    "playlistTitle": "令和５年秋　応用情報技術者試験　午後"
+  },
+  {
+    "id": "3sJ60JkaxOg",
+    "title": "【令和５年秋 応用情報技術者試験】 午後　問１１　システム監査",
+    "playlist": "PLG6PepT_DSdzaVte-CmNAe4Cd2t9bn0rV",
+    "playlistTitle": "令和５年秋　応用情報技術者試験　午後"
+  },
+  {
+    "id": "0zZyWmElqPM",
+    "title": "【令和５年秋 応用情報技術者試験】 午前　問１",
+    "playlist": "PLG6PepT_DSdwUwg3fGGb6UH9wpV2-MCAT",
+    "playlistTitle": "令和５年秋　応用情報技術者試験　午前解説"
+  },
+  {
+    "id": "s_LydHAYWkE",
+    "title": "【令和５年秋 応用情報技術者試験】 午前　問２",
+    "playlist": "PLG6PepT_DSdwUwg3fGGb6UH9wpV2-MCAT",
+    "playlistTitle": "令和５年秋　応用情報技術者試験　午前解説"
+  },
+  {
+    "id": "9tG-nY_SCgw",
+    "title": "【令和５年秋 応用情報技術者試験】 午前　問３",
+    "playlist": "PLG6PepT_DSdwUwg3fGGb6UH9wpV2-MCAT",
+    "playlistTitle": "令和５年秋　応用情報技術者試験　午前解説"
+  },
+  {
+    "id": "cNI9b2isuV4",
+    "title": "【令和５年秋 応用情報技術者試験】 午前　問４",
+    "playlist": "PLG6PepT_DSdwUwg3fGGb6UH9wpV2-MCAT",
+    "playlistTitle": "令和５年秋　応用情報技術者試験　午前解説"
+  },
+  {
+    "id": "rkGSwXxdaDc",
+    "title": "【令和５年秋 応用情報技術者試験】 午前　問５",
+    "playlist": "PLG6PepT_DSdwUwg3fGGb6UH9wpV2-MCAT",
+    "playlistTitle": "令和５年秋　応用情報技術者試験　午前解説"
+  },
+  {
+    "id": "ioLbNyVgPQE",
+    "title": "【令和５年秋 応用情報技術者試験】 午前　問６",
+    "playlist": "PLG6PepT_DSdwUwg3fGGb6UH9wpV2-MCAT",
+    "playlistTitle": "令和５年秋　応用情報技術者試験　午前解説"
+  },
+  {
+    "id": "45apbIJVlgo",
+    "title": "【令和５年秋 応用情報技術者試験】 午前　問７",
+    "playlist": "PLG6PepT_DSdwUwg3fGGb6UH9wpV2-MCAT",
+    "playlistTitle": "令和５年秋　応用情報技術者試験　午前解説"
+  },
+  {
+    "id": "rvAdJon4MjM",
+    "title": "【令和５年秋 応用情報技術者試験】 午前　問８",
+    "playlist": "PLG6PepT_DSdwUwg3fGGb6UH9wpV2-MCAT",
+    "playlistTitle": "令和５年秋　応用情報技術者試験　午前解説"
+  },
+  {
+    "id": "d6-N6zAV0tU",
+    "title": "【令和５年秋 応用情報技術者試験】 午前　問９",
+    "playlist": "PLG6PepT_DSdwUwg3fGGb6UH9wpV2-MCAT",
+    "playlistTitle": "令和５年秋　応用情報技術者試験　午前解説"
+  },
+  {
+    "id": "PjRaHhaTHe8",
+    "title": "【令和５年秋 応用情報技術者試験】 午前　問１０",
+    "playlist": "PLG6PepT_DSdwUwg3fGGb6UH9wpV2-MCAT",
+    "playlistTitle": "令和５年秋　応用情報技術者試験　午前解説"
+  },
+  {
+    "id": "-FlYv_2YKL8",
+    "title": "【令和５年秋 応用情報技術者試験】 午前　問１１",
+    "playlist": "PLG6PepT_DSdwUwg3fGGb6UH9wpV2-MCAT",
+    "playlistTitle": "令和５年秋　応用情報技術者試験　午前解説"
+  },
+  {
+    "id": "1_Mc3ZtEpy0",
+    "title": "【令和５年秋 応用情報技術者試験】 午前　問１２",
+    "playlist": "PLG6PepT_DSdwUwg3fGGb6UH9wpV2-MCAT",
+    "playlistTitle": "令和５年秋　応用情報技術者試験　午前解説"
+  },
+  {
+    "id": "I4G39bTQg4Y",
+    "title": "【令和５年秋 応用情報技術者試験】 午前　問１３",
+    "playlist": "PLG6PepT_DSdwUwg3fGGb6UH9wpV2-MCAT",
+    "playlistTitle": "令和５年秋　応用情報技術者試験　午前解説"
+  },
+  {
+    "id": "t94j-r-xU94",
+    "title": "【令和５年秋 応用情報技術者試験】 午前　問１４",
+    "playlist": "PLG6PepT_DSdwUwg3fGGb6UH9wpV2-MCAT",
+    "playlistTitle": "令和５年秋　応用情報技術者試験　午前解説"
+  },
+  {
+    "id": "C3gdh3-fNg4",
+    "title": "【令和５年秋 応用情報技術者試験】 午前　問１５",
+    "playlist": "PLG6PepT_DSdwUwg3fGGb6UH9wpV2-MCAT",
+    "playlistTitle": "令和５年秋　応用情報技術者試験　午前解説"
+  },
+  {
+    "id": "eyuQTeUD-JY",
+    "title": "【令和５年秋 応用情報技術者試験】 午前　問１６",
+    "playlist": "PLG6PepT_DSdwUwg3fGGb6UH9wpV2-MCAT",
+    "playlistTitle": "令和５年秋　応用情報技術者試験　午前解説"
+  },
+  {
+    "id": "gtvZuufDBfA",
+    "title": "【令和５年秋 応用情報技術者試験】 午前　問１７",
+    "playlist": "PLG6PepT_DSdwUwg3fGGb6UH9wpV2-MCAT",
+    "playlistTitle": "令和５年秋　応用情報技術者試験　午前解説"
+  },
+  {
+    "id": "VORXPMRkRuE",
+    "title": "【令和５年秋 応用情報技術者試験】 午前　問１８",
+    "playlist": "PLG6PepT_DSdwUwg3fGGb6UH9wpV2-MCAT",
+    "playlistTitle": "令和５年秋　応用情報技術者試験　午前解説"
+  },
+  {
+    "id": "tSrr11CgcK8",
+    "title": "【令和５年秋 応用情報技術者試験】 午前　問１９",
+    "playlist": "PLG6PepT_DSdwUwg3fGGb6UH9wpV2-MCAT",
+    "playlistTitle": "令和５年秋　応用情報技術者試験　午前解説"
+  },
+  {
+    "id": "sWet5dLkSJA",
+    "title": "【令和５年秋 応用情報技術者試験】 午前　問２０",
+    "playlist": "PLG6PepT_DSdwUwg3fGGb6UH9wpV2-MCAT",
+    "playlistTitle": "令和５年秋　応用情報技術者試験　午前解説"
+  },
+  {
+    "id": "8aBOOaBXIV0",
+    "title": "【令和５年秋 応用情報技術者試験】 午前　問２１",
+    "playlist": "PLG6PepT_DSdwUwg3fGGb6UH9wpV2-MCAT",
+    "playlistTitle": "令和５年秋　応用情報技術者試験　午前解説"
+  },
+  {
+    "id": "4tit0NHaDWM",
+    "title": "【令和５年秋 応用情報技術者試験】 午前　問２２",
+    "playlist": "PLG6PepT_DSdwUwg3fGGb6UH9wpV2-MCAT",
+    "playlistTitle": "令和５年秋　応用情報技術者試験　午前解説"
+  },
+  {
+    "id": "SId3nfU9VSw",
+    "title": "【令和５年秋 応用情報技術者試験】 午前　問２３",
+    "playlist": "PLG6PepT_DSdwUwg3fGGb6UH9wpV2-MCAT",
+    "playlistTitle": "令和５年秋　応用情報技術者試験　午前解説"
+  },
+  {
+    "id": "0N63X1ePZZI",
+    "title": "【令和５年秋 応用情報技術者試験】 午前　問２４",
+    "playlist": "PLG6PepT_DSdwUwg3fGGb6UH9wpV2-MCAT",
+    "playlistTitle": "令和５年秋　応用情報技術者試験　午前解説"
+  },
+  {
+    "id": "HychXptfQl8",
+    "title": "【令和５年秋 応用情報技術者試験】 午前　問２５",
+    "playlist": "PLG6PepT_DSdwUwg3fGGb6UH9wpV2-MCAT",
+    "playlistTitle": "令和５年秋　応用情報技術者試験　午前解説"
+  },
+  {
+    "id": "rZ8Nws5F7YY",
+    "title": "【令和５年秋 応用情報技術者試験】 午前　問２６",
+    "playlist": "PLG6PepT_DSdwUwg3fGGb6UH9wpV2-MCAT",
+    "playlistTitle": "令和５年秋　応用情報技術者試験　午前解説"
+  },
+  {
+    "id": "1hK_Z50DVZc",
+    "title": "【令和５年秋 応用情報技術者試験】 午前　問２７",
+    "playlist": "PLG6PepT_DSdwUwg3fGGb6UH9wpV2-MCAT",
+    "playlistTitle": "令和５年秋　応用情報技術者試験　午前解説"
+  },
+  {
+    "id": "Zmvxl9e7qUA",
+    "title": "【令和５年秋 応用情報技術者試験】 午前　問２８",
+    "playlist": "PLG6PepT_DSdwUwg3fGGb6UH9wpV2-MCAT",
+    "playlistTitle": "令和５年秋　応用情報技術者試験　午前解説"
+  },
+  {
+    "id": "QajD7WN3zdk",
+    "title": "【令和５年秋 応用情報技術者試験】 午前　問２９",
+    "playlist": "PLG6PepT_DSdwUwg3fGGb6UH9wpV2-MCAT",
+    "playlistTitle": "令和５年秋　応用情報技術者試験　午前解説"
+  },
+  {
+    "id": "r5JyEZq6zt4",
+    "title": "【令和５年秋 応用情報技術者試験】 午前　問３０",
+    "playlist": "PLG6PepT_DSdwUwg3fGGb6UH9wpV2-MCAT",
+    "playlistTitle": "令和５年秋　応用情報技術者試験　午前解説"
+  },
+  {
+    "id": "t82Ex3rHFFg",
+    "title": "【令和５年秋 応用情報技術者試験】 午前　問３１",
+    "playlist": "PLG6PepT_DSdwUwg3fGGb6UH9wpV2-MCAT",
+    "playlistTitle": "令和５年秋　応用情報技術者試験　午前解説"
+  },
+  {
+    "id": "tfJ50rYjrlQ",
+    "title": "【令和５年秋 応用情報技術者試験】 午前　問３２",
+    "playlist": "PLG6PepT_DSdwUwg3fGGb6UH9wpV2-MCAT",
+    "playlistTitle": "令和５年秋　応用情報技術者試験　午前解説"
+  },
+  {
+    "id": "MiLc1ykoRt8",
+    "title": "【令和５年秋 応用情報技術者試験】 午前　問３３",
+    "playlist": "PLG6PepT_DSdwUwg3fGGb6UH9wpV2-MCAT",
+    "playlistTitle": "令和５年秋　応用情報技術者試験　午前解説"
+  },
+  {
+    "id": "sKo3Cl6vuAY",
+    "title": "【令和５年秋 応用情報技術者試験】 午前　問３４",
+    "playlist": "PLG6PepT_DSdwUwg3fGGb6UH9wpV2-MCAT",
+    "playlistTitle": "令和５年秋　応用情報技術者試験　午前解説"
+  },
+  {
+    "id": "fF07micQS6I",
+    "title": "【令和５年秋 応用情報技術者試験】 午前　問３５",
+    "playlist": "PLG6PepT_DSdwUwg3fGGb6UH9wpV2-MCAT",
+    "playlistTitle": "令和５年秋　応用情報技術者試験　午前解説"
+  },
+  {
+    "id": "0gw4xrRXezs",
+    "title": "【令和５年秋 応用情報技術者試験】 午前　問３６",
+    "playlist": "PLG6PepT_DSdwUwg3fGGb6UH9wpV2-MCAT",
+    "playlistTitle": "令和５年秋　応用情報技術者試験　午前解説"
+  },
+  {
+    "id": "cJ9_9lhUlFI",
+    "title": "【令和５年秋 応用情報技術者試験】 午前　問３７",
+    "playlist": "PLG6PepT_DSdwUwg3fGGb6UH9wpV2-MCAT",
+    "playlistTitle": "令和５年秋　応用情報技術者試験　午前解説"
+  },
+  {
+    "id": "H4s2l5KDzPI",
+    "title": "【令和５年秋 応用情報技術者試験】 午前　問３８",
+    "playlist": "PLG6PepT_DSdwUwg3fGGb6UH9wpV2-MCAT",
+    "playlistTitle": "令和５年秋　応用情報技術者試験　午前解説"
+  },
+  {
+    "id": "6iS4fx7GvkU",
+    "title": "【令和５年秋 応用情報技術者試験】 午前　問３９",
+    "playlist": "PLG6PepT_DSdwUwg3fGGb6UH9wpV2-MCAT",
+    "playlistTitle": "令和５年秋　応用情報技術者試験　午前解説"
+  },
+  {
+    "id": "XsewuXPmhm0",
+    "title": "【令和５年秋 応用情報技術者試験】 午前　問４０",
+    "playlist": "PLG6PepT_DSdwUwg3fGGb6UH9wpV2-MCAT",
+    "playlistTitle": "令和５年秋　応用情報技術者試験　午前解説"
+  },
+  {
+    "id": "SDgxt7ebEDU",
+    "title": "【令和５年秋 応用情報技術者試験】 午前　問４１",
+    "playlist": "PLG6PepT_DSdwUwg3fGGb6UH9wpV2-MCAT",
+    "playlistTitle": "令和５年秋　応用情報技術者試験　午前解説"
+  },
+  {
+    "id": "Zz3X-_R92ng",
+    "title": "【令和５年秋 応用情報技術者試験】 午前　問４２",
+    "playlist": "PLG6PepT_DSdwUwg3fGGb6UH9wpV2-MCAT",
+    "playlistTitle": "令和５年秋　応用情報技術者試験　午前解説"
+  },
+  {
+    "id": "2sJM5N4GWb8",
+    "title": "【令和５年秋 応用情報技術者試験】 午前　問４３",
+    "playlist": "PLG6PepT_DSdwUwg3fGGb6UH9wpV2-MCAT",
+    "playlistTitle": "令和５年秋　応用情報技術者試験　午前解説"
+  },
+  {
+    "id": "GYLz0tsAUYE",
+    "title": "【令和５年秋 応用情報技術者試験】 午前　問４４",
+    "playlist": "PLG6PepT_DSdwUwg3fGGb6UH9wpV2-MCAT",
+    "playlistTitle": "令和５年秋　応用情報技術者試験　午前解説"
+  },
+  {
+    "id": "2ta-IVVcMrc",
+    "title": "【令和５年秋 応用情報技術者試験】 午前　問４５",
+    "playlist": "PLG6PepT_DSdwUwg3fGGb6UH9wpV2-MCAT",
+    "playlistTitle": "令和５年秋　応用情報技術者試験　午前解説"
+  },
+  {
+    "id": "vUaLSBfBiKE",
+    "title": "【令和５年秋 応用情報技術者試験】 午前　問４６",
+    "playlist": "PLG6PepT_DSdwUwg3fGGb6UH9wpV2-MCAT",
+    "playlistTitle": "令和５年秋　応用情報技術者試験　午前解説"
+  },
+  {
+    "id": "gxFQ644Z53I",
+    "title": "【令和５年秋 応用情報技術者試験】 午前　問４７",
+    "playlist": "PLG6PepT_DSdwUwg3fGGb6UH9wpV2-MCAT",
+    "playlistTitle": "令和５年秋　応用情報技術者試験　午前解説"
+  },
+  {
+    "id": "6G6KaQTqvxc",
+    "title": "【令和５年秋 応用情報技術者試験】 午前　問４８",
+    "playlist": "PLG6PepT_DSdwUwg3fGGb6UH9wpV2-MCAT",
+    "playlistTitle": "令和５年秋　応用情報技術者試験　午前解説"
+  },
+  {
+    "id": "B_tNaxzsjqw",
+    "title": "【令和５年秋 応用情報技術者試験】 午前　問４９",
+    "playlist": "PLG6PepT_DSdwUwg3fGGb6UH9wpV2-MCAT",
+    "playlistTitle": "令和５年秋　応用情報技術者試験　午前解説"
+  },
+  {
+    "id": "Y6yuCz4Z2p4",
+    "title": "【令和５年秋 応用情報技術者試験】 午前　問５０",
+    "playlist": "PLG6PepT_DSdwUwg3fGGb6UH9wpV2-MCAT",
+    "playlistTitle": "令和５年秋　応用情報技術者試験　午前解説"
+  },
+  {
+    "id": "QWcRwtB1i6k",
+    "title": "【令和５年秋 応用情報技術者試験】 午前　問５１",
+    "playlist": "PLG6PepT_DSdwUwg3fGGb6UH9wpV2-MCAT",
+    "playlistTitle": "令和５年秋　応用情報技術者試験　午前解説"
+  },
+  {
+    "id": "XZnQoitwUBE",
+    "title": "【令和５年秋 応用情報技術者試験】 午前　問５２",
+    "playlist": "PLG6PepT_DSdwUwg3fGGb6UH9wpV2-MCAT",
+    "playlistTitle": "令和５年秋　応用情報技術者試験　午前解説"
+  },
+  {
+    "id": "-BQF2B-iA2g",
+    "title": "【令和５年秋 応用情報技術者試験】 午前　問５３",
+    "playlist": "PLG6PepT_DSdwUwg3fGGb6UH9wpV2-MCAT",
+    "playlistTitle": "令和５年秋　応用情報技術者試験　午前解説"
+  },
+  {
+    "id": "SzGeU6GAb48",
+    "title": "【令和５年秋 応用情報技術者試験】 午前　問５４",
+    "playlist": "PLG6PepT_DSdwUwg3fGGb6UH9wpV2-MCAT",
+    "playlistTitle": "令和５年秋　応用情報技術者試験　午前解説"
+  },
+  {
+    "id": "qGmnfwCEWRA",
+    "title": "【令和５年秋 応用情報技術者試験】 午前　問５５",
+    "playlist": "PLG6PepT_DSdwUwg3fGGb6UH9wpV2-MCAT",
+    "playlistTitle": "令和５年秋　応用情報技術者試験　午前解説"
+  },
+  {
+    "id": "kNEjctAZSoE",
+    "title": "【令和５年秋 応用情報技術者試験】 午前　問５６",
+    "playlist": "PLG6PepT_DSdwUwg3fGGb6UH9wpV2-MCAT",
+    "playlistTitle": "令和５年秋　応用情報技術者試験　午前解説"
+  },
+  {
+    "id": "Ab0prU9W_h0",
+    "title": "【令和５年秋 応用情報技術者試験】 午前　問５７",
+    "playlist": "PLG6PepT_DSdwUwg3fGGb6UH9wpV2-MCAT",
+    "playlistTitle": "令和５年秋　応用情報技術者試験　午前解説"
+  },
+  {
+    "id": "CafUhVF77oY",
+    "title": "【令和５年秋 応用情報技術者試験】 午前　問５８",
+    "playlist": "PLG6PepT_DSdwUwg3fGGb6UH9wpV2-MCAT",
+    "playlistTitle": "令和５年秋　応用情報技術者試験　午前解説"
+  },
+  {
+    "id": "jjfgIvBelIs",
+    "title": "【令和５年秋 応用情報技術者試験】 午前　問５９",
+    "playlist": "PLG6PepT_DSdwUwg3fGGb6UH9wpV2-MCAT",
+    "playlistTitle": "令和５年秋　応用情報技術者試験　午前解説"
+  },
+  {
+    "id": "0y2K1LnKMUs",
+    "title": "【令和５年秋 応用情報技術者試験】 午前　問６０",
+    "playlist": "PLG6PepT_DSdwUwg3fGGb6UH9wpV2-MCAT",
+    "playlistTitle": "令和５年秋　応用情報技術者試験　午前解説"
+  },
+  {
+    "id": "itdsPbMnNts",
+    "title": "【令和５年秋 応用情報技術者試験】 午前　問６１",
+    "playlist": "PLG6PepT_DSdwUwg3fGGb6UH9wpV2-MCAT",
+    "playlistTitle": "令和５年秋　応用情報技術者試験　午前解説"
+  },
+  {
+    "id": "iHHZxGlKcrM",
+    "title": "【令和５年秋 応用情報技術者試験】 午前　問６２",
+    "playlist": "PLG6PepT_DSdwUwg3fGGb6UH9wpV2-MCAT",
+    "playlistTitle": "令和５年秋　応用情報技術者試験　午前解説"
+  },
+  {
+    "id": "PbbMn5ldDR0",
+    "title": "【令和５年秋 応用情報技術者試験】 午前　問６３",
+    "playlist": "PLG6PepT_DSdwUwg3fGGb6UH9wpV2-MCAT",
+    "playlistTitle": "令和５年秋　応用情報技術者試験　午前解説"
+  },
+  {
+    "id": "SINMduQQDQw",
+    "title": "【令和５年秋 応用情報技術者試験】 午前　問６４",
+    "playlist": "PLG6PepT_DSdwUwg3fGGb6UH9wpV2-MCAT",
+    "playlistTitle": "令和５年秋　応用情報技術者試験　午前解説"
+  },
+  {
+    "id": "Bq2GanD9KJQ",
+    "title": "【令和５年秋 応用情報技術者試験】 午前　問６５",
+    "playlist": "PLG6PepT_DSdwUwg3fGGb6UH9wpV2-MCAT",
+    "playlistTitle": "令和５年秋　応用情報技術者試験　午前解説"
+  },
+  {
+    "id": "zPqUo1vpjSo",
+    "title": "【令和５年秋 応用情報技術者試験】 午前　問６６",
+    "playlist": "PLG6PepT_DSdwUwg3fGGb6UH9wpV2-MCAT",
+    "playlistTitle": "令和５年秋　応用情報技術者試験　午前解説"
+  },
+  {
+    "id": "po9UlC4jMr4",
+    "title": "【令和５年秋 応用情報技術者試験】 午前　問６７",
+    "playlist": "PLG6PepT_DSdwUwg3fGGb6UH9wpV2-MCAT",
+    "playlistTitle": "令和５年秋　応用情報技術者試験　午前解説"
+  },
+  {
+    "id": "aH8h_Tah4iM",
+    "title": "【令和５年秋 応用情報技術者試験】 午前　問６８",
+    "playlist": "PLG6PepT_DSdwUwg3fGGb6UH9wpV2-MCAT",
+    "playlistTitle": "令和５年秋　応用情報技術者試験　午前解説"
+  },
+  {
+    "id": "0Yv_IVD9O7Y",
+    "title": "【令和５年秋 応用情報技術者試験】 午前　問６９",
+    "playlist": "PLG6PepT_DSdwUwg3fGGb6UH9wpV2-MCAT",
+    "playlistTitle": "令和５年秋　応用情報技術者試験　午前解説"
+  },
+  {
+    "id": "E1QQuCgGuSY",
+    "title": "【令和５年秋 応用情報技術者試験】 午前　問７０",
+    "playlist": "PLG6PepT_DSdwUwg3fGGb6UH9wpV2-MCAT",
+    "playlistTitle": "令和５年秋　応用情報技術者試験　午前解説"
+  },
+  {
+    "id": "tMAiWx7ehGA",
+    "title": "【令和５年秋 応用情報技術者試験】 午前　問７１",
+    "playlist": "PLG6PepT_DSdwUwg3fGGb6UH9wpV2-MCAT",
+    "playlistTitle": "令和５年秋　応用情報技術者試験　午前解説"
+  },
+  {
+    "id": "_xGP1NkBa6U",
+    "title": "【令和５年秋 応用情報技術者試験】 午前　問７２",
+    "playlist": "PLG6PepT_DSdwUwg3fGGb6UH9wpV2-MCAT",
+    "playlistTitle": "令和５年秋　応用情報技術者試験　午前解説"
+  },
+  {
+    "id": "7mwwIQrddNU",
+    "title": "【令和５年秋 応用情報技術者試験】 午前　問７３",
+    "playlist": "PLG6PepT_DSdwUwg3fGGb6UH9wpV2-MCAT",
+    "playlistTitle": "令和５年秋　応用情報技術者試験　午前解説"
+  },
+  {
+    "id": "DAMXuH6oVj4",
+    "title": "【令和５年秋 応用情報技術者試験】 午前　問７４",
+    "playlist": "PLG6PepT_DSdwUwg3fGGb6UH9wpV2-MCAT",
+    "playlistTitle": "令和５年秋　応用情報技術者試験　午前解説"
+  },
+  {
+    "id": "L0CYzUtwkBo",
+    "title": "【令和５年秋 応用情報技術者試験】 午前　問７５",
+    "playlist": "PLG6PepT_DSdwUwg3fGGb6UH9wpV2-MCAT",
+    "playlistTitle": "令和５年秋　応用情報技術者試験　午前解説"
+  },
+  {
+    "id": "2jyE1FNuKXU",
+    "title": "【令和５年秋 応用情報技術者試験】 午前　問７６",
+    "playlist": "PLG6PepT_DSdwUwg3fGGb6UH9wpV2-MCAT",
+    "playlistTitle": "令和５年秋　応用情報技術者試験　午前解説"
+  },
+  {
+    "id": "MUUQ2ra6Zns",
+    "title": "【令和５年秋 応用情報技術者試験】 午前　問７７",
+    "playlist": "PLG6PepT_DSdwUwg3fGGb6UH9wpV2-MCAT",
+    "playlistTitle": "令和５年秋　応用情報技術者試験　午前解説"
+  },
+  {
+    "id": "-bvmHsVOmcY",
+    "title": "【令和５年秋 応用情報技術者試験】 午前　問 ７８",
+    "playlist": "PLG6PepT_DSdwUwg3fGGb6UH9wpV2-MCAT",
+    "playlistTitle": "令和５年秋　応用情報技術者試験　午前解説"
+  },
+  {
+    "id": "9wy4Id2g86o",
+    "title": "【令和５年秋 応用情報技術者試験】 午前　問 ７９",
+    "playlist": "PLG6PepT_DSdwUwg3fGGb6UH9wpV2-MCAT",
+    "playlistTitle": "令和５年秋　応用情報技術者試験　午前解説"
+  },
+  {
+    "id": "snj9Z4Ou9n4",
+    "title": "【令和５年秋 応用情報技術者試験】 午前　問８０",
+    "playlist": "PLG6PepT_DSdwUwg3fGGb6UH9wpV2-MCAT",
+    "playlistTitle": "令和５年秋　応用情報技術者試験　午前解説"
+  },
+  {
+    "id": "BmMCfRMAODI",
+    "title": "【令和５年秋 】応用情報技術者　午前の解答速報",
+    "playlist": "PLG6PepT_DSdz58YbVkKy05RhAxvmQzNWq",
+    "playlistTitle": "令和５年秋　応用情報技術者試験"
+  },
+  {
+    "id": "BMD8G1dRYAU",
+    "title": "令和5年春 応用情報技術者試験（午前） 問１の解説｜ビット演算",
+    "playlist": "PLG6PepT_DSdzzYBJGLC2tUz7fB9JZHoFU",
+    "playlistTitle": "令和５年春　応用情報技術者試験　午前解説"
+  },
+  {
+    "id": "GVvOsTaKp9E",
+    "title": "令和5年春 応用情報技術者試験（午前） 問２の解説│正規分布",
+    "playlist": "PLG6PepT_DSdzzYBJGLC2tUz7fB9JZHoFU",
+    "playlistTitle": "令和５年春　応用情報技術者試験　午前解説"
+  },
+  {
+    "id": "7m5Fcr39Kuw",
+    "title": "令和5年春 応用情報技術者試験（午前） 問３の解説｜ROC曲線",
+    "playlist": "PLG6PepT_DSdzzYBJGLC2tUz7fB9JZHoFU",
+    "playlistTitle": "令和５年春　応用情報技術者試験　午前解説"
+  },
+  {
+    "id": "ohR47neOpuE",
+    "title": "令和5年春 応用情報技術者試験（午前） 問４の解説｜ドップラー効果",
+    "playlist": "PLG6PepT_DSdzzYBJGLC2tUz7fB9JZHoFU",
+    "playlistTitle": "令和５年春　応用情報技術者試験　午前解説"
+  },
+  {
+    "id": "_nHlysGPhsQ",
+    "title": "令和5年春 応用情報技術者試験（午前） 問５の解説｜メモリ管理",
+    "playlist": "PLG6PepT_DSdzzYBJGLC2tUz7fB9JZHoFU",
+    "playlistTitle": "令和５年春　応用情報技術者試験　午前解説"
+  },
+  {
+    "id": "TL-RSdL4cp8",
+    "title": "令和5年春 応用情報技術者試験（午前） 問６の解説｜線形探索法",
+    "playlist": "PLG6PepT_DSdzzYBJGLC2tUz7fB9JZHoFU",
+    "playlistTitle": "令和５年春　応用情報技術者試験　午前解説"
+  },
+  {
+    "id": "_ls_6_Itgik",
+    "title": "令和5年春 応用情報技術者試験（午前） 問７の解説｜クイックソート",
+    "playlist": "PLG6PepT_DSdzzYBJGLC2tUz7fB9JZHoFU",
+    "playlistTitle": "令和５年春　応用情報技術者試験　午前解説"
+  },
+  {
+    "id": "uqUlReE64Kk",
+    "title": "令和5年春 応用情報技術者試験（午前） 問８の解説｜CPI",
+    "playlist": "PLG6PepT_DSdzzYBJGLC2tUz7fB9JZHoFU",
+    "playlistTitle": "令和５年春　応用情報技術者試験　午前解説"
+  },
+  {
+    "id": "Nlft9UMFWAs",
+    "title": "令和5年春 応用情報技術者試験（午前） 問９の解説｜パイプライン制御",
+    "playlist": "PLG6PepT_DSdzzYBJGLC2tUz7fB9JZHoFU",
+    "playlistTitle": "令和５年春　応用情報技術者試験　午前解説"
+  },
+  {
+    "id": "FQ4uRe-z63w",
+    "title": "令和5年春 応用情報技術者試験（午前） 問１０の解説｜キャッシュメモリ",
+    "playlist": "PLG6PepT_DSdzzYBJGLC2tUz7fB9JZHoFU",
+    "playlistTitle": "令和５年春　応用情報技術者試験　午前解説"
+  },
+  {
+    "id": "tMcvVunDG28",
+    "title": "令和5年春 応用情報技術者試験（午前） 問１１の解説｜ウェアレベリング",
+    "playlist": "PLG6PepT_DSdzzYBJGLC2tUz7fB9JZHoFU",
+    "playlistTitle": "令和５年春　応用情報技術者試験　午前解説"
+  },
+  {
+    "id": "5_YpaWhAV-o",
+    "title": "令和5年春 応用情報技術者試験（午前） 問１２の解説｜有機ELディスプレイ",
+    "playlist": "PLG6PepT_DSdzzYBJGLC2tUz7fB9JZHoFU",
+    "playlistTitle": "令和５年春　応用情報技術者試験　午前解説"
+  },
+  {
+    "id": "_XUrDjJC4A4",
+    "title": "令和5年春 応用情報技術者試験（午前） 問１３の解説｜スケールイン",
+    "playlist": "PLG6PepT_DSdzzYBJGLC2tUz7fB9JZHoFU",
+    "playlistTitle": "令和５年春　応用情報技術者試験　午前解説"
+  },
+  {
+    "id": "FevJA7TbkFs",
+    "title": "令和5年春 応用情報技術者試験（午前） 問１４の解説｜CPU",
+    "playlist": "PLG6PepT_DSdzzYBJGLC2tUz7fB9JZHoFU",
+    "playlistTitle": "令和５年春　応用情報技術者試験　午前解説"
+  },
+  {
+    "id": "hW9c1t99TRE",
+    "title": "令和5年春 応用情報技術者試験（午前） 問１５の解説｜コンピュータシステム",
+    "playlist": "PLG6PepT_DSdzzYBJGLC2tUz7fB9JZHoFU",
+    "playlistTitle": "令和５年春　応用情報技術者試験　午前解説"
+  },
+  {
+    "id": "dWlAbDngfyc",
+    "title": "令和5年春 応用情報技術者試験（午前） 問１６の解説｜システムの稼働率",
+    "playlist": "PLG6PepT_DSdzzYBJGLC2tUz7fB9JZHoFU",
+    "playlistTitle": "令和５年春　応用情報技術者試験　午前解説"
+  },
+  {
+    "id": "Co8PafOUjas",
+    "title": "令和5年春 応用情報技術者試験（午前） 問１７の解説｜FIFO",
+    "playlist": "PLG6PepT_DSdzzYBJGLC2tUz7fB9JZHoFU",
+    "playlistTitle": "令和５年春　応用情報技術者試験　午前解説"
+  },
+  {
+    "id": "iMLqBLQu044",
+    "title": "令和5年春 応用情報技術者試験（午前） 問１８の解説｜仮想記憶方式",
+    "playlist": "PLG6PepT_DSdzzYBJGLC2tUz7fB9JZHoFU",
+    "playlistTitle": "令和５年春　応用情報技術者試験　午前解説"
+  },
+  {
+    "id": "PE0rvH529mg",
+    "title": "令和5年春 応用情報技術者試験（午前） 問１９の解説｜ハッシュ値",
+    "playlist": "PLG6PepT_DSdzzYBJGLC2tUz7fB9JZHoFU",
+    "playlistTitle": "令和５年春　応用情報技術者試験　午前解説"
+  },
+  {
+    "id": "IxW5mAaKRSw",
+    "title": "令和5年春 応用情報技術者試験（午前） 問２０の解説｜コンテナ型仮想化",
+    "playlist": "PLG6PepT_DSdzzYBJGLC2tUz7fB9JZHoFU",
+    "playlistTitle": "令和５年春　応用情報技術者試験　午前解説"
+  },
+  {
+    "id": "kgoBP-SQ4ww",
+    "title": "令和5年春 応用情報技術者試験（午前） 問２１の解説｜NAND回路",
+    "playlist": "PLG6PepT_DSdzzYBJGLC2tUz7fB9JZHoFU",
+    "playlistTitle": "令和５年春　応用情報技術者試験　午前解説"
+  },
+  {
+    "id": "EguFntPyNKs",
+    "title": "令和5年春 応用情報技術者試験（午前） 問２２の解説｜出力電圧",
+    "playlist": "PLG6PepT_DSdzzYBJGLC2tUz7fB9JZHoFU",
+    "playlistTitle": "令和５年春　応用情報技術者試験　午前解説"
+  },
+  {
+    "id": "qfk7fGwJa_A",
+    "title": "令和5年春 応用情報技術者試験（午前） 問２３の解説｜LiDAR",
+    "playlist": "PLG6PepT_DSdzzYBJGLC2tUz7fB9JZHoFU",
+    "playlistTitle": "令和５年春　応用情報技術者試験　午前解説"
+  },
+  {
+    "id": "YZu3VE5k4MU",
+    "title": "令和5年春 応用情報技術者試験（午前） 問２４の解説｜NFC",
+    "playlist": "PLG6PepT_DSdzzYBJGLC2tUz7fB9JZHoFU",
+    "playlistTitle": "令和５年春　応用情報技術者試験　午前解説"
+  },
+  {
+    "id": "AxysNyJvRzQ",
+    "title": "令和5年春 応用情報技術者試験（午前） 問２５の解説｜コンピュータグラフィックス",
+    "playlist": "PLG6PepT_DSdzzYBJGLC2tUz7fB9JZHoFU",
+    "playlistTitle": "令和５年春　応用情報技術者試験　午前解説"
+  },
+  {
+    "id": "Qy1m7KeSuQs",
+    "title": "令和5年春 応用情報技術者試験（午前） 問２６の解説｜データベース",
+    "playlist": "PLG6PepT_DSdzzYBJGLC2tUz7fB9JZHoFU",
+    "playlistTitle": "令和５年春　応用情報技術者試験　午前解説"
+  },
+  {
+    "id": "YNU3lmItwjM",
+    "title": "令和5年春 応用情報技術者試験（午前） 問２7の解説",
+    "playlist": "PLG6PepT_DSdzzYBJGLC2tUz7fB9JZHoFU",
+    "playlistTitle": "令和５年春　応用情報技術者試験　午前解説"
+  },
+  {
+    "id": "EP3xyw3aSwY",
+    "title": "令和5年春 応用情報技術者試験（午前） 問２８の解説｜べき等",
+    "playlist": "PLG6PepT_DSdzzYBJGLC2tUz7fB9JZHoFU",
+    "playlistTitle": "令和５年春　応用情報技術者試験　午前解説"
+  },
+  {
+    "id": "ZB8nJdNG8BU",
+    "title": "令和5年春 応用情報技術者試験（午前） 問２９の解説｜データモデル",
+    "playlist": "PLG6PepT_DSdzzYBJGLC2tUz7fB9JZHoFU",
+    "playlistTitle": "令和５年春　応用情報技術者試験　午前解説"
+  },
+  {
+    "id": "DxZOfG121Ss",
+    "title": "令和5年春 応用情報技術者試験（午前） 問３０の解説｜関係データベース",
+    "playlist": "PLG6PepT_DSdzzYBJGLC2tUz7fB9JZHoFU",
+    "playlistTitle": "令和５年春　応用情報技術者試験　午前解説"
+  },
+  {
+    "id": "vsB_4WjExl8",
+    "title": "令和5年春 応用情報技術者試験（午前） 問３１の解説｜PLC",
+    "playlist": "PLG6PepT_DSdzzYBJGLC2tUz7fB9JZHoFU",
+    "playlistTitle": "令和５年春　応用情報技術者試験　午前解説"
+  },
+  {
+    "id": "1QsJ_4KqZ8c",
+    "title": "令和5年春 応用情報技術者試験（午前） 問３２の解説｜パケット",
+    "playlist": "PLG6PepT_DSdzzYBJGLC2tUz7fB9JZHoFU",
+    "playlistTitle": "令和５年春　応用情報技術者試験　午前解説"
+  },
+  {
+    "id": "PX29FLWSxmU",
+    "title": "令和5年春 応用情報技術者試験（午前） 問３３の解説｜イーサネット",
+    "playlist": "PLG6PepT_DSdzzYBJGLC2tUz7fB9JZHoFU",
+    "playlistTitle": "令和５年春　応用情報技術者試験　午前解説"
+  },
+  {
+    "id": "49JQwc1lrzg",
+    "title": "令和5年春 応用情報技術者試験（午前） 問３４の解説｜トランスポート層",
+    "playlist": "PLG6PepT_DSdzzYBJGLC2tUz7fB9JZHoFU",
+    "playlistTitle": "令和５年春　応用情報技術者試験　午前解説"
+  },
+  {
+    "id": "wiyDvmEGmN0",
+    "title": "令和5年春 応用情報技術者試験（午前） 問３５の解説｜モバイル通信",
+    "playlist": "PLG6PepT_DSdzzYBJGLC2tUz7fB9JZHoFU",
+    "playlistTitle": "令和５年春　応用情報技術者試験　午前解説"
+  },
+  {
+    "id": "zD7tNOXN2kg",
+    "title": "令和5年春 応用情報技術者試験（午前） 問３６の解説｜C&Cサーバ",
+    "playlist": "PLG6PepT_DSdzzYBJGLC2tUz7fB9JZHoFU",
+    "playlistTitle": "令和５年春　応用情報技術者試験　午前解説"
+  },
+  {
+    "id": "rQkNIPFt8Vg",
+    "title": "令和5年春 応用情報技術者試験（午前） 問３７の解説｜セキュアOS",
+    "playlist": "PLG6PepT_DSdzzYBJGLC2tUz7fB9JZHoFU",
+    "playlistTitle": "令和５年春　応用情報技術者試験　午前解説"
+  },
+  {
+    "id": "yGK-Y3fVdoc",
+    "title": "令和5年春 応用情報技術者試験（午前） 問３８の解説｜デジタル署名",
+    "playlist": "PLG6PepT_DSdzzYBJGLC2tUz7fB9JZHoFU",
+    "playlistTitle": "令和５年春　応用情報技術者試験　午前解説"
+  },
+  {
+    "id": "Sh9tj8QuR1w",
+    "title": "令和5年春 応用情報技術者試験（午前） 問３９の解説｜ISMAP",
+    "playlist": "PLG6PepT_DSdzzYBJGLC2tUz7fB9JZHoFU",
+    "playlistTitle": "令和５年春　応用情報技術者試験　午前解説"
+  },
+  {
+    "id": "qZ0fr2eCqmo",
+    "title": "令和5年春 応用情報技術者試験（午前） 問４０の解説｜脆弱性を識別する情報",
+    "playlist": "PLG6PepT_DSdzzYBJGLC2tUz7fB9JZHoFU",
+    "playlistTitle": "令和５年春　応用情報技術者試験　午前解説"
+  },
+  {
+    "id": "_RShT0s0jHw",
+    "title": "令和5年春 応用情報技術者試験（午前） 問４１の解説｜TPM",
+    "playlist": "PLG6PepT_DSdzzYBJGLC2tUz7fB9JZHoFU",
+    "playlistTitle": "令和５年春　応用情報技術者試験　午前解説"
+  },
+  {
+    "id": "2W45FtVRCJ8",
+    "title": "令和5年春 応用情報技術者試験（午前） 問４２の解説｜デジタルフォレンジックス",
+    "playlist": "PLG6PepT_DSdzzYBJGLC2tUz7fB9JZHoFU",
+    "playlistTitle": "令和５年春　応用情報技術者試験　午前解説"
+  },
+  {
+    "id": "_Iw6ZYWhw1w",
+    "title": "令和5年春 応用情報技術者試験（午前） 問４３の解説｜セキュリティ対策",
+    "playlist": "PLG6PepT_DSdzzYBJGLC2tUz7fB9JZHoFU",
+    "playlistTitle": "令和５年春　応用情報技術者試験　午前解説"
+  },
+  {
+    "id": "b99CauQKHv8",
+    "title": "令和5年春 応用情報技術者試験（午前） 問４４の解説｜サブミッションポート",
+    "playlist": "PLG6PepT_DSdzzYBJGLC2tUz7fB9JZHoFU",
+    "playlistTitle": "令和５年春　応用情報技術者試験　午前解説"
+  },
+  {
+    "id": "fFOnY439hB4",
+    "title": "令和5年春 応用情報技術者試験（午前） 問４５の解説｜セキュリティ技術",
+    "playlist": "PLG6PepT_DSdzzYBJGLC2tUz7fB9JZHoFU",
+    "playlistTitle": "令和５年春　応用情報技術者試験　午前解説"
+  },
+  {
+    "id": "fUORZ_-Knhg",
+    "title": "令和5年春 応用情報技術者試験（午前） 問４６の解説｜モジュール結合度",
+    "playlist": "PLG6PepT_DSdzzYBJGLC2tUz7fB9JZHoFU",
+    "playlistTitle": "令和５年春　応用情報技術者試験　午前解説"
+  },
+  {
+    "id": "6d0reoHQ8pI",
+    "title": "令和5年春 応用情報技術者試験（午前） 問４７の解説｜決定表",
+    "playlist": "PLG6PepT_DSdzzYBJGLC2tUz7fB9JZHoFU",
+    "playlistTitle": "令和５年春　応用情報技術者試験　午前解説"
+  },
+  {
+    "id": "SIGtLdSM2og",
+    "title": "令和5年春 応用情報技術者試験（午前） 問４８の解説｜スクラム",
+    "playlist": "PLG6PepT_DSdzzYBJGLC2tUz7fB9JZHoFU",
+    "playlistTitle": "令和５年春　応用情報技術者試験　午前解説"
+  },
+  {
+    "id": "k0mjPuDvJ2c",
+    "title": "令和5年春 応用情報技術者試験（午前） 問４９の解説｜特許権",
+    "playlist": "PLG6PepT_DSdzzYBJGLC2tUz7fB9JZHoFU",
+    "playlistTitle": "令和５年春　応用情報技術者試験　午前解説"
+  },
+  {
+    "id": "_JV4BfhzP6s",
+    "title": "令和5年春 応用情報技術者試験（午前） 問５０の解説｜サーバプロビジョニングツール",
+    "playlist": "PLG6PepT_DSdzzYBJGLC2tUz7fB9JZHoFU",
+    "playlistTitle": "令和５年春　応用情報技術者試験　午前解説"
+  },
+  {
+    "id": "ExNd2-K0oH8",
+    "title": "令和5年春 応用情報技術者試験（午前） 問５１の解説｜プロジェクト憲章",
+    "playlist": "PLG6PepT_DSdzzYBJGLC2tUz7fB9JZHoFU",
+    "playlistTitle": "令和５年春　応用情報技術者試験　午前解説"
+  },
+  {
+    "id": "jLKZGSTq1lM",
+    "title": "令和5年春 応用情報技術者試験（午前） 問５２の解説｜クリティカルチェーン",
+    "playlist": "PLG6PepT_DSdzzYBJGLC2tUz7fB9JZHoFU",
+    "playlistTitle": "令和５年春　応用情報技術者試験　午前解説"
+  },
+  {
+    "id": "pF_OOK-LrqU",
+    "title": "令和5年春 応用情報技術者試験（午前） 問５３の解説｜プロジェクトの進捗管理",
+    "playlist": "PLG6PepT_DSdzzYBJGLC2tUz7fB9JZHoFU",
+    "playlistTitle": "令和５年春　応用情報技術者試験　午前解説"
+  },
+  {
+    "id": "x58y6eMktQY",
+    "title": "令和5年春 応用情報技術者試験（午前） 問５４の解説｜デルファイ法",
+    "playlist": "PLG6PepT_DSdzzYBJGLC2tUz7fB9JZHoFU",
+    "playlistTitle": "令和５年春　応用情報技術者試験　午前解説"
+  },
+  {
+    "id": "wC3mXlN0ayU",
+    "title": "令和5年春 応用情報技術者試験（午前） 問５５の解説｜サービスマネジメントシステム",
+    "playlist": "PLG6PepT_DSdzzYBJGLC2tUz7fB9JZHoFU",
+    "playlistTitle": "令和５年春　応用情報技術者試験　午前解説"
+  },
+  {
+    "id": "EzP_o-u9kUI",
+    "title": "令和5年春 応用情報技術者試験（午前） 問５６の解説｜パフォーマンスレビュー",
+    "playlist": "PLG6PepT_DSdzzYBJGLC2tUz7fB9JZHoFU",
+    "playlistTitle": "令和５年春　応用情報技術者試験　午前解説"
+  },
+  {
+    "id": "f9FvTiBj0sE",
+    "title": "令和5年春 応用情報技術者試験（午前） 問５７の解説｜クラウドサービス",
+    "playlist": "PLG6PepT_DSdzzYBJGLC2tUz7fB9JZHoFU",
+    "playlistTitle": "令和５年春　応用情報技術者試験　午前解説"
+  },
+  {
+    "id": "txIF3z5oVcc",
+    "title": "令和5年春 応用情報技術者試験（午前） 問５８の解説｜予備調査",
+    "playlist": "PLG6PepT_DSdzzYBJGLC2tUz7fB9JZHoFU",
+    "playlistTitle": "令和５年春　応用情報技術者試験　午前解説"
+  },
+  {
+    "id": "XKM28QEZaI8",
+    "title": "令和5年春 応用情報技術者試験（午前） 問５９の解説｜監査手続",
+    "playlist": "PLG6PepT_DSdzzYBJGLC2tUz7fB9JZHoFU",
+    "playlistTitle": "令和５年春　応用情報技術者試験　午前解説"
+  },
+  {
+    "id": "fJac90UXmJs",
+    "title": "令和5年春 応用情報技術者試験（午前） 問６０の解説｜内部統制",
+    "playlist": "PLG6PepT_DSdzzYBJGLC2tUz7fB9JZHoFU",
+    "playlistTitle": "令和５年春　応用情報技術者試験　午前解説"
+  },
+  {
+    "id": "Zoo09WsIM3w",
+    "title": "令和5年春 応用情報技術者試験（午前） 問６１の解説｜ROI",
+    "playlist": "PLG6PepT_DSdzzYBJGLC2tUz7fB9JZHoFU",
+    "playlistTitle": "令和５年春　応用情報技術者試験　午前解説"
+  },
+  {
+    "id": "OhbO8n5eQ8o",
+    "title": "令和5年春 応用情報技術者試験（午前） 問６２の解説｜カスタマーエクスペリエンス",
+    "playlist": "PLG6PepT_DSdzzYBJGLC2tUz7fB9JZHoFU",
+    "playlistTitle": "令和５年春　応用情報技術者試験　午前解説"
+  },
+  {
+    "id": "INRqdFWzr8k",
+    "title": "令和5年春 応用情報技術者試験（午前） 問６３の解説｜情報銀行",
+    "playlist": "PLG6PepT_DSdzzYBJGLC2tUz7fB9JZHoFU",
+    "playlistTitle": "令和５年春　応用情報技術者試験　午前解説"
+  },
+  {
+    "id": "YaOyUujwdbw",
+    "title": "令和5年春 応用情報技術者試験（午前） 問６４の解説｜トレーサビリティ",
+    "playlist": "PLG6PepT_DSdzzYBJGLC2tUz7fB9JZHoFU",
+    "playlistTitle": "令和５年春　応用情報技術者試験　午前解説"
+  },
+  {
+    "id": "GJ4_fwB3_hA",
+    "title": "令和5年春 応用情報技術者試験（午前） 問６５の解説｜RFI",
+    "playlist": "PLG6PepT_DSdzzYBJGLC2tUz7fB9JZHoFU",
+    "playlistTitle": "令和５年春　応用情報技術者試験　午前解説"
+  },
+  {
+    "id": "LBmV43VcVEc",
+    "title": "令和5年春 応用情報技術者試験（午前） 問６６の解説｜見積り依頼",
+    "playlist": "PLG6PepT_DSdzzYBJGLC2tUz7fB9JZHoFU",
+    "playlistTitle": "令和５年春　応用情報技術者試験　午前解説"
+  },
+  {
+    "id": "cIYFqyxM_gQ",
+    "title": "令和5年春 応用情報技術者試験（午前） 問６７の解説｜ROAS",
+    "playlist": "PLG6PepT_DSdzzYBJGLC2tUz7fB9JZHoFU",
+    "playlistTitle": "令和５年春　応用情報技術者試験　午前解説"
+  },
+  {
+    "id": "FZIcx4q4x30",
+    "title": "令和5年春 応用情報技術者試験（午前） 問６８の解説｜戦略マップ",
+    "playlist": "PLG6PepT_DSdzzYBJGLC2tUz7fB9JZHoFU",
+    "playlistTitle": "令和５年春　応用情報技術者試験　午前解説"
+  },
+  {
+    "id": "lmxSA3chi7I",
+    "title": "令和5年春 応用情報技術者試験（午前） 問６９の解説｜フィージビリティスタディ",
+    "playlist": "PLG6PepT_DSdzzYBJGLC2tUz7fB9JZHoFU",
+    "playlistTitle": "令和５年春　応用情報技術者試験　午前解説"
+  },
+  {
+    "id": "glC4N1LjT-E",
+    "title": "令和5年春 応用情報技術者試験（午前） 問７０の解説｜共同研究",
+    "playlist": "PLG6PepT_DSdzzYBJGLC2tUz7fB9JZHoFU",
+    "playlistTitle": "令和５年春　応用情報技術者試験　午前解説"
+  },
+  {
+    "id": "c6BoxXbKTwo",
+    "title": "令和5年春 応用情報技術者試験（午前） 問７１の解説｜エネルギーハーベスティング",
+    "playlist": "PLG6PepT_DSdzzYBJGLC2tUz7fB9JZHoFU",
+    "playlistTitle": "令和５年春　応用情報技術者試験　午前解説"
+  },
+  {
+    "id": "SCmv9T3q_j8",
+    "title": "令和5年春 応用情報技術者試験（午前） 問７２の解説｜アグリゲーションサービス",
+    "playlist": "PLG6PepT_DSdzzYBJGLC2tUz7fB9JZHoFU",
+    "playlistTitle": "令和５年春　応用情報技術者試験　午前解説"
+  },
+  {
+    "id": "b5wIxi5RzKo",
+    "title": "令和5年春 応用情報技術者試験（午前） 問７３の解説｜デジタルツイン",
+    "playlist": "PLG6PepT_DSdzzYBJGLC2tUz7fB9JZHoFU",
+    "playlistTitle": "令和５年春　応用情報技術者試験　午前解説"
+  },
+  {
+    "id": "Dz0uKkwripc",
+    "title": "令和5年春 応用情報技術者試験（午前） 問７４の解説｜事業部制組織",
+    "playlist": "PLG6PepT_DSdzzYBJGLC2tUz7fB9JZHoFU",
+    "playlistTitle": "令和５年春　応用情報技術者試験　午前解説"
+  },
+  {
+    "id": "UjUQG84s3PM",
+    "title": "令和5年春 応用情報技術者試験（午前） 問７５の解説｜デシジョンツリー",
+    "playlist": "PLG6PepT_DSdzzYBJGLC2tUz7fB9JZHoFU",
+    "playlistTitle": "令和５年春　応用情報技術者試験　午前解説"
+  },
+  {
+    "id": "hajvl_BeNWA",
+    "title": "令和5年春 応用情報技術者試験（午前） 問７６の解説",
+    "playlist": "PLG6PepT_DSdzzYBJGLC2tUz7fB9JZHoFU",
+    "playlistTitle": "令和５年春　応用情報技術者試験　午前解説"
+  },
+  {
+    "id": "mDy93DGTtYs",
+    "title": "令和5年春 応用情報技術者試験（午前） 問７７の解説｜売上高",
+    "playlist": "PLG6PepT_DSdzzYBJGLC2tUz7fB9JZHoFU",
+    "playlistTitle": "令和５年春　応用情報技術者試験　午前解説"
+  },
+  {
+    "id": "M5ocpG3639I",
+    "title": "令和5年春 応用情報技術者試験（午前） 問７８の解説｜下請法",
+    "playlist": "PLG6PepT_DSdzzYBJGLC2tUz7fB9JZHoFU",
+    "playlistTitle": "令和５年春　応用情報技術者試験　午前解説"
+  },
+  {
+    "id": "XonrcJIK87o",
+    "title": "令和5年春 応用情報技術者試験（午前） 問７９の解説｜労働者派遣法",
+    "playlist": "PLG6PepT_DSdzzYBJGLC2tUz7fB9JZHoFU",
+    "playlistTitle": "令和５年春　応用情報技術者試験　午前解説"
+  },
+  {
+    "id": "wPN0KfyxPbc",
+    "title": "令和5年春 応用情報技術者試験（午前） 問８０の解説｜集団思考",
+    "playlist": "PLG6PepT_DSdzzYBJGLC2tUz7fB9JZHoFU",
+    "playlistTitle": "令和５年春　応用情報技術者試験　午前解説"
+  },
+  {
+    "id": "jG_yHjIMVIA",
+    "title": "【応用情報技術者試験】過去問解説　令和４年春　問１　情報落ち",
+    "playlist": "PLG6PepT_DSdyMLfGuxXsKCokC4tLUjH-s",
+    "playlistTitle": "応用情報技術者試験令和４年春期"
+  },
+  {
+    "id": "s9__dFVZD3A",
+    "title": "【応用情報技術者試験】過去問解説　令和３年春　問１",
+    "playlist": "PLG6PepT_DSdxDx589EQ2NCH3UBF-StDrf",
+    "playlistTitle": "応用情報技術者令和3年春期"
+  },
+  {
+    "id": "PTZYwTjbTAU",
+    "title": "【応用情報技術者試験】過去問解説　令和３年春　問２",
+    "playlist": "PLG6PepT_DSdxDx589EQ2NCH3UBF-StDrf",
+    "playlistTitle": "応用情報技術者令和3年春期"
+  },
+  {
+    "id": "7X_EtBlh2KI",
+    "title": "【応用情報技術者試験】過去問解説　令和３年春　問３",
+    "playlist": "PLG6PepT_DSdxDx589EQ2NCH3UBF-StDrf",
+    "playlistTitle": "応用情報技術者令和3年春期"
+  },
+  {
+    "id": "Gk4dj3kP5oI",
+    "title": "【応用情報技術者試験】過去問解説　令和３年春　問４",
+    "playlist": "PLG6PepT_DSdxDx589EQ2NCH3UBF-StDrf",
+    "playlistTitle": "応用情報技術者令和3年春期"
+  },
+  {
+    "id": "TWNYMaODr94",
+    "title": "【応用情報技術者試験】過去問解説　令和３年春　問５",
+    "playlist": "PLG6PepT_DSdxDx589EQ2NCH3UBF-StDrf",
+    "playlistTitle": "応用情報技術者令和3年春期"
+  },
+  {
+    "id": "NujbmV5zH8g",
+    "title": "【応用情報技術者試験】過去問解説　令和３年春　問６",
+    "playlist": "PLG6PepT_DSdxDx589EQ2NCH3UBF-StDrf",
+    "playlistTitle": "応用情報技術者令和3年春期"
+  },
+  {
+    "id": "exf1CNstd-c",
+    "title": "【応用情報技術者試験】過去問解説　令和３年春　問７",
+    "playlist": "PLG6PepT_DSdxDx589EQ2NCH3UBF-StDrf",
+    "playlistTitle": "応用情報技術者令和3年春期"
+  },
+  {
+    "id": "FEm2Y1siaYI",
+    "title": "【応用情報技術者試験】過去問解説　令和３年春　問８",
+    "playlist": "PLG6PepT_DSdxDx589EQ2NCH3UBF-StDrf",
+    "playlistTitle": "応用情報技術者令和3年春期"
+  },
+  {
+    "id": "3Hw_qpoEEgw",
+    "title": "【応用情報技術者試験】過去問解説　令和３年春　問９",
+    "playlist": "PLG6PepT_DSdxDx589EQ2NCH3UBF-StDrf",
+    "playlistTitle": "応用情報技術者令和3年春期"
+  },
+  {
+    "id": "g5bDyxkU6Ww",
+    "title": "【応用情報技術者試験】過去問解説　令和３年春　問１０",
+    "playlist": "PLG6PepT_DSdxDx589EQ2NCH3UBF-StDrf",
+    "playlistTitle": "応用情報技術者令和3年春期"
+  },
+  {
+    "id": "loVLmJ4J4Kk",
+    "title": "【応用情報技術者試験】過去問解説　令和３年春　問１１",
+    "playlist": "PLG6PepT_DSdxDx589EQ2NCH3UBF-StDrf",
+    "playlistTitle": "応用情報技術者令和3年春期"
+  },
+  {
+    "id": "vHROyoydR60",
+    "title": "【応用情報技術者試験】過去問解説　令和３年春　問１２",
+    "playlist": "PLG6PepT_DSdxDx589EQ2NCH3UBF-StDrf",
+    "playlistTitle": "応用情報技術者令和3年春期"
+  },
+  {
+    "id": "XyihHwwqlZA",
+    "title": "【応用情報技術者試験】過去問解説　令和３年春　問１３",
+    "playlist": "PLG6PepT_DSdxDx589EQ2NCH3UBF-StDrf",
+    "playlistTitle": "応用情報技術者令和3年春期"
+  },
+  {
+    "id": "U0-mbnCz3dg",
+    "title": "【応用情報技術者試験】過去問解説　令和３年春　問１４",
+    "playlist": "PLG6PepT_DSdxDx589EQ2NCH3UBF-StDrf",
+    "playlistTitle": "応用情報技術者令和3年春期"
+  },
+  {
+    "id": "_jXfrTZMJ4s",
+    "title": "【応用情報技術者試験】過去問解説　令和３年春　問１５",
+    "playlist": "PLG6PepT_DSdxDx589EQ2NCH3UBF-StDrf",
+    "playlistTitle": "応用情報技術者令和3年春期"
+  },
+  {
+    "id": "8ct9P0MGB2g",
+    "title": "【応用情報技術者試験】過去問解説　令和３年春　問１６",
+    "playlist": "PLG6PepT_DSdxDx589EQ2NCH3UBF-StDrf",
+    "playlistTitle": "応用情報技術者令和3年春期"
+  },
+  {
+    "id": "ufjB7X0xzXY",
+    "title": "【応用情報技術者試験】過去問解説　令和３年春　問１７",
+    "playlist": "PLG6PepT_DSdxDx589EQ2NCH3UBF-StDrf",
+    "playlistTitle": "応用情報技術者令和3年春期"
+  },
+  {
+    "id": "K_ifPXJDHhM",
+    "title": "【応用情報技術者試験】過去問解説　令和３年春　問１８",
+    "playlist": "PLG6PepT_DSdxDx589EQ2NCH3UBF-StDrf",
+    "playlistTitle": "応用情報技術者令和3年春期"
+  },
+  {
+    "id": "ErqwVKbJdB0",
+    "title": "【応用情報技術者試験】過去問解説　令和３年春　問１９",
+    "playlist": "PLG6PepT_DSdxDx589EQ2NCH3UBF-StDrf",
+    "playlistTitle": "応用情報技術者令和3年春期"
+  },
+  {
+    "id": "FOa2vz6fd5k",
+    "title": "【応用情報技術者試験】過去問解説　令和３年春　問２０",
+    "playlist": "PLG6PepT_DSdxDx589EQ2NCH3UBF-StDrf",
+    "playlistTitle": "応用情報技術者令和3年春期"
+  },
+  {
+    "id": "J8Cvekd-3Po",
+    "title": "【応用情報技術者試験】過去問解説　令和３年春　問２１",
+    "playlist": "PLG6PepT_DSdxDx589EQ2NCH3UBF-StDrf",
+    "playlistTitle": "応用情報技術者令和3年春期"
+  },
+  {
+    "id": "7e5o8kZrvtk",
+    "title": "【応用情報技術者試験】過去問解説　令和３年春　問２２",
+    "playlist": "PLG6PepT_DSdxDx589EQ2NCH3UBF-StDrf",
+    "playlistTitle": "応用情報技術者令和3年春期"
+  },
+  {
+    "id": "HNRbvksE7Ks",
+    "title": "【応用情報技術者試験】過去問解説　令和３年春　問２３",
+    "playlist": "PLG6PepT_DSdxDx589EQ2NCH3UBF-StDrf",
+    "playlistTitle": "応用情報技術者令和3年春期"
+  },
+  {
+    "id": "HEqTcciVlBk",
+    "title": "【応用情報技術者試験】過去問解説　令和３年春　問２４",
+    "playlist": "PLG6PepT_DSdxDx589EQ2NCH3UBF-StDrf",
+    "playlistTitle": "応用情報技術者令和3年春期"
+  },
+  {
+    "id": "mKugobrgYFg",
+    "title": "【応用情報技術者試験】過去問解説　令和３年春　問２５",
+    "playlist": "PLG6PepT_DSdxDx589EQ2NCH3UBF-StDrf",
+    "playlistTitle": "応用情報技術者令和3年春期"
+  },
+  {
+    "id": "G23jVcoicNY",
+    "title": "【応用情報技術者試験】過去問解説　令和３年春　問２６",
+    "playlist": "PLG6PepT_DSdxDx589EQ2NCH3UBF-StDrf",
+    "playlistTitle": "応用情報技術者令和3年春期"
+  },
+  {
+    "id": "NphXtGRE15k",
+    "title": "【応用情報技術者試験】過去問解説　令和３年春　問２７",
+    "playlist": "PLG6PepT_DSdxDx589EQ2NCH3UBF-StDrf",
+    "playlistTitle": "応用情報技術者令和3年春期"
+  },
+  {
+    "id": "B1mHRUL22v4",
+    "title": "【応用情報技術者試験】過去問解説　令和３年春　問２８",
+    "playlist": "PLG6PepT_DSdxDx589EQ2NCH3UBF-StDrf",
+    "playlistTitle": "応用情報技術者令和3年春期"
+  },
+  {
+    "id": "N0daOskeGF4",
+    "title": "【応用情報技術者試験】過去問解説　令和３年春　問２９",
+    "playlist": "PLG6PepT_DSdxDx589EQ2NCH3UBF-StDrf",
+    "playlistTitle": "応用情報技術者令和3年春期"
+  },
+  {
+    "id": "i5-f_SghjtA",
+    "title": "【応用情報技術者試験】過去問解説　令和３年春　問 30",
+    "playlist": "PLG6PepT_DSdxDx589EQ2NCH3UBF-StDrf",
+    "playlistTitle": "応用情報技術者令和3年春期"
+  },
+  {
+    "id": "WXhROqmKS08",
+    "title": "【応用情報技術者試験】過去問解説　令和３年春　問 31",
+    "playlist": "PLG6PepT_DSdxDx589EQ2NCH3UBF-StDrf",
+    "playlistTitle": "応用情報技術者令和3年春期"
+  },
+  {
+    "id": "2jbM3BtQGJ4",
+    "title": "【応用情報技術者試験】過去問解説　令和３年春　問 32",
+    "playlist": "PLG6PepT_DSdxDx589EQ2NCH3UBF-StDrf",
+    "playlistTitle": "応用情報技術者令和3年春期"
+  },
+  {
+    "id": "qfl9queFAqM",
+    "title": "【応用情報技術者試験】過去問解説　令和３年春　問 33",
+    "playlist": "PLG6PepT_DSdxDx589EQ2NCH3UBF-StDrf",
+    "playlistTitle": "応用情報技術者令和3年春期"
+  },
+  {
+    "id": "bhA5pvvGpxU",
+    "title": "【応用情報技術者試験】過去問解説　令和３年春　問 34",
+    "playlist": "PLG6PepT_DSdxDx589EQ2NCH3UBF-StDrf",
+    "playlistTitle": "応用情報技術者令和3年春期"
+  },
+  {
+    "id": "dH82igTGDeM",
+    "title": "【応用情報技術者試験】過去問解説　令和３年春　問 35",
+    "playlist": "PLG6PepT_DSdxDx589EQ2NCH3UBF-StDrf",
+    "playlistTitle": "応用情報技術者令和3年春期"
+  },
+  {
+    "id": "MJGqkxCkZ3w",
+    "title": "【応用情報技術者試験】過去問解説　令和３年春　問 36",
+    "playlist": "PLG6PepT_DSdxDx589EQ2NCH3UBF-StDrf",
+    "playlistTitle": "応用情報技術者令和3年春期"
+  },
+  {
+    "id": "riAWswc25IA",
+    "title": "【応用情報技術者試験】過去問解説　令和３年春　問 37",
+    "playlist": "PLG6PepT_DSdxDx589EQ2NCH3UBF-StDrf",
+    "playlistTitle": "応用情報技術者令和3年春期"
+  },
+  {
+    "id": "Vse0T06kAKQ",
+    "title": "【応用情報技術者試験】過去問解説　令和３年春　問 38",
+    "playlist": "PLG6PepT_DSdxDx589EQ2NCH3UBF-StDrf",
+    "playlistTitle": "応用情報技術者令和3年春期"
+  },
+  {
+    "id": "-VoWllzshUU",
+    "title": "【応用情報技術者試験】過去問解説　令和３年春　問 39",
+    "playlist": "PLG6PepT_DSdxDx589EQ2NCH3UBF-StDrf",
+    "playlistTitle": "応用情報技術者令和3年春期"
+  },
+  {
+    "id": "_zDFlckLce8",
+    "title": "【応用情報技術者試験】過去問解説　令和３年春　問 40",
+    "playlist": "PLG6PepT_DSdxDx589EQ2NCH3UBF-StDrf",
+    "playlistTitle": "応用情報技術者令和3年春期"
+  },
+  {
+    "id": "zJgxKfBUleI",
+    "title": "【応用情報技術者試験】過去問解説　令和３年春　問 41",
+    "playlist": "PLG6PepT_DSdxDx589EQ2NCH3UBF-StDrf",
+    "playlistTitle": "応用情報技術者令和3年春期"
+  },
+  {
+    "id": "52Z95FkOb6M",
+    "title": "【応用情報技術者試験】過去問解説　令和３年春　問 42",
+    "playlist": "PLG6PepT_DSdxDx589EQ2NCH3UBF-StDrf",
+    "playlistTitle": "応用情報技術者令和3年春期"
+  },
+  {
+    "id": "2uYqPK9FwPY",
+    "title": "【応用情報技術者試験】過去問解説　令和３年春　問 43",
+    "playlist": "PLG6PepT_DSdxDx589EQ2NCH3UBF-StDrf",
+    "playlistTitle": "応用情報技術者令和3年春期"
+  },
+  {
+    "id": "dTyW2JWpoiU",
+    "title": "【応用情報技術者試験】過去問解説　令和３年春　問 44",
+    "playlist": "PLG6PepT_DSdxDx589EQ2NCH3UBF-StDrf",
+    "playlistTitle": "応用情報技術者令和3年春期"
+  },
+  {
+    "id": "HH8hH02TST0",
+    "title": "【応用情報技術者試験】過去問解説　令和３年春　問 45",
+    "playlist": "PLG6PepT_DSdxDx589EQ2NCH3UBF-StDrf",
+    "playlistTitle": "応用情報技術者令和3年春期"
+  },
+  {
+    "id": "-sa-6Lh_sUU",
+    "title": "【応用情報技術者試験】過去問解説　令和３年春　問 46",
+    "playlist": "PLG6PepT_DSdxDx589EQ2NCH3UBF-StDrf",
+    "playlistTitle": "応用情報技術者令和3年春期"
+  },
+  {
+    "id": "bumj1pdgTRM",
+    "title": "【応用情報技術者試験】過去問解説　令和３年春　問 47",
+    "playlist": "PLG6PepT_DSdxDx589EQ2NCH3UBF-StDrf",
+    "playlistTitle": "応用情報技術者令和3年春期"
+  },
+  {
+    "id": "nrRIJuoFW_0",
+    "title": "【応用情報技術者試験】過去問解説　令和３年春　問 48",
+    "playlist": "PLG6PepT_DSdxDx589EQ2NCH3UBF-StDrf",
+    "playlistTitle": "応用情報技術者令和3年春期"
+  },
+  {
+    "id": "pEJGuJkk3Bs",
+    "title": "【応用情報技術者試験】過去問解説　令和３年春　問 49",
+    "playlist": "PLG6PepT_DSdxDx589EQ2NCH3UBF-StDrf",
+    "playlistTitle": "応用情報技術者令和3年春期"
+  },
+  {
+    "id": "Qx0qmj_LJpg",
+    "title": "【応用情報技術者試験】過去問解説　令和３年春　問 50",
+    "playlist": "PLG6PepT_DSdxDx589EQ2NCH3UBF-StDrf",
+    "playlistTitle": "応用情報技術者令和3年春期"
+  },
+  {
+    "id": "IyS8Q2rwZVc",
+    "title": "【応用情報技術者試験】過去問解説　令和３年春　問 51",
+    "playlist": "PLG6PepT_DSdxDx589EQ2NCH3UBF-StDrf",
+    "playlistTitle": "応用情報技術者令和3年春期"
+  },
+  {
+    "id": "Noe7OcA35Xc",
+    "title": "【応用情報技術者試験】過去問解説　令和３年春　問 52",
+    "playlist": "PLG6PepT_DSdxDx589EQ2NCH3UBF-StDrf",
+    "playlistTitle": "応用情報技術者令和3年春期"
+  },
+  {
+    "id": "iFjphqduCLQ",
+    "title": "【応用情報技術者試験】過去問解説　令和３年春　問 53",
+    "playlist": "PLG6PepT_DSdxDx589EQ2NCH3UBF-StDrf",
+    "playlistTitle": "応用情報技術者令和3年春期"
+  },
+  {
+    "id": "lMK8ngU4jF4",
+    "title": "【応用情報技術者試験】過去問解説　令和３年春　問 54",
+    "playlist": "PLG6PepT_DSdxDx589EQ2NCH3UBF-StDrf",
+    "playlistTitle": "応用情報技術者令和3年春期"
+  },
+  {
+    "id": "q86g7-sva4w",
+    "title": "【応用情報技術者試験】過去問解説　令和３年春　問 55",
+    "playlist": "PLG6PepT_DSdxDx589EQ2NCH3UBF-StDrf",
+    "playlistTitle": "応用情報技術者令和3年春期"
+  },
+  {
+    "id": "IXXakEbIVTk",
+    "title": "【応用情報技術者試験】過去問解説　令和３年春　問 56",
+    "playlist": "PLG6PepT_DSdxDx589EQ2NCH3UBF-StDrf",
+    "playlistTitle": "応用情報技術者令和3年春期"
+  },
+  {
+    "id": "fLtN7C2Q_n0",
+    "title": "【応用情報技術者試験】過去問解説　令和３年春　問 57",
+    "playlist": "PLG6PepT_DSdxDx589EQ2NCH3UBF-StDrf",
+    "playlistTitle": "応用情報技術者令和3年春期"
+  },
+  {
+    "id": "8oO131eStRY",
+    "title": "【応用情報技術者試験】過去問解説　令和３年春　問 58",
+    "playlist": "PLG6PepT_DSdxDx589EQ2NCH3UBF-StDrf",
+    "playlistTitle": "応用情報技術者令和3年春期"
+  },
+  {
+    "id": "oaEd1IE6I8o",
+    "title": "【応用情報技術者試験】過去問解説　令和３年春　問 59",
+    "playlist": "PLG6PepT_DSdxDx589EQ2NCH3UBF-StDrf",
+    "playlistTitle": "応用情報技術者令和3年春期"
+  },
+  {
+    "id": "nXZqdVXCgb8",
+    "title": "【応用情報技術者試験】過去問解説　令和３年春　問 60",
+    "playlist": "PLG6PepT_DSdxDx589EQ2NCH3UBF-StDrf",
+    "playlistTitle": "応用情報技術者令和3年春期"
+  },
+  {
+    "id": "998so_-XUzk",
+    "title": "【応用情報技術者試験】過去問解説　令和３年春　問 61",
+    "playlist": "PLG6PepT_DSdxDx589EQ2NCH3UBF-StDrf",
+    "playlistTitle": "応用情報技術者令和3年春期"
+  },
+  {
+    "id": "S-S_w__7tOo",
+    "title": "【応用情報技術者試験】過去問解説　令和３年春　問 62",
+    "playlist": "PLG6PepT_DSdxDx589EQ2NCH3UBF-StDrf",
+    "playlistTitle": "応用情報技術者令和3年春期"
+  },
+  {
+    "id": "0rBYioq41S0",
+    "title": "【応用情報技術者試験】過去問解説　令和３年春　問 63",
+    "playlist": "PLG6PepT_DSdxDx589EQ2NCH3UBF-StDrf",
+    "playlistTitle": "応用情報技術者令和3年春期"
+  },
+  {
+    "id": "hiIiueeLnMA",
+    "title": "【応用情報技術者試験】過去問解説　令和３年春　問 64",
+    "playlist": "PLG6PepT_DSdxDx589EQ2NCH3UBF-StDrf",
+    "playlistTitle": "応用情報技術者令和3年春期"
+  },
+  {
+    "id": "iqFCHqBgvdE",
+    "title": "【応用情報技術者試験】過去問解説　令和３年春　問 65",
+    "playlist": "PLG6PepT_DSdxDx589EQ2NCH3UBF-StDrf",
+    "playlistTitle": "応用情報技術者令和3年春期"
+  },
+  {
+    "id": "fObAwjkEEx0",
+    "title": "【応用情報技術者試験】過去問解説　令和３年春　問 66",
+    "playlist": "PLG6PepT_DSdxDx589EQ2NCH3UBF-StDrf",
+    "playlistTitle": "応用情報技術者令和3年春期"
+  },
+  {
+    "id": "u3XOXjNpJ5I",
+    "title": "【応用情報技術者試験】過去問解説　令和３年春　問 67",
+    "playlist": "PLG6PepT_DSdxDx589EQ2NCH3UBF-StDrf",
+    "playlistTitle": "応用情報技術者令和3年春期"
+  },
+  {
+    "id": "jIv7HVr3v7Y",
+    "title": "【応用情報技術者試験】過去問解説　令和３年春　問 68",
+    "playlist": "PLG6PepT_DSdxDx589EQ2NCH3UBF-StDrf",
+    "playlistTitle": "応用情報技術者令和3年春期"
+  },
+  {
+    "id": "GIoOoaKytMs",
+    "title": "【応用情報技術者試験】過去問解説　令和３年春　問 69",
+    "playlist": "PLG6PepT_DSdxDx589EQ2NCH3UBF-StDrf",
+    "playlistTitle": "応用情報技術者令和3年春期"
+  },
+  {
+    "id": "o1h81wmuQb4",
+    "title": "【応用情報技術者試験】過去問解説　令和３年春　問 70",
+    "playlist": "PLG6PepT_DSdxDx589EQ2NCH3UBF-StDrf",
+    "playlistTitle": "応用情報技術者令和3年春期"
+  },
+  {
+    "id": "ZY2jqKEztho",
+    "title": "【応用情報技術者試験】過去問解説　令和３年春　問 71",
+    "playlist": "PLG6PepT_DSdxDx589EQ2NCH3UBF-StDrf",
+    "playlistTitle": "応用情報技術者令和3年春期"
+  },
+  {
+    "id": "pdmmgWd53-Y",
+    "title": "【応用情報技術者試験】過去問解説　令和３年春　問 72",
+    "playlist": "PLG6PepT_DSdxDx589EQ2NCH3UBF-StDrf",
+    "playlistTitle": "応用情報技術者令和3年春期"
+  },
+  {
+    "id": "VZ64SOG3NK4",
+    "title": "【応用情報技術者試験】過去問解説　令和３年春　問 73",
+    "playlist": "PLG6PepT_DSdxDx589EQ2NCH3UBF-StDrf",
+    "playlistTitle": "応用情報技術者令和3年春期"
+  },
+  {
+    "id": "csnlxDa2yTs",
+    "title": "【応用情報技術者試験】過去問解説　令和３年春　問 74",
+    "playlist": "PLG6PepT_DSdxDx589EQ2NCH3UBF-StDrf",
+    "playlistTitle": "応用情報技術者令和3年春期"
+  },
+  {
+    "id": "jv_5OndjY_o",
+    "title": "【応用情報技術者試験】過去問解説　令和３年春　問 75",
+    "playlist": "PLG6PepT_DSdxDx589EQ2NCH3UBF-StDrf",
+    "playlistTitle": "応用情報技術者令和3年春期"
+  },
+  {
+    "id": "bJ5Cf022GUk",
+    "title": "【応用情報技術者試験】過去問解説　令和３年春　問 76",
+    "playlist": "PLG6PepT_DSdxDx589EQ2NCH3UBF-StDrf",
+    "playlistTitle": "応用情報技術者令和3年春期"
+  },
+  {
+    "id": "GmLyHdmKnLw",
+    "title": "【応用情報技術者試験】過去問解説　令和３年春　問 77",
+    "playlist": "PLG6PepT_DSdxDx589EQ2NCH3UBF-StDrf",
+    "playlistTitle": "応用情報技術者令和3年春期"
+  },
+  {
+    "id": "kk37Vr6xx2g",
+    "title": "【応用情報技術者試験】過去問解説　令和３年春　問 78",
+    "playlist": "PLG6PepT_DSdxDx589EQ2NCH3UBF-StDrf",
+    "playlistTitle": "応用情報技術者令和3年春期"
+  },
+  {
+    "id": "Le06flfkI9g",
+    "title": "【応用情報技術者試験】過去問解説　令和３年春　問 79",
+    "playlist": "PLG6PepT_DSdxDx589EQ2NCH3UBF-StDrf",
+    "playlistTitle": "応用情報技術者令和3年春期"
+  },
+  {
+    "id": "rf_MjMFWkO0",
+    "title": "【応用情報技術者試験】過去問解説　令和３年春　問 80",
+    "playlist": "PLG6PepT_DSdxDx589EQ2NCH3UBF-StDrf",
+    "playlistTitle": "応用情報技術者令和3年春期"
+  },
+  {
+    "id": "nBWWQ2eSS_8",
+    "title": "【データマネジメント試験】科目Bのサンプル問題を短編映画化｜責任 #DMBOK #情報処理技術者試験 #応用情報技術者試験 データの責任を巡る争い、その夜に起きた殺人事件…",
+    "playlist": null,
+    "playlistTitle": ""
+  },
+  {
+    "id": "P_wW0o-cmnU",
+    "title": "【関数従属・候補キー】ドミノでわかるデータベース｜DBスペシャリスト・応用情報対策",
+    "playlist": null,
+    "playlistTitle": ""
+  },
+  {
+    "id": "db80bwgtqcM",
+    "title": "【データマネジメント試験】科目Bのサンプル問題を短編映画化｜鍵 #DMBOK #情報処理技術者試験 #応用情報技術者試験 消えたデータと深夜のオフィスで起きた事件…",
+    "playlist": null,
+    "playlistTitle": ""
+  },
+  {
+    "id": "Pg-c5QQd5hc",
+    "title": "【データマネジメント試験】科目Aのサンプル問題を短編映画化｜潜入 #DMBOK #情報処理技術者試験 #応用情報技術者試験 17時までに3つの答えを持ち帰れ…",
+    "playlist": null,
+    "playlistTitle": ""
+  },
+  {
+    "id": "tQ9ADHo8wEc",
+    "title": "【令和8年度】応用情報・高度試験・SCの新日程を完全解説｜申込期間・科目A/B・免除・CBT化の注意点",
+    "playlist": null,
+    "playlistTitle": ""
+  },
+  {
+    "id": "t_SxUdpZoXg",
+    "title": "【情報処理安全確保支援士】アサヒビールの事例に学ぶ、ランサムウェア被害のリアルを短編映画化 #情報処理技術者試験 #応用情報技術者試験 #情報セキュリティ",
+    "playlist": null,
+    "playlistTitle": ""
+  },
+  {
+    "id": "pp_GXlK6Y1E",
+    "title": "【データマネジメント試験】データ管理の崩壊…その末路を短編映画化｜データマネジメントの重要性 #DMBOK #情報処理技術者試験 #応用情報技術者試験",
+    "playlist": null,
+    "playlistTitle": ""
+  },
+  {
+    "id": "_gmdhT-Xla4",
+    "title": "【実録】アサヒグループを襲った「Qilin」の脅威。300拠点が停止した5ヶ月の死闘と全貌！情報処理技術者試験のセキュリティ分野、情報処理安全確保支援士の勉強にも役立つ #応用情報技術者試験",
+    "playlist": null,
+    "playlistTitle": ""
+  },
+  {
+    "id": "eQzIf8H-ZCg",
+    "title": "全加算器を３Dで作って、足し算をさせてみた #応用情報技術者試験 #論理回路 #加算器",
+    "playlist": null,
+    "playlistTitle": ""
+  },
+  {
+    "id": "rm0mT59kFL4",
+    "title": "【情報処理技術者試験×短編映画 MISSION】短編映画を通じて情報処理技術者試験を学習 #応用情報技術者試験  #情報処理技術者試験  #基本情報技術者試験  #itパスポート試験",
+    "playlist": null,
+    "playlistTitle": ""
+  },
+  {
+    "id": "9M2Uf0LY7l8",
+    "title": "【聞き流し】基本情報・応用情報技術者試験によく出るコンピュータシステム１３０一問一答 #情報技術者試験 #基本情報技術者試験 #itパスポート #応用情報技術者試験",
+    "playlist": null,
+    "playlistTitle": ""
+  },
+  {
+    "id": "tnniIgz6fxg",
+    "title": "【続報：応用情報と高度試験が消える話】プロフェッショナルデジタルスキル試験では、高度試験が消えて、応用情報技術者試験が統廃合されるっぽいです #応用情報技術者試験 #ネットワークスペシャリスト",
+    "playlist": null,
+    "playlistTitle": ""
+  },
+  {
+    "id": "mOb8EAu-oE4",
+    "title": "【速報：情報処理技術者試験に大変革！】令和９年度から応用情報やネスペやデスペなどがなくなり、プロフェッショナルデジタルスキル試験に統廃合！",
+    "playlist": null,
+    "playlistTitle": ""
+  },
+  {
+    "id": "gIOCBVnxv_4",
+    "title": "【応用情報技術者試験×短編映画】短編映画を通じて情報処理技術者試験を学習 #応用情報技術者試験  #情報処理技術者試験  #基本情報技術者試験  #itパスポート試験",
+    "playlist": null,
+    "playlistTitle": ""
+  },
+  {
+    "id": "W1uWCFvDPaI",
+    "title": "令和７年秋　応用情報技術者試験　午後１　情報セキュリティ",
+    "playlist": null,
+    "playlistTitle": ""
+  },
+  {
+    "id": "Eci7qog_XvQ",
+    "title": "令和７年秋　応用情報技術者試験　午後９　プロジェクトマネジメント",
+    "playlist": null,
+    "playlistTitle": ""
+  },
+  {
+    "id": "1mMiUfVVmNs",
+    "title": "【令和７年秋　応用情報技術者試験】午前　問２６〜問３０ #応用情報技術者試験 #令和７年秋 #午前",
+    "playlist": null,
+    "playlistTitle": ""
+  },
+  {
+    "id": "oOBVBX4CeHA",
+    "title": "【令和７年秋　応用情報技術者試験】午前　問１６〜問２０ #応用情報技術者試験 #令和７年秋 #午前",
+    "playlist": null,
+    "playlistTitle": ""
+  },
+  {
+    "id": "PZtY-m1929M",
+    "title": "【令和７年秋　応用情報技術者試験】午前　問２１〜問２５ #応用情報技術者試験 #令和７年秋 #午前",
+    "playlist": null,
+    "playlistTitle": ""
+  },
+  {
+    "id": "Xo7LATuMeF8",
+    "title": "【令和７年秋　応用情報技術者試験】午前　問１１～問１５ #応用情報技術者試験 #令和７年秋 #午前",
+    "playlist": null,
+    "playlistTitle": ""
+  },
+  {
+    "id": "V6Q1U9evd-0",
+    "title": "【令和７年秋　応用情報技術者試験】午前　問６～問１０ #応用情報技術者試験 #過去問解説 #令和７年秋",
+    "playlist": null,
+    "playlistTitle": ""
+  },
+  {
+    "id": "Zosgr8wcjEo",
+    "title": "【令和７年秋　応用情報技術者試験】午前　問１〜問５　カルノー図、待ち行列、偽陽性率、CRC、ベストフィット方式 #応用情報技術者試験 #過去問解説 #令和７年秋",
+    "playlist": null,
+    "playlistTitle": ""
+  },
+  {
+    "id": "XKmNSlaId-Q",
+    "title": "【聞き流し】基本情報・応用情報技術者試験によく出るストラテジ１３０用語　一問一答",
+    "playlist": null,
+    "playlistTitle": ""
+  },
+  {
+    "id": "3nYv58ETNe4",
+    "title": "【令和７年秋　応用情報技術者試験試験　午後問９　プロジェクトマネジメント】を短編映画で再現してみた #応用情報技術者試験  #情報処理技術者試験  #基本情報技術者試験  #itパスポート試験",
+    "playlist": null,
+    "playlistTitle": ""
+  },
+  {
+    "id": "CE7vBHtBlzg",
+    "title": "【聞き流し】基本情報・応用情報技術者試験によく出るプロジェクトマネジメント・ITサービスマネジメント・監査１３０一問一答 #情報技術者試験 #基本情報技術者試験 #itパスポート",
+    "playlist": null,
+    "playlistTitle": ""
+  },
+  {
+    "id": "Se1aTlhdf4Q",
+    "title": "【聞き流し】基本情報・応用情報技術者試験によく出る情報システム開発１３０一問一答#情報技術者試験 #基本情報技術者試験 #itパスポート試験  #応用情報技術者試験",
+    "playlist": null,
+    "playlistTitle": ""
+  },
+  {
+    "id": "KOhrcZLnRS4",
+    "title": "【聞き流し】基本情報・応用情報技術者試験によく出る情報データベース用語１３０一問一答#情報技術者試験 #基本情報技術者試験 #itパスポート試験  #応用情報技術者試験",
+    "playlist": null,
+    "playlistTitle": ""
+  },
+  {
+    "id": "1PoXCiAvRMA",
+    "title": "【聞き流し】基本情報・応用情報技術者試験によく出る情報セキュリティ用語１７０一問一答#情報技術者試験 #基本情報技術者試験 #itパスポート試験  #応用情報技術者試験",
+    "playlist": null,
+    "playlistTitle": ""
+  },
+  {
+    "id": "PPlEXLJRFPs",
+    "title": "【聞き流し】基本情報・応用情報技術者試験によく出るネットワーク用語１３０一問一答#情報技術者試験 #基本情報技術者試験 #itパスポート試験  #応用情報技術者試験",
+    "playlist": null,
+    "playlistTitle": ""
+  },
+  {
+    "id": "ZzFIw4NU57k",
+    "title": "【解答速報】応用情報技術者試験　令和７年秋　午後　問１０　サービスマネジメント",
+    "playlist": null,
+    "playlistTitle": ""
+  },
+  {
+    "id": "hOarM2NUM1I",
+    "title": "【解答速報】応用情報技術者試験　令和７年秋　午後　問９　プロジェクトマネジメント",
+    "playlist": null,
+    "playlistTitle": ""
+  },
+  {
+    "id": "nzBfVFJujwE",
+    "title": "【解答速報】応用情報技術者試験　令和７年秋　午後　問８　情報システム開発",
+    "playlist": null,
+    "playlistTitle": ""
+  },
+  {
+    "id": "NDY8RsgFnGA",
+    "title": "【解答速報】応用情報技術者試験　令和７年秋　午後　問６　データベース",
+    "playlist": null,
+    "playlistTitle": ""
+  },
+  {
+    "id": "5YJFqIraVV0",
+    "title": "【解答速報】応用情報技術者試験　令和７年秋　午後　問５　ネットワーク",
+    "playlist": null,
+    "playlistTitle": ""
+  },
+  {
+    "id": "ZFJFquo0-T8",
+    "title": "【解答速報】応用情報技術者試験　令和７年秋　午後　問１　情報セキュリティ",
+    "playlist": null,
+    "playlistTitle": ""
+  },
+  {
+    "id": "bIHErEoFx-c",
+    "title": "【解答速報】応用情報技術者試験　令和７年秋　午後　問３　プログラミング",
+    "playlist": null,
+    "playlistTitle": ""
+  },
+  {
+    "id": "LVyBkHPF3oU",
+    "title": "【解答速報】応用情報技術者試験　令和７年秋　午後　問４　システムアーキテクチャ",
+    "playlist": null,
+    "playlistTitle": ""
+  },
+  {
+    "id": "bap6b2AlcBA",
+    "title": "【解答速報】応用情報技術者試験　令和７年秋　午後　問７　組込システム",
+    "playlist": null,
+    "playlistTitle": ""
+  },
+  {
+    "id": "TyFHg-gmAhg",
+    "title": "【解答速報】応用情報技術者試験　令和７年秋　午後　問２　経営戦略",
+    "playlist": null,
+    "playlistTitle": ""
+  },
+  {
+    "id": "ZDHOJ-oVdSY",
+    "title": "【解答速報】応用情報技術者試験　令和７年秋　午後　問１１　システム監査",
+    "playlist": null,
+    "playlistTitle": ""
+  },
+  {
+    "id": "zpqI63Zr2nI",
+    "title": "令和７年春　応用情報技術者試験　午後１　情報セキュリティ",
+    "playlist": null,
+    "playlistTitle": ""
+  },
+  {
+    "id": "-vr_18qQk8o",
+    "title": "【令和７年春　応用情報技術者試験】午前問２１｜ IoT機器のセンサーノードの消費電流",
+    "playlist": null,
+    "playlistTitle": ""
+  },
+  {
+    "id": "LsNHGvvUzeo",
+    "title": "【2026年 全対象試験CBT化】応用情報技術者・高度試験・情報処理安全確保支援士試験の変更点、科目名と受験スタイルの完全解説",
+    "playlist": null,
+    "playlistTitle": ""
+  },
+  {
+    "id": "Juqn5LlW1A0",
+    "title": "【令和７年春　応用情報技術者試験】午前問３｜AIにおける過学習対策",
+    "playlist": null,
+    "playlistTitle": ""
+  },
+  {
+    "id": "hvbnvfqcUoQ",
+    "title": "【令和７年春　応用情報技術者試験】午前問２｜近似的に求めるアルゴリズム",
+    "playlist": null,
+    "playlistTitle": ""
+  },
+  {
+    "id": "ljJikEfYQW8",
+    "title": "【令和７年春　応用情報技術者試験】午前問１｜論理式と含意",
+    "playlist": null,
+    "playlistTitle": ""
+  },
+  {
+    "id": "dzy0189Dobc",
+    "title": "令和７年春　応用情報技術者試験　午後５　ネットワーク",
+    "playlist": null,
+    "playlistTitle": ""
+  },
+  {
+    "id": "neoV7dLvzog",
+    "title": "【令和６年秋 応用情報技術者試験】午前問１８｜ページング方式の長所｜オペレーティングシステム",
+    "playlist": null,
+    "playlistTitle": ""
+  },
+  {
+    "id": "mq0v9sez7aQ",
+    "title": "【令和６年秋 応用情報技術者試験】午前問２２｜SoC｜ハードウェア",
+    "playlist": null,
+    "playlistTitle": ""
+  },
+  {
+    "id": "kDhf3Yx8QLY",
+    "title": "【令和６年秋 応用情報技術者試験】午前問２９｜オブジェクト図｜データベース設計",
+    "playlist": null,
+    "playlistTitle": ""
+  },
+  {
+    "id": "imbzLvjIJA8",
+    "title": "【令和６年秋 応用情報技術者試験】午前問５｜２分探索木｜データ構造",
+    "playlist": null,
+    "playlistTitle": ""
+  },
+  {
+    "id": "nSveH194XkQ",
+    "title": "【令和６年秋 応用情報技術者試験】午前問１０｜キャッシュメモリ｜コンピュータ構成要素",
+    "playlist": null,
+    "playlistTitle": ""
+  },
+  {
+    "id": "dGJfdc9YqKU",
+    "title": "【令和６年秋 応用情報技術者試験】午前問１４｜稼働率の比較｜システムの評価指標",
+    "playlist": null,
+    "playlistTitle": ""
+  },
+  {
+    "id": "aiIgnqpVTwE",
+    "title": "【令和６年秋 応用情報技術者試験】午前問１５｜クライアントサーバシステム｜システムの評価指標",
+    "playlist": null,
+    "playlistTitle": ""
+  },
+  {
+    "id": "_GkDlzK58WQ",
+    "title": "【令和６年秋 応用情報技術者試験】午前問１２｜Webアプリケーションサーバ｜システムの構成",
+    "playlist": null,
+    "playlistTitle": ""
+  },
+  {
+    "id": "YJjFGp0FtoI",
+    "title": "【令和６年秋 応用情報技術者試験】午前問３｜逆ポーランド表記法｜情報に関する理論",
+    "playlist": null,
+    "playlistTitle": ""
+  },
+  {
+    "id": "Y7cPMvG39_U",
+    "title": "【令和６年秋 応用情報技術者試験】午前問３０｜SQL文",
+    "playlist": null,
+    "playlistTitle": ""
+  },
+  {
+    "id": "VMhdrrZRgA4",
+    "title": "【令和６年秋 応用情報技術者試験】午前問４｜先進運営支援システムのセンサー｜計測・制御に関する理論",
+    "playlist": null,
+    "playlistTitle": ""
+  },
+  {
+    "id": "UgEAlALyEUI",
+    "title": "【令和６年秋 応用情報技術者試験】午前問２４｜マイクロプロセッサ｜ハードウェア",
+    "playlist": null,
+    "playlistTitle": ""
+  },
+  {
+    "id": "TeBuDkY8J2A",
+    "title": "【令和６年秋 応用情報技術者試験】午前問１１｜ファイバチャネル｜入出力デバイス",
+    "playlist": null,
+    "playlistTitle": ""
+  },
+  {
+    "id": "S3r3XkViS0c",
+    "title": "【令和６年秋 応用情報技術者試験】午前問２３｜アクチュエーター｜ハードウェア",
+    "playlist": null,
+    "playlistTitle": ""
+  },
+  {
+    "id": "R7I83JGzBEU",
+    "title": "【令和６年秋 応用情報技術者試験】午前問２｜教師あり学習の交差検証｜情報に関する理",
+    "playlist": null,
+    "playlistTitle": ""
+  },
+  {
+    "id": "QtaO5j6IGD0",
+    "title": "【令和６年秋 応用情報技術者試験】午前問８｜命令実行｜プロセッサ",
+    "playlist": null,
+    "playlistTitle": ""
+  },
+  {
+    "id": "NIbRb1nzor4",
+    "title": "【令和６年秋 応用情報技術者試験】午前問１９｜バージョン管理ツール｜開発ツール",
+    "playlist": null,
+    "playlistTitle": ""
+  },
+  {
+    "id": "MyREwtAhv5E",
+    "title": "【令和６年秋 応用情報技術者試験】午前問２７｜2相コミット中の障害｜トランザクション処理",
+    "playlist": null,
+    "playlistTitle": ""
+  },
+  {
+    "id": "ItoxzakWpEw",
+    "title": "【令和６年秋 応用情報技術者試験】午前問２５｜Webページの構成要素｜UX/UIデザイン",
+    "playlist": null,
+    "playlistTitle": ""
+  },
+  {
+    "id": "I0RQfm_DmHA",
+    "title": "【令和６年秋 応用情報技術者試験】午前問２１｜タイミングチャート｜ハードウェア",
+    "playlist": null,
+    "playlistTitle": ""
+  },
+  {
+    "id": "BulfMSClbdU",
+    "title": "【令和６年秋 応用情報技術者試験】午前問９｜量子超越性",
+    "playlist": null,
+    "playlistTitle": ""
+  },
+  {
+    "id": "BrTbkUnJZ7Q",
+    "title": "【令和６年秋 応用情報技術者試験】午前問２６｜帯域幅｜マルチメディア技術",
+    "playlist": null,
+    "playlistTitle": ""
+  },
+  {
+    "id": "BDmSyJ4on1I",
+    "title": "【令和６年秋 応用情報技術者試験】午前問２０｜コンパイラのコード生成処理｜開発ツール",
+    "playlist": null,
+    "playlistTitle": ""
+  },
+  {
+    "id": "AyzWiYblL1c",
+    "title": "【令和６年秋 応用情報技術者試験】午前問６｜ハッシュ関数｜アルゴリズム",
+    "playlist": null,
+    "playlistTitle": ""
+  },
+  {
+    "id": "8YWO4UrkMxs",
+    "title": "【令和６年秋 応用情報技術者試験】午前問１６｜タスクスケジューリング｜オペレーティングシステム",
+    "playlist": null,
+    "playlistTitle": ""
+  },
+  {
+    "id": "8HdbE6IupyE",
+    "title": "【令和６年秋 応用情報技術者試験】午前問１７｜ページング方式における性能低下",
+    "playlist": null,
+    "playlistTitle": ""
+  },
+  {
+    "id": "3pCaJlnsynM",
+    "title": "【令和６年秋 応用情報技術者試験】午前問１３｜オブジェクトストレージ｜システムの構成",
+    "playlist": null,
+    "playlistTitle": ""
+  },
+  {
+    "id": "1hs-opT8rns",
+    "title": "【令和６年秋 応用情報技術者試験】午前問７｜プログラム言語｜テクノロジ系",
+    "playlist": null,
+    "playlistTitle": ""
+  },
+  {
+    "id": "-Cl-uY1sX_E",
+    "title": "【令和６年秋 応用情報技術者試験】午前問２８｜表情報の読み取り｜データ操作",
+    "playlist": null,
+    "playlistTitle": ""
+  },
+  {
+    "id": "k98vUkfK39M",
+    "title": "【令和６年秋 応用情報技術者試験】午前問７９｜労働者派遣法",
+    "playlist": null,
+    "playlistTitle": ""
+  },
+  {
+    "id": "zQRIf4TRjx0",
+    "title": "【令和６年秋 応用情報技術者試験】午前問５２｜WBS",
+    "playlist": null,
+    "playlistTitle": ""
+  },
+  {
+    "id": "wcc-SF6POpU",
+    "title": "【令和６年秋 応用情報技術者試験】午前問７０｜競合製品との競争過程にある障壁",
+    "playlist": null,
+    "playlistTitle": ""
+  },
+  {
+    "id": "vlAPCefo2XM",
+    "title": "【令和６年秋 応用情報技術者試験】午前問４６｜エクスプロイトコード",
+    "playlist": null,
+    "playlistTitle": ""
+  },
+  {
+    "id": "uK0Pou_cGnE",
+    "title": "【令和６年秋 応用情報技術者試験】午前問５４｜ファストトラッキング",
+    "playlist": null,
+    "playlistTitle": ""
+  },
+  {
+    "id": "u1Uzq-iaNFs",
+    "title": "【令和６年秋 応用情報技術者試験】午前問３２｜最低速度の回線サービス",
+    "playlist": null,
+    "playlistTitle": ""
+  },
+  {
+    "id": "s_0fVka9woY",
+    "title": "【令和６年秋 応用情報技術者試験】午前問４９｜アジャイル開発",
+    "playlist": null,
+    "playlistTitle": ""
+  },
+  {
+    "id": "s618eDn3g5I",
+    "title": "【令和６年秋 応用情報技術者試験】午前問３３｜DNS",
+    "playlist": null,
+    "playlistTitle": ""
+  },
+  {
+    "id": "rDZ_6kaLVw0",
+    "title": "【令和６年秋 応用情報技術者試験】午前問４２｜DNSキャッシュポイズニング攻撃",
+    "playlist": null,
+    "playlistTitle": ""
+  },
+  {
+    "id": "omOML6-svIg",
+    "title": "【令和６年秋 応用情報技術者試験】午前問３４｜ICMPの機能",
+    "playlist": null,
+    "playlistTitle": ""
+  },
+  {
+    "id": "okLdFtn00Rg",
+    "title": "【令和６年秋 応用情報技術者試験】午前問３６｜MACアドレス",
+    "playlist": null,
+    "playlistTitle": ""
+  },
+  {
+    "id": "nX7vaHl50dw",
+    "title": "【令和６年秋 応用情報技術者試験】午前問４０｜パスワードリスト攻撃",
+    "playlist": null,
+    "playlistTitle": ""
+  },
+  {
+    "id": "mAHSIhnELBM",
+    "title": "【令和６年秋 応用情報技術者試験】午前問５７｜入出力データの管理方針",
+    "playlist": null,
+    "playlistTitle": ""
+  },
+  {
+    "id": "l_1PynhbCGI",
+    "title": "【令和６年秋 応用情報技術者試験】午前問４５｜VLAN機能のセキュリティ効果",
+    "playlist": null,
+    "playlistTitle": ""
+  },
+  {
+    "id": "i7FeZVi1tIM",
+    "title": "【令和６年秋 応用情報技術者試験】午前問６４｜BPR",
+    "playlist": null,
+    "playlistTitle": ""
+  },
+  {
+    "id": "i3OdHUFlGuM",
+    "title": "【令和６年秋 応用情報技術者試験】午前問３８｜パケット",
+    "playlist": null,
+    "playlistTitle": ""
+  },
+  {
+    "id": "huPCOWvYAts",
+    "title": "【令和６年秋 応用情報技術者試験】午前問７５｜ナッシュ均衡",
+    "playlist": null,
+    "playlistTitle": ""
+  },
+  {
+    "id": "hmHoTKqoLos",
+    "title": "【令和６年秋 応用情報技術者試験】午前問７２｜段取り時間の計算",
+    "playlist": null,
+    "playlistTitle": ""
+  },
+  {
+    "id": "g9cPCYF6ywc",
+    "title": "【令和６年秋 応用情報技術者試験】午前問３７｜SAML認証",
+    "playlist": null,
+    "playlistTitle": ""
+  },
+  {
+    "id": "fvwOWEo7Vh0",
+    "title": "【令和６年秋 応用情報技術者試験】午前問５０｜レスポンシブWebデザイン",
+    "playlist": null,
+    "playlistTitle": ""
+  },
+  {
+    "id": "fm3JoeEMQdU",
+    "title": "【令和６年秋 応用情報技術者試験】午前問３９｜ディープフェイク",
+    "playlist": null,
+    "playlistTitle": ""
+  },
+  {
+    "id": "cONWFfCfgcs",
+    "title": "【令和６年秋 応用情報技術者試験】午前問６６｜UML",
+    "playlist": null,
+    "playlistTitle": ""
+  },
+  {
+    "id": "cF9AUIbSsao",
+    "title": "【令和６年秋 応用情報技術者試験】午前問６９｜コ・クリエーション戦略",
+    "playlist": null,
+    "playlistTitle": ""
+  },
+  {
+    "id": "aSTH3b17W10",
+    "title": "【令和６年秋 応用情報技術者試験】午前問５９｜システム監査基準の予備調査",
+    "playlist": null,
+    "playlistTitle": ""
+  },
+  {
+    "id": "_zcyJ_kDLUU",
+    "title": "【令和６年秋 応用情報技術者試験】午前問５１｜スコープの管理",
+    "playlist": null,
+    "playlistTitle": ""
+  },
+  {
+    "id": "YRbSW-4T7J8",
+    "title": "【令和６年秋 応用情報技術者試験】午前問７６｜ベイズ統計",
+    "playlist": null,
+    "playlistTitle": ""
+  },
+  {
+    "id": "Y2ZQPnFHumo",
+    "title": "【令和６年秋 応用情報技術者試験】午前問４４｜DNSSEC",
+    "playlist": null,
+    "playlistTitle": ""
+  },
+  {
+    "id": "VlA7AekikMM",
+    "title": "【令和６年秋 応用情報技術者試験】午前問７８｜著作権法",
+    "playlist": null,
+    "playlistTitle": ""
+  },
+  {
+    "id": "TEHU7qY3zYY",
+    "title": "【令和６年秋 応用情報技術者試験】午前問５３｜プロジェクトマネジメント",
+    "playlist": null,
+    "playlistTitle": ""
+  },
+  {
+    "id": "RZjqC_k7wL8",
+    "title": "【令和６年秋 応用情報技術者試験】午前問６０｜システム監査基準のフォローアップ",
+    "playlist": null,
+    "playlistTitle": ""
+  },
+  {
+    "id": "O-2wHv0bfQE",
+    "title": "【令和６年秋 応用情報技術者試験】午前問４１｜CVE識別子",
+    "playlist": null,
+    "playlistTitle": ""
+  },
+  {
+    "id": "NECPvRfdp-0",
+    "title": "【令和６年秋 応用情報技術者試験】午前問４７｜マイクロサービスアーキテクチャ",
+    "playlist": null,
+    "playlistTitle": ""
+  },
+  {
+    "id": "MIXsyKSeJVQ",
+    "title": "【令和６年秋 応用情報技術者試験】午前問４３｜SBOM",
+    "playlist": null,
+    "playlistTitle": ""
+  },
+  {
+    "id": "KauLj6nkH9w",
+    "title": "【令和６年秋 応用情報技術者試験】午前問７１｜生成AI",
+    "playlist": null,
+    "playlistTitle": ""
+  },
+  {
+    "id": "KJyW7C2hxjY",
+    "title": "【令和６年秋 応用情報技術者試験】午前問７７｜損益分岐点などの比較",
+    "playlist": null,
+    "playlistTitle": ""
+  },
+  {
+    "id": "KEIjQDmk3Fk",
+    "title": "【令和６年秋 応用情報技術者試験】午前問６３｜業務改善の4原則",
+    "playlist": null,
+    "playlistTitle": ""
+  },
+  {
+    "id": "JusZa-WxP9w",
+    "title": "【令和６年秋 応用情報技術者試験】午前問７３｜正味所要量の計算",
+    "playlist": null,
+    "playlistTitle": ""
+  },
+  {
+    "id": "JUMYSEMk_hI",
+    "title": "【令和６年秋 応用情報技術者試験】午前問６２｜オープンデータバイデザイン",
+    "playlist": null,
+    "playlistTitle": ""
+  },
+  {
+    "id": "J4e_ii_wEJQ",
+    "title": "【令和６年秋 応用情報技術者試験】午前問５６｜JIS Q 20000-1:2020",
+    "playlist": null,
+    "playlistTitle": ""
+  },
+  {
+    "id": "IL0onyfPFFU",
+    "title": "【令和６年秋 応用情報技術者試験】午前問５５｜RTOとRLO",
+    "playlist": null,
+    "playlistTitle": ""
+  },
+  {
+    "id": "FSOMKoJPWUE",
+    "title": "【令和６年秋 応用情報技術者試験】午前問５８｜監査手続の技法",
+    "playlist": null,
+    "playlistTitle": ""
+  },
+  {
+    "id": "FLeaoRgdZCw",
+    "title": "【令和６年秋 応用情報技術者試験】午前問４８｜使用性を評価する指標",
+    "playlist": null,
+    "playlistTitle": ""
+  },
+  {
+    "id": "E9f6pCzsAUI",
+    "title": "【令和６年秋 応用情報技術者試験】午前問３１｜DBMSのチェックポイント",
+    "playlist": null,
+    "playlistTitle": ""
+  },
+  {
+    "id": "E809IE9kA4s",
+    "title": "【令和６年秋 応用情報技術者試験】午前問６７｜SCM",
+    "playlist": null,
+    "playlistTitle": ""
+  },
+  {
+    "id": "80VO0aa4BC0",
+    "title": "【令和６年秋 応用情報技術者試験】午前問６８｜アンゾフの成長マトリクス",
+    "playlist": null,
+    "playlistTitle": ""
+  },
+  {
+    "id": "6deWbB04Ub4",
+    "title": "【令和６年秋 応用情報技術者試験】午前問７４｜経営理念，経営戦略，事業戦略",
+    "playlist": null,
+    "playlistTitle": ""
+  },
+  {
+    "id": "6PdXOMRmycA",
+    "title": "【令和６年秋 応用情報技術者試験】午前問６５｜UXデザイン",
+    "playlist": null,
+    "playlistTitle": ""
+  },
+  {
+    "id": "-xub-kbmpfY",
+    "title": "【令和６年秋 応用情報技術者試験】午前問６１｜DX推進指標",
+    "playlist": null,
+    "playlistTitle": ""
+  },
+  {
+    "id": "-WD6t6Rzz8s",
+    "title": "【令和６年秋 応用情報技術者試験】午前問３５｜クラスDのIPv4アドレス",
+    "playlist": null,
+    "playlistTitle": ""
+  },
+  {
+    "id": "BiafTB7RCrs",
+    "title": "【令和６年秋 応用情報技術者試験】午前問８０｜デジタル社会形成基本法",
+    "playlist": null,
+    "playlistTitle": ""
+  },
+  {
+    "id": "lgg2Po4QY9g",
+    "title": "【令和６年秋 応用情報技術者試験】午前問１｜M/M/1待ち行列｜応用数学",
+    "playlist": null,
+    "playlistTitle": ""
+  },
+  {
+    "id": "F-j2p_4_PD0",
+    "title": "【令和６年秋 応用情報技術者試験】午後　問９　プロジェクトマネジメント",
+    "playlist": null,
+    "playlistTitle": ""
+  },
+  {
+    "id": "O7NqGYrw9T8",
+    "title": "【令和６年秋 応用情報技術者試験】午後　問１０　サービスマネジメント",
+    "playlist": null,
+    "playlistTitle": ""
+  },
+  {
+    "id": "NtePNIP5Q44",
+    "title": "【令和６年秋 応用情報技術者試験】午後　問１１　システム監査",
+    "playlist": null,
+    "playlistTitle": ""
+  },
+  {
+    "id": "jbM95BvMxx8",
+    "title": "【令和６年秋 応用情報技術者試験】午後　問３　プログラミング",
+    "playlist": null,
+    "playlistTitle": ""
+  },
+  {
+    "id": "p0FRHcrHkIQ",
+    "title": "【令和６年秋 応用情報技術者試験】午後　問２　経営戦略",
+    "playlist": null,
+    "playlistTitle": ""
+  },
+  {
+    "id": "HkfhXzyQkWk",
+    "title": "【令和６年秋 応用情報技術者試験】午後　問４　システムアーキテクチャ",
+    "playlist": null,
+    "playlistTitle": ""
+  },
+  {
+    "id": "6miXieKLmLE",
+    "title": "【令和６年秋 応用情報技術者試験】午後　問８　情報システム開発",
+    "playlist": null,
+    "playlistTitle": ""
+  },
+  {
+    "id": "dtOgNtEhRXo",
+    "title": "【令和６年秋 応用情報技術者試験】午後　問７　組込システム",
+    "playlist": null,
+    "playlistTitle": ""
+  },
+  {
+    "id": "Nvoe8jLis_s",
+    "title": "【令和６年秋 応用情報技術者試験】午後　問６　データベース",
+    "playlist": null,
+    "playlistTitle": ""
+  },
+  {
+    "id": "k4V3Fn9da44",
+    "title": "【令和６年秋 応用情報技術者試験】午後　問５　ネットワーク",
+    "playlist": null,
+    "playlistTitle": ""
+  },
+  {
+    "id": "jbx6gP95zZg",
+    "title": "【令和６年秋 応用情報技術者試験】午後　問１　情報セキュリティ",
+    "playlist": null,
+    "playlistTitle": ""
+  },
+  {
+    "id": "MdVcNvvF3i4",
+    "title": "【解答速報】応用情報技術者試験　令和７年春　午後　問３　プログラミング",
+    "playlist": null,
+    "playlistTitle": ""
+  },
+  {
+    "id": "HXb6pGS6HAk",
+    "title": "【解答速報】応用情報技術者試験　令和７年春　午後７　組込システム",
+    "playlist": null,
+    "playlistTitle": ""
+  },
+  {
+    "id": "9dmQ9-knbXk",
+    "title": "【解答速報】応用情報技術者試験　令和７年春　午後１１　システム監査",
+    "playlist": null,
+    "playlistTitle": ""
+  },
+  {
+    "id": "-cyUsz6riks",
+    "title": "【解答速報】応用情報技術者試験　令和７年春　午後１０　サービスマネジメント",
+    "playlist": null,
+    "playlistTitle": ""
+  },
+  {
+    "id": "FqUv03sElJ4",
+    "title": "【解答速報】応用情報技術者試験　令和７年春　午後９　プロジェクトマネジメント",
+    "playlist": null,
+    "playlistTitle": ""
+  },
+  {
+    "id": "e7u65PK10W4",
+    "title": "【解答速報】応用情報技術者試験　令和７年春　午後８　情報システム開発",
+    "playlist": null,
+    "playlistTitle": ""
+  },
+  {
+    "id": "9rRT1i79F7o",
+    "title": "【解答速報】応用情報技術者試験　令和７年春　午後４　システムアーキテクチャ",
+    "playlist": null,
+    "playlistTitle": ""
+  },
+  {
+    "id": "OUpH-Bels7k",
+    "title": "【解答速報】応用情報技術者試験　令和７年春　午後６　データベース",
+    "playlist": null,
+    "playlistTitle": ""
+  },
+  {
+    "id": "1ZnaLjLByqc",
+    "title": "【解答速報】応用情報技術者試験　令和７年春　午後５　ネットワーク",
+    "playlist": null,
+    "playlistTitle": ""
+  },
+  {
+    "id": "c85gd6VbDmM",
+    "title": "【解答速報】応用情報技術者試験　令和７年春　午後２　経営",
+    "playlist": null,
+    "playlistTitle": ""
+  },
+  {
+    "id": "Tpg6oiJ47s8",
+    "title": "【解答速報】応用情報技術者試験　令和７年春　午後１　情報セキュリティ",
+    "playlist": null,
+    "playlistTitle": ""
+  },
+  {
+    "id": "_jXfrTZMJ4s",
+    "title": "【応用情報技術者試験】過去問解説　令和３年春　問１５",
+    "playlist": null,
+    "playlistTitle": ""
+  },
+  {
+    "id": "ufjB7X0xzXY",
+    "title": "【応用情報技術者試験】過去問解説　令和３年春　問１７",
+    "playlist": null,
+    "playlistTitle": ""
+  },
+  {
+    "id": "-pOSHOEX19o",
+    "title": "【令和６年春 応用情報技術者試験】午前　問２０│インバータ",
+    "playlist": null,
+    "playlistTitle": ""
+  },
+  {
+    "id": "2ym_zdQcNkc",
+    "title": "【令和６年春 応用情報技術者試験】午前　問１９│情報収集ツール",
+    "playlist": null,
+    "playlistTitle": ""
+  },
+  {
+    "id": "quNQLq3J1qU",
+    "title": "【令和６年春 応用情報技術者試験】午前　問１８｜タスク処理時間",
+    "playlist": null,
+    "playlistTitle": ""
+  },
+  {
+    "id": "M1Nga1UP36M",
+    "title": "【令和６年春 応用情報技術者試験】午前　問１７｜デッドロック",
+    "playlist": null,
+    "playlistTitle": ""
+  },
+  {
+    "id": "XMNubfbz8Ec",
+    "title": "【令和６年春 応用情報技術者試験】午前　問１６｜ノンプリエンプティブ方式",
+    "playlist": null,
+    "playlistTitle": ""
+  },
+  {
+    "id": "2NFN3njBagc",
+    "title": "【令和６年春 応用情報技術者試験】午前　問１５｜性能評価",
+    "playlist": null,
+    "playlistTitle": ""
+  },
+  {
+    "id": "Mm2iHmVY4bw",
+    "title": "【令和６年春 応用情報技術者試験】午前　問１４｜マルチプロセッサ",
+    "playlist": null,
+    "playlistTitle": ""
+  },
+  {
+    "id": "5I_pczNNJZQ",
+    "title": "【令和６年春 応用情報技術者試験】午前　問１３｜オブジェクトストレージ",
+    "playlist": null,
+    "playlistTitle": ""
+  },
+  {
+    "id": "z139vdxbuo4",
+    "title": "【令和６年春 応用情報技術者試験】午前　問１２｜システムの信頼性設計",
+    "playlist": null,
+    "playlistTitle": ""
+  },
+  {
+    "id": "W2IwdKHsdBs",
+    "title": "【令和６年春 応用情報技術者試験】午前　問１１｜主記憶への時間",
+    "playlist": null,
+    "playlistTitle": ""
+  },
+  {
+    "id": "ipbW4zedRwU",
+    "title": "【令和６年春 応用情報技術者試験】午前　問２１│論理回路とタイムチャート",
+    "playlist": null,
+    "playlistTitle": ""
+  },
+  {
+    "id": "6BDO7pBOhYI",
+    "title": "【令和６年春 応用情報技術者試験】午前　問２２│メモリのアドレスの先頭",
+    "playlist": null,
+    "playlistTitle": ""
+  },
+  {
+    "id": "T8oA2sBmbJk",
+    "title": "【令和６年春 応用情報技術者試験】午前　問２３│直流給電",
+    "playlist": null,
+    "playlistTitle": ""
+  },
+  {
+    "id": "Q8QZdDeUeaw",
+    "title": "【令和６年春 応用情報技術者試験】午前　問２４│アウトラインフォント",
+    "playlist": null,
+    "playlistTitle": ""
+  },
+  {
+    "id": "kIOtUS7H4g0",
+    "title": "【令和６年春 応用情報技術者試験】午前　問２５│ストアドプロシージャ",
+    "playlist": null,
+    "playlistTitle": ""
+  },
+  {
+    "id": "lrJwaNV936g",
+    "title": "【令和６年春 応用情報技術者試験】午前　問２６│SQL文",
+    "playlist": null,
+    "playlistTitle": ""
+  },
+  {
+    "id": "5A8WzZtzxaM",
+    "title": "【令和６年春 応用情報技術者試験】午前　問２７│システム障害",
+    "playlist": null,
+    "playlistTitle": ""
+  },
+  {
+    "id": "0_SeuI8Y8y0",
+    "title": "【令和６年春 応用情報技術者試験】午前　問２８│スタースキーマ",
+    "playlist": null,
+    "playlistTitle": ""
+  },
+  {
+    "id": "2M6N8b6xI0I",
+    "title": "【令和６年春 応用情報技術者試験】午前　問２９│NoSQLに分類されるデータベース",
+    "playlist": null,
+    "playlistTitle": ""
+  },
+  {
+    "id": "EEd0Dd15r80",
+    "title": "【令和６年春 応用情報技術者試験】午前　問３０│CSMA/CD方式",
+    "playlist": null,
+    "playlistTitle": ""
+  },
+  {
+    "id": "tvFlZ_9GK_Q",
+    "title": "【令和６年春 応用情報技術者試験】午前　問３１│IPアドレス",
+    "playlist": null,
+    "playlistTitle": ""
+  },
+  {
+    "id": "kCdlWNQPZO4",
+    "title": "【令和６年春 応用情報技術者試験】午前　問３２│プロトコル",
+    "playlist": null,
+    "playlistTitle": ""
+  },
+  {
+    "id": "O9GB9g6Q88o",
+    "title": "【令和６年春 応用情報技術者試験】午前　問３３│パケットの個数の期待値",
+    "playlist": null,
+    "playlistTitle": ""
+  },
+  {
+    "id": "06cdp4Zymec",
+    "title": "【令和６年春 応用情報技術者試験】午前　問３４│OpenFlowを使ったSDN",
+    "playlist": null,
+    "playlistTitle": ""
+  },
+  {
+    "id": "locaK7JkxYM",
+    "title": "【令和６年春 応用情報技術者試験】午前　問３５│3Dセキュア2.0",
+    "playlist": null,
+    "playlistTitle": ""
+  },
+  {
+    "id": "12WZQo01pBU",
+    "title": "【令和６年春 応用情報技術者試験】午前　問３６│DNSキャッシュポイズニング攻撃",
+    "playlist": null,
+    "playlistTitle": ""
+  },
+  {
+    "id": "oVEnXroN4Ac",
+    "title": "【令和６年春 応用情報技術者試験】午前　問３７│DNSSEC",
+    "playlist": null,
+    "playlistTitle": ""
+  },
+  {
+    "id": "9aCFCZzN3gE",
+    "title": "【令和６年春 応用情報技術者試験】午前　問３８│公開鍵暗号方式",
+    "playlist": null,
+    "playlistTitle": ""
+  },
+  {
+    "id": "Y8Sajk2qoPE",
+    "title": "【令和６年春 応用情報技術者試験】午前　問３９│脆弱性に起因するリスク",
+    "playlist": null,
+    "playlistTitle": ""
+  },
+  {
+    "id": "mMNHcpfx4S8",
+    "title": "【令和６年春 応用情報技術者試験】午前　問４０│JIS Q 31000:2019",
+    "playlist": null,
+    "playlistTitle": ""
+  },
+  {
+    "id": "9otmqMY0_Tw",
+    "title": "【令和６年春 応用情報技術者試験】午前　問４１│WAF",
+    "playlist": null,
+    "playlistTitle": ""
+  },
+  {
+    "id": "eiWmhx1XPB8",
+    "title": "【令和６年春 応用情報技術者試験】午前　問４２│ネットワーク層で暗号化",
+    "playlist": null,
+    "playlistTitle": ""
+  },
+  {
+    "id": "FAft4trADBU",
+    "title": "【令和６年春 応用情報技術者試験】午前　問４３│SPF",
+    "playlist": null,
+    "playlistTitle": ""
+  },
+  {
+    "id": "d6dYaq7S2Nk",
+    "title": "【令和６年春 応用情報技術者試験】午前　問４４│ICカードの耐タンパ性",
+    "playlist": null,
+    "playlistTitle": ""
+  },
+  {
+    "id": "QQtmLHUS2G8",
+    "title": "【令和６年春 応用情報技術者試験】午前　問４５│オブジェクト指向",
+    "playlist": null,
+    "playlistTitle": ""
+  },
+  {
+    "id": "Wu03PjxBdAE",
+    "title": "【令和６年春 応用情報技術者試験】午前　問４６│モジュール結合度",
+    "playlist": null,
+    "playlistTitle": ""
+  },
+  {
+    "id": "DbdEAzpMsr8",
+    "title": "【令和６年春 応用情報技術者試験】午前　問４７│ゴンペルツ曲線",
+    "playlist": null,
+    "playlistTitle": ""
+  },
+  {
+    "id": "8Nn3twMp7XU",
+    "title": "【令和６年春 応用情報技術者試験】午前　問４８│リーンソフトウェア開発",
+    "playlist": null,
+    "playlistTitle": ""
+  },
+  {
+    "id": "K9rEwkuvK7w",
+    "title": "【令和６年春 応用情報技術者試験】午前　問４９│JIS X 33002:2017",
+    "playlist": null,
+    "playlistTitle": ""
+  },
+  {
+    "id": "8xQOc7FiJgE",
+    "title": "【令和６年春 応用情報技術者試験】午前　問５０│ドキュメンテーションジェネレーター",
+    "playlist": null,
+    "playlistTitle": ""
+  },
+  {
+    "id": "0jy2Nj1LjGo",
+    "title": "【令和６年春 応用情報技術者試験】午前　問５１│EVM",
+    "playlist": null,
+    "playlistTitle": ""
+  },
+  {
+    "id": "NTwTgwPezxw",
+    "title": "【令和６年春 応用情報技術者試験】午前　問５２│アローダイアグラム",
+    "playlist": null,
+    "playlistTitle": ""
+  },
+  {
+    "id": "S7SqlCKQJ0k",
+    "title": "【令和６年春 応用情報技術者試験】午前　問５３│JIS Q 21500:2018",
+    "playlist": null,
+    "playlistTitle": ""
+  },
+  {
+    "id": "ir6y0n5yadM",
+    "title": "【令和６年春 応用情報技術者試験】午前　問５４│期待金額価値",
+    "playlist": null,
+    "playlistTitle": ""
+  },
+  {
+    "id": "Cn3YNqQCNUI",
+    "title": "【令和６年春 応用情報技術者試験】午前　問５５│SaaSによる新規サービスの課金方式",
+    "playlist": null,
+    "playlistTitle": ""
+  },
+  {
+    "id": "50Bitdx_2uU",
+    "title": "【令和６年春 応用情報技術者試験】午前　問５６│サービスレベル管理の活動",
+    "playlist": null,
+    "playlistTitle": ""
+  },
+  {
+    "id": "U7sSD_q_4AE",
+    "title": "【令和６年春 応用情報技術者試験】午前　問５７│GHGプロトコル",
+    "playlist": null,
+    "playlistTitle": ""
+  },
+  {
+    "id": "Levhj4F2kcs",
+    "title": "【令和６年春 応用情報技術者試験】午前　問５８│監査調書",
+    "playlist": null,
+    "playlistTitle": ""
+  },
+  {
+    "id": "tz1Bh9H25uw",
+    "title": "【令和６年春 応用情報技術者試験】午前　問５９│システム監査",
+    "playlist": null,
+    "playlistTitle": ""
+  },
+  {
+    "id": "jsLPBeilbMA",
+    "title": "【令和６年春 応用情報技術者試験】午前　問６０│ITに係る業務処理統制",
+    "playlist": null,
+    "playlistTitle": ""
+  },
+  {
+    "id": "bwVsqxahxXA",
+    "title": "【令和６年春 応用情報技術者試験】午前　問６１│BRM",
+    "playlist": null,
+    "playlistTitle": ""
+  },
+  {
+    "id": "abo1c9nEL2I",
+    "title": "【令和６年春 応用情報技術者試験】午前　問６２│デジタルガバナンス・コード2.0",
+    "playlist": null,
+    "playlistTitle": ""
+  },
+  {
+    "id": "6hsTG-bJZLc",
+    "title": "【令和６年春 応用情報技術者試験】午前　問６３│SOA",
+    "playlist": null,
+    "playlistTitle": ""
+  },
+  {
+    "id": "Q1mSwdsu6qI",
+    "title": "【令和６年春 応用情報技術者試験】午前　問６５│EMS",
+    "playlist": null,
+    "playlistTitle": ""
+  },
+  {
+    "id": "4fBItR14VSo",
+    "title": "【令和６年春 応用情報技術者試験】午前　問７５│最大利益",
+    "playlist": null,
+    "playlistTitle": ""
+  },
+  {
+    "id": "_mKlvRZQ7is",
+    "title": "【令和６年春 応用情報技術者試験】午前　問７６│最低販売数",
+    "playlist": null,
+    "playlistTitle": ""
+  },
+  {
+    "id": "czxgL-zwSnc",
+    "title": "【令和６年春 応用情報技術者試験】午前　問６６│コンティンジェンシープラン",
+    "playlist": null,
+    "playlistTitle": ""
+  },
+  {
+    "id": "mebSq6A7Fak",
+    "title": "【令和６年春 応用情報技術者試験】午前　問６７│PPM",
+    "playlist": null,
+    "playlistTitle": ""
+  },
+  {
+    "id": "hKKdYhIHgh0",
+    "title": "【令和６年春 応用情報技術者試験】午前　問６８│フレームワーク",
+    "playlist": null,
+    "playlistTitle": ""
+  },
+  {
+    "id": "ConeTwIjZew",
+    "title": "【令和６年春 応用情報技術者試験】午前　問６９│フィージビリティスタディ",
+    "playlist": null,
+    "playlistTitle": ""
+  },
+  {
+    "id": "W3N0pcc23Zo",
+    "title": "【令和６年春 応用情報技術者試験】午前　問７２│エッジコンピューティング",
+    "playlist": null,
+    "playlistTitle": ""
+  },
+  {
+    "id": "FByKSt7pb_E",
+    "title": "【令和６年春 応用情報技術者試験】午前　問７１│ マスカスタマイゼーション",
+    "playlist": null,
+    "playlistTitle": ""
+  },
+  {
+    "id": "T0XKTbg7X0o",
+    "title": "【令和６年春 応用情報技術者試験】午前　問７３│ゲーム理論におけるナッシュ均衡",
+    "playlist": null,
+    "playlistTitle": ""
+  },
+  {
+    "id": "spIEuQQYOjc",
+    "title": "【令和６年春 応用情報技術者試験】午前　問７４│因果関係図",
+    "playlist": null,
+    "playlistTitle": ""
+  },
+  {
+    "id": "ds3JWrbkOEk",
+    "title": "【令和６年春 応用情報技術者試験】午前　問７７│損益分岐点売上高",
+    "playlist": null,
+    "playlistTitle": ""
+  },
+  {
+    "id": "hGjjUqU7M6I",
+    "title": "【令和６年春 応用情報技術者試験】午前　問７８│特許法",
+    "playlist": null,
+    "playlistTitle": ""
+  },
+  {
+    "id": "6Vx1RZXy9mU",
+    "title": "【令和６年春 応用情報技術者試験】午前　問７９│不正競争防止法",
+    "playlist": null,
+    "playlistTitle": ""
+  },
+  {
+    "id": "87osNKLcPMY",
+    "title": "【令和６年春 応用情報技術者試験】午前　問８０│要配慮個人情報",
+    "playlist": null,
+    "playlistTitle": ""
+  },
+  {
+    "id": "wpTQSZBuvSc",
+    "title": "【令和６年春 応用情報技術者試験】午前　問６４│PBP",
+    "playlist": null,
+    "playlistTitle": ""
+  },
+  {
+    "id": "PaafJTrvvtY",
+    "title": "【令和６年春 応用情報技術者試験】午前　問７０│IoT活用におけるデジタルツイン",
+    "playlist": null,
+    "playlistTitle": ""
+  },
+  {
+    "id": "g02hskGNh8o",
+    "title": "【令和６年春 応用情報技術者試験】午後　問１１　システム監査",
+    "playlist": null,
+    "playlistTitle": ""
+  },
+  {
+    "id": "_PFVqJn7Kco",
+    "title": "【令和６年春 応用情報技術者試験】午後　問１０　サービスマネジメント",
+    "playlist": null,
+    "playlistTitle": ""
+  },
+  {
+    "id": "9BAFLc6lM0Y",
+    "title": "【令和６年春 応用情報技術者試験】午後　問９　プロジェクトマネジメント",
+    "playlist": null,
+    "playlistTitle": ""
+  },
+  {
+    "id": "wWAgY_YFuak",
+    "title": "【令和６年春 応用情報技術者試験】午後　問８　情報システム開発",
+    "playlist": null,
+    "playlistTitle": ""
+  },
+  {
+    "id": "_HBdrTA9rkI",
+    "title": "【令和６年春 応用情報技術者試験】午後　問７　組み込みシステム",
+    "playlist": null,
+    "playlistTitle": ""
+  },
+  {
+    "id": "E_BSL0CoGIw",
+    "title": "【令和６年春 応用情報技術者試験】午後　問６　データベース",
+    "playlist": null,
+    "playlistTitle": ""
+  },
+  {
+    "id": "rww1mK06KjY",
+    "title": "【令和６年春 応用情報技術者試験】午前　問１０｜主記憶",
+    "playlist": null,
+    "playlistTitle": ""
+  },
+  {
+    "id": "QfA4Xb7mNJg",
+    "title": "【令和６年春 応用情報技術者試験】午前　問９｜量子コンピュータ",
+    "playlist": null,
+    "playlistTitle": ""
+  },
+  {
+    "id": "KRjz_j_G_g8",
+    "title": "【令和６年春 応用情報技術者試験】午前　問８｜メモリ上のデータ転送",
+    "playlist": null,
+    "playlistTitle": ""
+  },
+  {
+    "id": "KsE3647vZGk",
+    "title": "【令和６年春 応用情報技術者試験】午前　問７｜バブルソート",
+    "playlist": null,
+    "playlistTitle": ""
+  },
+  {
+    "id": "AH0qVabn-a8",
+    "title": "【令和６年春 応用情報技術者試験】午前　問６｜再帰処理",
+    "playlist": null,
+    "playlistTitle": ""
+  },
+  {
+    "id": "r7HlLkYSc7A",
+    "title": "【令和６年春 応用情報技術者試験】午前　問５｜流れ図",
+    "playlist": null,
+    "playlistTitle": ""
+  },
+  {
+    "id": "2ebxHNdU1Yc",
+    "title": "【令和６年春 応用情報技術者試験】午前　問４｜ハミング符号",
+    "playlist": null,
+    "playlistTitle": ""
+  },
+  {
+    "id": "NRx7AmY8Zb0",
+    "title": "【令和６年春 応用情報技術者試験】午前　問３｜ディープラーニング",
+    "playlist": null,
+    "playlistTitle": ""
+  },
+  {
+    "id": "xSlRIOQK33U",
+    "title": "【令和６年春 応用情報技術者試験】午前　問２｜待ち行列モデル",
+    "playlist": null,
+    "playlistTitle": ""
+  },
+  {
+    "id": "ywq0eYwVGUI",
+    "title": "【令和６年春 応用情報技術者試験】午前　問１｜ベイズの定理",
+    "playlist": null,
+    "playlistTitle": ""
+  },
+  {
+    "id": "c8X4we970Rg",
+    "title": "【令和６年春 応用情報技術者試験】午後　問５　ネットワーク",
+    "playlist": null,
+    "playlistTitle": ""
+  },
+  {
+    "id": "Ogz_Pd6J8ek",
+    "title": "【令和６年春 応用情報技術者試験】午後　問４　システムアーキテクチャ",
+    "playlist": null,
+    "playlistTitle": ""
+  },
+  {
+    "id": "PTKuWQMxd1s",
+    "title": "【令和６年春 応用情報技術者試験】午後　問３　プログラミング",
+    "playlist": null,
+    "playlistTitle": ""
+  },
+  {
+    "id": "PPRuPJZ1Mqg",
+    "title": "【令和６年春 応用情報技術者試験】午後　問２　経営戦略",
+    "playlist": null,
+    "playlistTitle": ""
+  },
+  {
+    "id": "gwL8CIRmlNQ",
+    "title": "【令和６年春 応用情報技術者試験】午後　問１　情報セキュリティ",
+    "playlist": null,
+    "playlistTitle": ""
+  },
+  {
+    "id": "50ghImDehC0",
+    "title": "【令和５年秋 応用情報技術者試験】 午後　問５　ネットワーク",
+    "playlist": null,
+    "playlistTitle": ""
+  },
+  {
+    "id": "Xw6ryLKWi78",
+    "title": "【令和５年秋 応用情報技術者試験】 午後　問１０　サービスマネジメント",
+    "playlist": null,
+    "playlistTitle": ""
+  },
+  {
+    "id": "3sJ60JkaxOg",
+    "title": "【令和５年秋 応用情報技術者試験】 午後　問１１　システム監査",
+    "playlist": null,
+    "playlistTitle": ""
+  },
+  {
+    "id": "ztnwAt25J6Y",
+    "title": "【令和５年秋 応用情報技術者試験】 午後　問９　プロジェクトマネジメント",
+    "playlist": null,
+    "playlistTitle": ""
+  },
+  {
+    "id": "SlCgYjoxsbI",
+    "title": "【令和５年秋 応用情報技術者試験】 午後　問８　情報システム開発",
+    "playlist": null,
+    "playlistTitle": ""
+  },
+  {
+    "id": "WTBY7oIgZPQ",
+    "title": "【令和５年秋 応用情報技術者試験】 午後　問７　組み込みシステム",
+    "playlist": null,
+    "playlistTitle": ""
+  },
+  {
+    "id": "1OQkgADqt1U",
+    "title": "【令和５年秋 応用情報技術者試験】 午後　問６　データベース",
+    "playlist": null,
+    "playlistTitle": ""
+  },
+  {
+    "id": "xGaBqOAt4x8",
+    "title": "【令和５年秋 応用情報技術者試験】 午後　問３　プログラミング",
+    "playlist": null,
+    "playlistTitle": ""
+  },
+  {
+    "id": "WnkKBTUBWLs",
+    "title": "【令和５年秋 応用情報技術者試験】 午後　問４　システムアーキテクチャー",
+    "playlist": null,
+    "playlistTitle": ""
+  },
+  {
+    "id": "DhpmT3xBplg",
+    "title": "【令和５年秋 応用情報技術者試験】 午後　問２　経営戦略",
+    "playlist": null,
+    "playlistTitle": ""
+  },
+  {
+    "id": "EyGBfsJnihY",
+    "title": "【令和５年秋 応用情報技術者試験】 午後　問１　情報セキュリティ",
+    "playlist": null,
+    "playlistTitle": ""
+  },
+  {
+    "id": "XZnQoitwUBE",
+    "title": "【令和５年秋 応用情報技術者試験】 午前　問５２",
+    "playlist": null,
+    "playlistTitle": ""
+  },
+  {
+    "id": "-BQF2B-iA2g",
+    "title": "【令和５年秋 応用情報技術者試験】 午前　問５３",
+    "playlist": null,
+    "playlistTitle": ""
+  },
+  {
+    "id": "SzGeU6GAb48",
+    "title": "【令和５年秋 応用情報技術者試験】 午前　問５４",
+    "playlist": null,
+    "playlistTitle": ""
+  },
+  {
+    "id": "qGmnfwCEWRA",
+    "title": "【令和５年秋 応用情報技術者試験】 午前　問５５",
+    "playlist": null,
+    "playlistTitle": ""
+  },
+  {
+    "id": "kNEjctAZSoE",
+    "title": "【令和５年秋 応用情報技術者試験】 午前　問５６",
+    "playlist": null,
+    "playlistTitle": ""
+  },
+  {
+    "id": "CafUhVF77oY",
+    "title": "【令和５年秋 応用情報技術者試験】 午前　問５８",
+    "playlist": null,
+    "playlistTitle": ""
+  },
+  {
+    "id": "jjfgIvBelIs",
+    "title": "【令和５年秋 応用情報技術者試験】 午前　問５９",
+    "playlist": null,
+    "playlistTitle": ""
+  },
+  {
+    "id": "0y2K1LnKMUs",
+    "title": "【令和５年秋 応用情報技術者試験】 午前　問６０",
+    "playlist": null,
+    "playlistTitle": ""
+  },
+  {
+    "id": "itdsPbMnNts",
+    "title": "【令和５年秋 応用情報技術者試験】 午前　問６１",
+    "playlist": null,
+    "playlistTitle": ""
+  },
+  {
+    "id": "iHHZxGlKcrM",
+    "title": "【令和５年秋 応用情報技術者試験】 午前　問６２",
+    "playlist": null,
+    "playlistTitle": ""
+  },
+  {
+    "id": "PbbMn5ldDR0",
+    "title": "【令和５年秋 応用情報技術者試験】 午前　問６３",
+    "playlist": null,
+    "playlistTitle": ""
+  },
+  {
+    "id": "SINMduQQDQw",
+    "title": "【令和５年秋 応用情報技術者試験】 午前　問６４",
+    "playlist": null,
+    "playlistTitle": ""
+  },
+  {
+    "id": "Bq2GanD9KJQ",
+    "title": "【令和５年秋 応用情報技術者試験】 午前　問６５",
+    "playlist": null,
+    "playlistTitle": ""
+  },
+  {
+    "id": "zPqUo1vpjSo",
+    "title": "【令和５年秋 応用情報技術者試験】 午前　問６６",
+    "playlist": null,
+    "playlistTitle": ""
+  },
+  {
+    "id": "po9UlC4jMr4",
+    "title": "【令和５年秋 応用情報技術者試験】 午前　問６７",
+    "playlist": null,
+    "playlistTitle": ""
+  },
+  {
+    "id": "aH8h_Tah4iM",
+    "title": "【令和５年秋 応用情報技術者試験】 午前　問６８",
+    "playlist": null,
+    "playlistTitle": ""
+  },
+  {
+    "id": "0Yv_IVD9O7Y",
+    "title": "【令和５年秋 応用情報技術者試験】 午前　問６９",
+    "playlist": null,
+    "playlistTitle": ""
+  },
+  {
+    "id": "E1QQuCgGuSY",
+    "title": "【令和５年秋 応用情報技術者試験】 午前　問７０",
+    "playlist": null,
+    "playlistTitle": ""
+  },
+  {
+    "id": "tMAiWx7ehGA",
+    "title": "【令和５年秋 応用情報技術者試験】 午前　問７１",
+    "playlist": null,
+    "playlistTitle": ""
+  },
+  {
+    "id": "_xGP1NkBa6U",
+    "title": "【令和５年秋 応用情報技術者試験】 午前　問７２",
+    "playlist": null,
+    "playlistTitle": ""
+  },
+  {
+    "id": "7mwwIQrddNU",
+    "title": "【令和５年秋 応用情報技術者試験】 午前　問７３",
+    "playlist": null,
+    "playlistTitle": ""
+  },
+  {
+    "id": "DAMXuH6oVj4",
+    "title": "【令和５年秋 応用情報技術者試験】 午前　問７４",
+    "playlist": null,
+    "playlistTitle": ""
+  },
+  {
+    "id": "L0CYzUtwkBo",
+    "title": "【令和５年秋 応用情報技術者試験】 午前　問７５",
+    "playlist": null,
+    "playlistTitle": ""
+  },
+  {
+    "id": "2jyE1FNuKXU",
+    "title": "【令和５年秋 応用情報技術者試験】 午前　問７６",
+    "playlist": null,
+    "playlistTitle": ""
+  },
+  {
+    "id": "MUUQ2ra6Zns",
+    "title": "【令和５年秋 応用情報技術者試験】 午前　問７７",
+    "playlist": null,
+    "playlistTitle": ""
+  },
+  {
+    "id": "-bvmHsVOmcY",
+    "title": "【令和５年秋 応用情報技術者試験】 午前　問 ７８",
+    "playlist": null,
+    "playlistTitle": ""
+  },
+  {
+    "id": "9wy4Id2g86o",
+    "title": "【令和５年秋 応用情報技術者試験】 午前　問 ７９",
+    "playlist": null,
+    "playlistTitle": ""
+  },
+  {
+    "id": "snj9Z4Ou9n4",
+    "title": "【令和５年秋 応用情報技術者試験】 午前　問８０",
+    "playlist": null,
+    "playlistTitle": ""
+  },
+  {
+    "id": "QWcRwtB1i6k",
+    "title": "【令和５年秋 応用情報技術者試験】 午前　問５１",
+    "playlist": null,
+    "playlistTitle": ""
+  },
+  {
+    "id": "Ab0prU9W_h0",
+    "title": "【令和５年秋 応用情報技術者試験】 午前　問５７",
+    "playlist": null,
+    "playlistTitle": ""
+  },
+  {
+    "id": "GYLz0tsAUYE",
+    "title": "【令和５年秋 応用情報技術者試験】 午前　問４４",
+    "playlist": null,
+    "playlistTitle": ""
+  },
+  {
+    "id": "2sJM5N4GWb8",
+    "title": "【令和５年秋 応用情報技術者試験】 午前　問４３",
+    "playlist": null,
+    "playlistTitle": ""
+  },
+  {
+    "id": "Zz3X-_R92ng",
+    "title": "【令和５年秋 応用情報技術者試験】 午前　問４２",
+    "playlist": null,
+    "playlistTitle": ""
+  },
+  {
+    "id": "SDgxt7ebEDU",
+    "title": "【令和５年秋 応用情報技術者試験】 午前　問４１",
+    "playlist": null,
+    "playlistTitle": ""
+  },
+  {
+    "id": "Y6yuCz4Z2p4",
+    "title": "【令和５年秋 応用情報技術者試験】 午前　問５０",
+    "playlist": null,
+    "playlistTitle": ""
+  },
+  {
+    "id": "B_tNaxzsjqw",
+    "title": "【令和５年秋 応用情報技術者試験】 午前　問４９",
+    "playlist": null,
+    "playlistTitle": ""
+  },
+  {
+    "id": "6G6KaQTqvxc",
+    "title": "【令和５年秋 応用情報技術者試験】 午前　問４８",
+    "playlist": null,
+    "playlistTitle": ""
+  },
+  {
+    "id": "gxFQ644Z53I",
+    "title": "【令和５年秋 応用情報技術者試験】 午前　問４７",
+    "playlist": null,
+    "playlistTitle": ""
+  },
+  {
+    "id": "vUaLSBfBiKE",
+    "title": "【令和５年秋 応用情報技術者試験】 午前　問４６",
+    "playlist": null,
+    "playlistTitle": ""
+  },
+  {
+    "id": "2ta-IVVcMrc",
+    "title": "【令和５年秋 応用情報技術者試験】 午前　問４５",
+    "playlist": null,
+    "playlistTitle": ""
+  },
+  {
+    "id": "XsewuXPmhm0",
+    "title": "【令和５年秋 応用情報技術者試験】 午前　問４０",
+    "playlist": null,
+    "playlistTitle": ""
+  },
+  {
+    "id": "6iS4fx7GvkU",
+    "title": "【令和５年秋 応用情報技術者試験】 午前　問３９",
+    "playlist": null,
+    "playlistTitle": ""
+  },
+  {
+    "id": "H4s2l5KDzPI",
+    "title": "【令和５年秋 応用情報技術者試験】 午前　問３８",
+    "playlist": null,
+    "playlistTitle": ""
+  },
+  {
+    "id": "cJ9_9lhUlFI",
+    "title": "【令和５年秋 応用情報技術者試験】 午前　問３７",
+    "playlist": null,
+    "playlistTitle": ""
+  },
+  {
+    "id": "0gw4xrRXezs",
+    "title": "【令和５年秋 応用情報技術者試験】 午前　問３６",
+    "playlist": null,
+    "playlistTitle": ""
+  },
+  {
+    "id": "fF07micQS6I",
+    "title": "【令和５年秋 応用情報技術者試験】 午前　問３５",
+    "playlist": null,
+    "playlistTitle": ""
+  },
+  {
+    "id": "sKo3Cl6vuAY",
+    "title": "【令和５年秋 応用情報技術者試験】 午前　問３４",
+    "playlist": null,
+    "playlistTitle": ""
+  },
+  {
+    "id": "MiLc1ykoRt8",
+    "title": "【令和５年秋 応用情報技術者試験】 午前　問３３",
+    "playlist": null,
+    "playlistTitle": ""
+  },
+  {
+    "id": "tfJ50rYjrlQ",
+    "title": "【令和５年秋 応用情報技術者試験】 午前　問３２",
+    "playlist": null,
+    "playlistTitle": ""
+  },
+  {
+    "id": "t82Ex3rHFFg",
+    "title": "【令和５年秋 応用情報技術者試験】 午前　問３１",
+    "playlist": null,
+    "playlistTitle": ""
+  },
+  {
+    "id": "r5JyEZq6zt4",
+    "title": "【令和５年秋 応用情報技術者試験】 午前　問３０",
+    "playlist": null,
+    "playlistTitle": ""
+  },
+  {
+    "id": "QajD7WN3zdk",
+    "title": "【令和５年秋 応用情報技術者試験】 午前　問２９",
+    "playlist": null,
+    "playlistTitle": ""
+  },
+  {
+    "id": "Zmvxl9e7qUA",
+    "title": "【令和５年秋 応用情報技術者試験】 午前　問２８",
+    "playlist": null,
+    "playlistTitle": ""
+  },
+  {
+    "id": "1hK_Z50DVZc",
+    "title": "【令和５年秋 応用情報技術者試験】 午前　問２７",
+    "playlist": null,
+    "playlistTitle": ""
+  },
+  {
+    "id": "rZ8Nws5F7YY",
+    "title": "【令和５年秋 応用情報技術者試験】 午前　問２６",
+    "playlist": null,
+    "playlistTitle": ""
+  },
+  {
+    "id": "HychXptfQl8",
+    "title": "【令和５年秋 応用情報技術者試験】 午前　問２５",
+    "playlist": null,
+    "playlistTitle": ""
+  },
+  {
+    "id": "0N63X1ePZZI",
+    "title": "【令和５年秋 応用情報技術者試験】 午前　問２４",
+    "playlist": null,
+    "playlistTitle": ""
+  },
+  {
+    "id": "SId3nfU9VSw",
+    "title": "【令和５年秋 応用情報技術者試験】 午前　問２３",
+    "playlist": null,
+    "playlistTitle": ""
+  },
+  {
+    "id": "4tit0NHaDWM",
+    "title": "【令和５年秋 応用情報技術者試験】 午前　問２２",
+    "playlist": null,
+    "playlistTitle": ""
+  },
+  {
+    "id": "8aBOOaBXIV0",
+    "title": "【令和５年秋 応用情報技術者試験】 午前　問２１",
+    "playlist": null,
+    "playlistTitle": ""
+  },
+  {
+    "id": "sWet5dLkSJA",
+    "title": "【令和５年秋 応用情報技術者試験】 午前　問２０",
+    "playlist": null,
+    "playlistTitle": ""
+  },
+  {
+    "id": "tSrr11CgcK8",
+    "title": "【令和５年秋 応用情報技術者試験】 午前　問１９",
+    "playlist": null,
+    "playlistTitle": ""
+  },
+  {
+    "id": "VORXPMRkRuE",
+    "title": "【令和５年秋 応用情報技術者試験】 午前　問１８",
+    "playlist": null,
+    "playlistTitle": ""
+  },
+  {
+    "id": "gtvZuufDBfA",
+    "title": "【令和５年秋 応用情報技術者試験】 午前　問１７",
+    "playlist": null,
+    "playlistTitle": ""
+  },
+  {
+    "id": "eyuQTeUD-JY",
+    "title": "【令和５年秋 応用情報技術者試験】 午前　問１６",
+    "playlist": null,
+    "playlistTitle": ""
+  },
+  {
+    "id": "C3gdh3-fNg4",
+    "title": "【令和５年秋 応用情報技術者試験】 午前　問１５",
+    "playlist": null,
+    "playlistTitle": ""
+  },
+  {
+    "id": "t94j-r-xU94",
+    "title": "【令和５年秋 応用情報技術者試験】 午前　問１４",
+    "playlist": null,
+    "playlistTitle": ""
+  },
+  {
+    "id": "I4G39bTQg4Y",
+    "title": "【令和５年秋 応用情報技術者試験】 午前　問１３",
+    "playlist": null,
+    "playlistTitle": ""
+  },
+  {
+    "id": "1_Mc3ZtEpy0",
+    "title": "【令和５年秋 応用情報技術者試験】 午前　問１２",
+    "playlist": null,
+    "playlistTitle": ""
+  },
+  {
+    "id": "-FlYv_2YKL8",
+    "title": "【令和５年秋 応用情報技術者試験】 午前　問１１",
+    "playlist": null,
+    "playlistTitle": ""
+  },
+  {
+    "id": "PjRaHhaTHe8",
+    "title": "【令和５年秋 応用情報技術者試験】 午前　問１０",
+    "playlist": null,
+    "playlistTitle": ""
+  },
+  {
+    "id": "d6-N6zAV0tU",
+    "title": "【令和５年秋 応用情報技術者試験】 午前　問９",
+    "playlist": null,
+    "playlistTitle": ""
+  },
+  {
+    "id": "rvAdJon4MjM",
+    "title": "【令和５年秋 応用情報技術者試験】 午前　問８",
+    "playlist": null,
+    "playlistTitle": ""
+  },
+  {
+    "id": "ioLbNyVgPQE",
+    "title": "【令和５年秋 応用情報技術者試験】 午前　問６",
+    "playlist": null,
+    "playlistTitle": ""
+  },
+  {
+    "id": "rkGSwXxdaDc",
+    "title": "【令和５年秋 応用情報技術者試験】 午前　問５",
+    "playlist": null,
+    "playlistTitle": ""
+  },
+  {
+    "id": "45apbIJVlgo",
+    "title": "【令和５年秋 応用情報技術者試験】 午前　問７",
+    "playlist": null,
+    "playlistTitle": ""
+  },
+  {
+    "id": "cNI9b2isuV4",
+    "title": "【令和５年秋 応用情報技術者試験】 午前　問４",
+    "playlist": null,
+    "playlistTitle": ""
+  },
+  {
+    "id": "s_LydHAYWkE",
+    "title": "【令和５年秋 応用情報技術者試験】 午前　問２",
+    "playlist": null,
+    "playlistTitle": ""
+  },
+  {
+    "id": "9tG-nY_SCgw",
+    "title": "【令和５年秋 応用情報技術者試験】 午前　問３",
+    "playlist": null,
+    "playlistTitle": ""
+  },
+  {
+    "id": "0zZyWmElqPM",
+    "title": "【令和５年秋 応用情報技術者試験】 午前　問１",
+    "playlist": null,
+    "playlistTitle": ""
+  },
+  {
+    "id": "z7QH9Rppz_E",
+    "title": "【令和５年春 応用情報技術者試験】午後 問１０ サービスマネジメント",
+    "playlist": null,
+    "playlistTitle": ""
+  },
+  {
+    "id": "Adrc8s2mscA",
+    "title": "【令和５年春 応用情報技術者試験】午後 問１１ システム監査",
+    "playlist": null,
+    "playlistTitle": ""
+  },
+  {
+    "id": "t0NskQTkUEQ",
+    "title": "【令和５年春 応用情報技術者試験】午後 問８ 情報システム開発",
+    "playlist": null,
+    "playlistTitle": ""
+  },
+  {
+    "id": "N3JDp4hQKt0",
+    "title": "【令和５年春 応用情報技術者試験】 午後 問９ プロジェクトマネジメント",
+    "playlist": null,
+    "playlistTitle": ""
+  },
+  {
+    "id": "KTcLdXsB6hY",
+    "title": "【令和５年春 応用情報技術者試験】午後 問７ 組み込みシステム",
+    "playlist": null,
+    "playlistTitle": ""
+  },
+  {
+    "id": "PznACpY1TIs",
+    "title": "【令和５年春 応用情報技術者試験】午後 問６ データベース",
+    "playlist": null,
+    "playlistTitle": ""
+  },
+  {
+    "id": "FK4iVbMafQg",
+    "title": "【令和５年春 応用情報技術者試験】午後 問５ ネットワーク",
+    "playlist": null,
+    "playlistTitle": ""
+  },
+  {
+    "id": "0F87YRbLRHk",
+    "title": "【令和５年春 応用情報技術者試験】午後 問４ システムアーキテクチャ",
+    "playlist": null,
+    "playlistTitle": ""
+  },
+  {
+    "id": "NV7LBHVoIAs",
+    "title": "【令和５年春 応用情報技術者試験】午後 問３ プログラミング",
+    "playlist": null,
+    "playlistTitle": ""
+  },
+  {
+    "id": "3l5glxIz8Fw",
+    "title": "【令和５年春 応用情報技術者試験】午後 問２ 経営戦略",
+    "playlist": null,
+    "playlistTitle": ""
+  },
+  {
+    "id": "fbOYJJlX7Es",
+    "title": "【令和５年春 応用情報技術者試験】午後 問１ 情報セキュリティ",
+    "playlist": null,
+    "playlistTitle": ""
+  },
+  {
+    "id": "wPN0KfyxPbc",
+    "title": "令和5年春 応用情報技術者試験（午前） 問８０の解説｜集団思考",
+    "playlist": null,
+    "playlistTitle": ""
+  },
+  {
+    "id": "XonrcJIK87o",
+    "title": "令和5年春 応用情報技術者試験（午前） 問７９の解説｜労働者派遣法",
+    "playlist": null,
+    "playlistTitle": ""
+  },
+  {
+    "id": "M5ocpG3639I",
+    "title": "令和5年春 応用情報技術者試験（午前） 問７８の解説｜下請法",
+    "playlist": null,
+    "playlistTitle": ""
+  },
+  {
+    "id": "mDy93DGTtYs",
+    "title": "令和5年春 応用情報技術者試験（午前） 問７７の解説｜売上高",
+    "playlist": null,
+    "playlistTitle": ""
+  },
+  {
+    "id": "hajvl_BeNWA",
+    "title": "令和5年春 応用情報技術者試験（午前） 問７６の解説",
+    "playlist": null,
+    "playlistTitle": ""
+  },
+  {
+    "id": "UjUQG84s3PM",
+    "title": "令和5年春 応用情報技術者試験（午前） 問７５の解説｜デシジョンツリー",
+    "playlist": null,
+    "playlistTitle": ""
+  },
+  {
+    "id": "Dz0uKkwripc",
+    "title": "令和5年春 応用情報技術者試験（午前） 問７４の解説｜事業部制組織",
+    "playlist": null,
+    "playlistTitle": ""
+  },
+  {
+    "id": "b5wIxi5RzKo",
+    "title": "令和5年春 応用情報技術者試験（午前） 問７３の解説｜デジタルツイン",
+    "playlist": null,
+    "playlistTitle": ""
+  },
+  {
+    "id": "SCmv9T3q_j8",
+    "title": "令和5年春 応用情報技術者試験（午前） 問７２の解説｜アグリゲーションサービス",
+    "playlist": null,
+    "playlistTitle": ""
+  },
+  {
+    "id": "c6BoxXbKTwo",
+    "title": "令和5年春 応用情報技術者試験（午前） 問７１の解説｜エネルギーハーベスティング",
+    "playlist": null,
+    "playlistTitle": ""
+  },
+  {
+    "id": "glC4N1LjT-E",
+    "title": "令和5年春 応用情報技術者試験（午前） 問７０の解説｜共同研究",
+    "playlist": null,
+    "playlistTitle": ""
+  },
+  {
+    "id": "lmxSA3chi7I",
+    "title": "令和5年春 応用情報技術者試験（午前） 問６９の解説｜フィージビリティスタディ",
+    "playlist": null,
+    "playlistTitle": ""
+  },
+  {
+    "id": "FZIcx4q4x30",
+    "title": "令和5年春 応用情報技術者試験（午前） 問６８の解説｜戦略マップ",
+    "playlist": null,
+    "playlistTitle": ""
+  },
+  {
+    "id": "INRqdFWzr8k",
+    "title": "令和5年春 応用情報技術者試験（午前） 問６３の解説｜情報銀行",
+    "playlist": null,
+    "playlistTitle": ""
+  },
+  {
+    "id": "YaOyUujwdbw",
+    "title": "令和5年春 応用情報技術者試験（午前） 問６４の解説｜トレーサビリティ",
+    "playlist": null,
+    "playlistTitle": ""
+  },
+  {
+    "id": "cIYFqyxM_gQ",
+    "title": "令和5年春 応用情報技術者試験（午前） 問６７の解説｜ROAS",
+    "playlist": null,
+    "playlistTitle": ""
+  },
+  {
+    "id": "LBmV43VcVEc",
+    "title": "令和5年春 応用情報技術者試験（午前） 問６６の解説｜見積り依頼",
+    "playlist": null,
+    "playlistTitle": ""
+  },
+  {
+    "id": "GJ4_fwB3_hA",
+    "title": "令和5年春 応用情報技術者試験（午前） 問６５の解説｜RFI",
+    "playlist": null,
+    "playlistTitle": ""
+  },
+  {
+    "id": "OhbO8n5eQ8o",
+    "title": "令和5年春 応用情報技術者試験（午前） 問６２の解説｜カスタマーエクスペリエンス",
+    "playlist": null,
+    "playlistTitle": ""
+  },
+  {
+    "id": "Zoo09WsIM3w",
+    "title": "令和5年春 応用情報技術者試験（午前） 問６１の解説｜ROI",
+    "playlist": null,
+    "playlistTitle": ""
+  },
+  {
+    "id": "fJac90UXmJs",
+    "title": "令和5年春 応用情報技術者試験（午前） 問６０の解説｜内部統制",
+    "playlist": null,
+    "playlistTitle": ""
+  },
+  {
+    "id": "XKM28QEZaI8",
+    "title": "令和5年春 応用情報技術者試験（午前） 問５９の解説｜監査手続",
+    "playlist": null,
+    "playlistTitle": ""
+  },
+  {
+    "id": "txIF3z5oVcc",
+    "title": "令和5年春 応用情報技術者試験（午前） 問５８の解説｜予備調査",
+    "playlist": null,
+    "playlistTitle": ""
+  },
+  {
+    "id": "f9FvTiBj0sE",
+    "title": "令和5年春 応用情報技術者試験（午前） 問５７の解説｜クラウドサービス",
+    "playlist": null,
+    "playlistTitle": ""
+  },
+  {
+    "id": "EzP_o-u9kUI",
+    "title": "令和5年春 応用情報技術者試験（午前） 問５６の解説｜パフォーマンスレビュー",
+    "playlist": null,
+    "playlistTitle": ""
+  },
+  {
+    "id": "wC3mXlN0ayU",
+    "title": "令和5年春 応用情報技術者試験（午前） 問５５の解説｜サービスマネジメントシステム",
+    "playlist": null,
+    "playlistTitle": ""
+  },
+  {
+    "id": "x58y6eMktQY",
+    "title": "令和5年春 応用情報技術者試験（午前） 問５４の解説｜デルファイ法",
+    "playlist": null,
+    "playlistTitle": ""
+  },
+  {
+    "id": "pF_OOK-LrqU",
+    "title": "令和5年春 応用情報技術者試験（午前） 問５３の解説｜プロジェクトの進捗管理",
+    "playlist": null,
+    "playlistTitle": ""
+  },
+  {
+    "id": "jLKZGSTq1lM",
+    "title": "令和5年春 応用情報技術者試験（午前） 問５２の解説｜クリティカルチェーン",
+    "playlist": null,
+    "playlistTitle": ""
+  },
+  {
+    "id": "ExNd2-K0oH8",
+    "title": "令和5年春 応用情報技術者試験（午前） 問５１の解説｜プロジェクト憲章",
+    "playlist": null,
+    "playlistTitle": ""
+  },
+  {
+    "id": "yGK-Y3fVdoc",
+    "title": "令和5年春 応用情報技術者試験（午前） 問３８の解説｜デジタル署名",
+    "playlist": null,
+    "playlistTitle": ""
+  },
+  {
+    "id": "_JV4BfhzP6s",
+    "title": "令和5年春 応用情報技術者試験（午前） 問５０の解説｜サーバプロビジョニングツール",
+    "playlist": null,
+    "playlistTitle": ""
+  },
+  {
+    "id": "k0mjPuDvJ2c",
+    "title": "令和5年春 応用情報技術者試験（午前） 問４９の解説｜特許権",
+    "playlist": null,
+    "playlistTitle": ""
+  },
+  {
+    "id": "SIGtLdSM2og",
+    "title": "令和5年春 応用情報技術者試験（午前） 問４８の解説｜スクラム",
+    "playlist": null,
+    "playlistTitle": ""
+  },
+  {
+    "id": "6d0reoHQ8pI",
+    "title": "令和5年春 応用情報技術者試験（午前） 問４７の解説｜決定表",
+    "playlist": null,
+    "playlistTitle": ""
+  },
+  {
+    "id": "fUORZ_-Knhg",
+    "title": "令和5年春 応用情報技術者試験（午前） 問４６の解説｜モジュール結合度",
+    "playlist": null,
+    "playlistTitle": ""
+  },
+  {
+    "id": "fFOnY439hB4",
+    "title": "令和5年春 応用情報技術者試験（午前） 問４５の解説｜セキュリティ技術",
+    "playlist": null,
+    "playlistTitle": ""
+  },
+  {
+    "id": "b99CauQKHv8",
+    "title": "令和5年春 応用情報技術者試験（午前） 問４４の解説｜サブミッションポート",
+    "playlist": null,
+    "playlistTitle": ""
+  },
+  {
+    "id": "_Iw6ZYWhw1w",
+    "title": "令和5年春 応用情報技術者試験（午前） 問４３の解説｜セキュリティ対策",
+    "playlist": null,
+    "playlistTitle": ""
+  },
+  {
+    "id": "2W45FtVRCJ8",
+    "title": "令和5年春 応用情報技術者試験（午前） 問４２の解説｜デジタルフォレンジックス",
+    "playlist": null,
+    "playlistTitle": ""
+  },
+  {
+    "id": "_RShT0s0jHw",
+    "title": "令和5年春 応用情報技術者試験（午前） 問４１の解説｜TPM",
+    "playlist": null,
+    "playlistTitle": ""
+  },
+  {
+    "id": "qZ0fr2eCqmo",
+    "title": "令和5年春 応用情報技術者試験（午前） 問４０の解説｜脆弱性を識別する情報",
+    "playlist": null,
+    "playlistTitle": ""
+  },
+  {
+    "id": "Sh9tj8QuR1w",
+    "title": "令和5年春 応用情報技術者試験（午前） 問３９の解説｜ISMAP",
+    "playlist": null,
+    "playlistTitle": ""
+  },
+  {
+    "id": "rQkNIPFt8Vg",
+    "title": "令和5年春 応用情報技術者試験（午前） 問３７の解説｜セキュアOS",
+    "playlist": null,
+    "playlistTitle": ""
+  },
+  {
+    "id": "zD7tNOXN2kg",
+    "title": "令和5年春 応用情報技術者試験（午前） 問３６の解説｜C&Cサーバ",
+    "playlist": null,
+    "playlistTitle": ""
+  },
+  {
+    "id": "wiyDvmEGmN0",
+    "title": "令和5年春 応用情報技術者試験（午前） 問３５の解説｜モバイル通信",
+    "playlist": null,
+    "playlistTitle": ""
+  },
+  {
+    "id": "49JQwc1lrzg",
+    "title": "令和5年春 応用情報技術者試験（午前） 問３４の解説｜トランスポート層",
+    "playlist": null,
+    "playlistTitle": ""
+  },
+  {
+    "id": "Qy1m7KeSuQs",
+    "title": "令和5年春 応用情報技術者試験（午前） 問２６の解説｜データベース",
+    "playlist": null,
+    "playlistTitle": ""
+  },
+  {
+    "id": "AxysNyJvRzQ",
+    "title": "令和5年春 応用情報技術者試験（午前） 問２５の解説｜コンピュータグラフィックス",
+    "playlist": null,
+    "playlistTitle": ""
+  },
+  {
+    "id": "PX29FLWSxmU",
+    "title": "令和5年春 応用情報技術者試験（午前） 問３３の解説｜イーサネット",
+    "playlist": null,
+    "playlistTitle": ""
+  },
+  {
+    "id": "1QsJ_4KqZ8c",
+    "title": "令和5年春 応用情報技術者試験（午前） 問３２の解説｜パケット",
+    "playlist": null,
+    "playlistTitle": ""
+  },
+  {
+    "id": "vsB_4WjExl8",
+    "title": "令和5年春 応用情報技術者試験（午前） 問３１の解説｜PLC",
+    "playlist": null,
+    "playlistTitle": ""
+  },
+  {
+    "id": "DxZOfG121Ss",
+    "title": "令和5年春 応用情報技術者試験（午前） 問３０の解説｜関係データベース",
+    "playlist": null,
+    "playlistTitle": ""
+  },
+  {
+    "id": "ZB8nJdNG8BU",
+    "title": "令和5年春 応用情報技術者試験（午前） 問２９の解説｜データモデル",
+    "playlist": null,
+    "playlistTitle": ""
+  },
+  {
+    "id": "EP3xyw3aSwY",
+    "title": "令和5年春 応用情報技術者試験（午前） 問２８の解説｜べき等",
+    "playlist": null,
+    "playlistTitle": ""
+  },
+  {
+    "id": "YNU3lmItwjM",
+    "title": "令和5年春 応用情報技術者試験（午前） 問２7の解説",
+    "playlist": null,
+    "playlistTitle": ""
+  },
+  {
+    "id": "kgoBP-SQ4ww",
+    "title": "令和5年春 応用情報技術者試験（午前） 問２１の解説｜NAND回路",
+    "playlist": null,
+    "playlistTitle": ""
+  },
+  {
+    "id": "YZu3VE5k4MU",
+    "title": "令和5年春 応用情報技術者試験（午前） 問２４の解説｜NFC",
+    "playlist": null,
+    "playlistTitle": ""
+  },
+  {
+    "id": "qfk7fGwJa_A",
+    "title": "令和5年春 応用情報技術者試験（午前） 問２３の解説｜LiDAR",
+    "playlist": null,
+    "playlistTitle": ""
+  },
+  {
+    "id": "EguFntPyNKs",
+    "title": "令和5年春 応用情報技術者試験（午前） 問２２の解説｜出力電圧",
+    "playlist": null,
+    "playlistTitle": ""
+  },
+  {
+    "id": "IxW5mAaKRSw",
+    "title": "令和5年春 応用情報技術者試験（午前） 問２０の解説｜コンテナ型仮想化",
+    "playlist": null,
+    "playlistTitle": ""
+  },
+  {
+    "id": "PE0rvH529mg",
+    "title": "令和5年春 応用情報技術者試験（午前） 問１９の解説｜ハッシュ値",
+    "playlist": null,
+    "playlistTitle": ""
+  },
+  {
+    "id": "dWlAbDngfyc",
+    "title": "令和5年春 応用情報技術者試験（午前） 問１６の解説｜システムの稼働率",
+    "playlist": null,
+    "playlistTitle": ""
+  },
+  {
+    "id": "iMLqBLQu044",
+    "title": "令和5年春 応用情報技術者試験（午前） 問１８の解説｜仮想記憶方式",
+    "playlist": null,
+    "playlistTitle": ""
+  },
+  {
+    "id": "Co8PafOUjas",
+    "title": "令和5年春 応用情報技術者試験（午前） 問１７の解説｜FIFO",
+    "playlist": null,
+    "playlistTitle": ""
+  },
+  {
+    "id": "hW9c1t99TRE",
+    "title": "令和5年春 応用情報技術者試験（午前） 問１５の解説｜コンピュータシステム",
+    "playlist": null,
+    "playlistTitle": ""
+  },
+  {
+    "id": "FevJA7TbkFs",
+    "title": "令和5年春 応用情報技術者試験（午前） 問１４の解説｜CPU",
+    "playlist": null,
+    "playlistTitle": ""
+  },
+  {
+    "id": "_XUrDjJC4A4",
+    "title": "令和5年春 応用情報技術者試験（午前） 問１３の解説｜スケールイン",
+    "playlist": null,
+    "playlistTitle": ""
+  },
+  {
+    "id": "5_YpaWhAV-o",
+    "title": "令和5年春 応用情報技術者試験（午前） 問１２の解説｜有機ELディスプレイ",
+    "playlist": null,
+    "playlistTitle": ""
+  },
+  {
+    "id": "tMcvVunDG28",
+    "title": "令和5年春 応用情報技術者試験（午前） 問１１の解説｜ウェアレベリング",
+    "playlist": null,
+    "playlistTitle": ""
+  },
+  {
+    "id": "FQ4uRe-z63w",
+    "title": "令和5年春 応用情報技術者試験（午前） 問１０の解説｜キャッシュメモリ",
+    "playlist": null,
+    "playlistTitle": ""
+  },
+  {
+    "id": "Nlft9UMFWAs",
+    "title": "令和5年春 応用情報技術者試験（午前） 問９の解説｜パイプライン制御",
+    "playlist": null,
+    "playlistTitle": ""
+  },
+  {
+    "id": "uqUlReE64Kk",
+    "title": "令和5年春 応用情報技術者試験（午前） 問８の解説｜CPI",
+    "playlist": null,
+    "playlistTitle": ""
+  },
+  {
+    "id": "_ls_6_Itgik",
+    "title": "令和5年春 応用情報技術者試験（午前） 問７の解説｜クイックソート",
+    "playlist": null,
+    "playlistTitle": ""
+  },
+  {
+    "id": "TL-RSdL4cp8",
+    "title": "令和5年春 応用情報技術者試験（午前） 問６の解説｜線形探索法",
+    "playlist": null,
+    "playlistTitle": ""
+  },
+  {
+    "id": "_nHlysGPhsQ",
+    "title": "令和5年春 応用情報技術者試験（午前） 問５の解説｜メモリ管理",
+    "playlist": null,
+    "playlistTitle": ""
+  },
+  {
+    "id": "ohR47neOpuE",
+    "title": "令和5年春 応用情報技術者試験（午前） 問４の解説｜ドップラー効果",
+    "playlist": null,
+    "playlistTitle": ""
+  },
+  {
+    "id": "7m5Fcr39Kuw",
+    "title": "令和5年春 応用情報技術者試験（午前） 問３の解説｜ROC曲線",
+    "playlist": null,
+    "playlistTitle": ""
+  },
+  {
+    "id": "GVvOsTaKp9E",
+    "title": "令和5年春 応用情報技術者試験（午前） 問２の解説│正規分布",
+    "playlist": null,
+    "playlistTitle": ""
+  },
+  {
+    "id": "BMD8G1dRYAU",
+    "title": "令和5年春 応用情報技術者試験（午前） 問１の解説｜ビット演算",
+    "playlist": null,
+    "playlistTitle": ""
+  },
+  {
+    "id": "jG_yHjIMVIA",
+    "title": "【応用情報技術者試験】過去問解説　令和４年春　問１　情報落ち",
+    "playlist": null,
+    "playlistTitle": ""
+  },
+  {
+    "id": "998so_-XUzk",
+    "title": "【応用情報技術者試験】過去問解説　令和３年春　問 61",
+    "playlist": null,
+    "playlistTitle": ""
+  },
+  {
+    "id": "riAWswc25IA",
+    "title": "【応用情報技術者試験】過去問解説　令和３年春　問 37",
+    "playlist": null,
+    "playlistTitle": ""
+  },
+  {
+    "id": "MJGqkxCkZ3w",
+    "title": "【応用情報技術者試験】過去問解説　令和３年春　問 36",
+    "playlist": null,
+    "playlistTitle": ""
+  },
+  {
+    "id": "dH82igTGDeM",
+    "title": "【応用情報技術者試験】過去問解説　令和３年春　問 35",
+    "playlist": null,
+    "playlistTitle": ""
+  },
+  {
+    "id": "bhA5pvvGpxU",
+    "title": "【応用情報技術者試験】過去問解説　令和３年春　問 34",
+    "playlist": null,
+    "playlistTitle": ""
+  },
+  {
+    "id": "qfl9queFAqM",
+    "title": "【応用情報技術者試験】過去問解説　令和３年春　問 33",
+    "playlist": null,
+    "playlistTitle": ""
+  },
+  {
+    "id": "2jbM3BtQGJ4",
+    "title": "【応用情報技術者試験】過去問解説　令和３年春　問 32",
+    "playlist": null,
+    "playlistTitle": ""
+  },
+  {
+    "id": "WXhROqmKS08",
+    "title": "【応用情報技術者試験】過去問解説　令和３年春　問 31",
+    "playlist": null,
+    "playlistTitle": ""
+  },
+  {
+    "id": "i5-f_SghjtA",
+    "title": "【応用情報技術者試験】過去問解説　令和３年春　問 30",
+    "playlist": null,
+    "playlistTitle": ""
+  },
+  {
+    "id": "Noe7OcA35Xc",
+    "title": "【応用情報技術者試験】過去問解説　令和３年春　問 52",
+    "playlist": null,
+    "playlistTitle": ""
+  },
+  {
+    "id": "IyS8Q2rwZVc",
+    "title": "【応用情報技術者試験】過去問解説　令和３年春　問 51",
+    "playlist": null,
+    "playlistTitle": ""
+  },
+  {
+    "id": "Qx0qmj_LJpg",
+    "title": "【応用情報技術者試験】過去問解説　令和３年春　問 50",
+    "playlist": null,
+    "playlistTitle": ""
+  },
+  {
+    "id": "pEJGuJkk3Bs",
+    "title": "【応用情報技術者試験】過去問解説　令和３年春　問 49",
+    "playlist": null,
+    "playlistTitle": ""
+  },
+  {
+    "id": "nrRIJuoFW_0",
+    "title": "【応用情報技術者試験】過去問解説　令和３年春　問 48",
+    "playlist": null,
+    "playlistTitle": ""
+  },
+  {
+    "id": "bumj1pdgTRM",
+    "title": "【応用情報技術者試験】過去問解説　令和３年春　問 47",
+    "playlist": null,
+    "playlistTitle": ""
+  },
+  {
+    "id": "-sa-6Lh_sUU",
+    "title": "【応用情報技術者試験】過去問解説　令和３年春　問 46",
+    "playlist": null,
+    "playlistTitle": ""
+  },
+  {
+    "id": "HH8hH02TST0",
+    "title": "【応用情報技術者試験】過去問解説　令和３年春　問 45",
+    "playlist": null,
+    "playlistTitle": ""
+  },
+  {
+    "id": "dTyW2JWpoiU",
+    "title": "【応用情報技術者試験】過去問解説　令和３年春　問 44",
+    "playlist": null,
+    "playlistTitle": ""
+  },
+  {
+    "id": "2uYqPK9FwPY",
+    "title": "【応用情報技術者試験】過去問解説　令和３年春　問 43",
+    "playlist": null,
+    "playlistTitle": ""
+  },
+  {
+    "id": "0rBYioq41S0",
+    "title": "【応用情報技術者試験】過去問解説　令和３年春　問 63",
+    "playlist": null,
+    "playlistTitle": ""
+  },
+  {
+    "id": "S-S_w__7tOo",
+    "title": "【応用情報技術者試験】過去問解説　令和３年春　問 62",
+    "playlist": null,
+    "playlistTitle": ""
+  },
+  {
+    "id": "nXZqdVXCgb8",
+    "title": "【応用情報技術者試験】過去問解説　令和３年春　問 60",
+    "playlist": null,
+    "playlistTitle": ""
+  },
+  {
+    "id": "q86g7-sva4w",
+    "title": "【応用情報技術者試験】過去問解説　令和３年春　問 55",
+    "playlist": null,
+    "playlistTitle": ""
+  },
+  {
+    "id": "fLtN7C2Q_n0",
+    "title": "【応用情報技術者試験】過去問解説　令和３年春　問 57",
+    "playlist": null,
+    "playlistTitle": ""
+  },
+  {
+    "id": "8oO131eStRY",
+    "title": "【応用情報技術者試験】過去問解説　令和３年春　問 58",
+    "playlist": null,
+    "playlistTitle": ""
+  },
+  {
+    "id": "oaEd1IE6I8o",
+    "title": "【応用情報技術者試験】過去問解説　令和３年春　問 59",
+    "playlist": null,
+    "playlistTitle": ""
+  },
+  {
+    "id": "lMK8ngU4jF4",
+    "title": "【応用情報技術者試験】過去問解説　令和３年春　問 54",
+    "playlist": null,
+    "playlistTitle": ""
+  },
+  {
+    "id": "iFjphqduCLQ",
+    "title": "【応用情報技術者試験】過去問解説　令和３年春　問 53",
+    "playlist": null,
+    "playlistTitle": ""
+  },
+  {
+    "id": "hiIiueeLnMA",
+    "title": "【応用情報技術者試験】過去問解説　令和３年春　問 64",
+    "playlist": null,
+    "playlistTitle": ""
+  },
+  {
+    "id": "iqFCHqBgvdE",
+    "title": "【応用情報技術者試験】過去問解説　令和３年春　問 65",
+    "playlist": null,
+    "playlistTitle": ""
+  },
+  {
+    "id": "fObAwjkEEx0",
+    "title": "【応用情報技術者試験】過去問解説　令和３年春　問 66",
+    "playlist": null,
+    "playlistTitle": ""
+  },
+  {
+    "id": "jIv7HVr3v7Y",
+    "title": "【応用情報技術者試験】過去問解説　令和３年春　問 68",
+    "playlist": null,
+    "playlistTitle": ""
+  },
+  {
+    "id": "GIoOoaKytMs",
+    "title": "【応用情報技術者試験】過去問解説　令和３年春　問 69",
+    "playlist": null,
+    "playlistTitle": ""
+  },
+  {
+    "id": "o1h81wmuQb4",
+    "title": "【応用情報技術者試験】過去問解説　令和３年春　問 70",
+    "playlist": null,
+    "playlistTitle": ""
+  },
+  {
+    "id": "ZY2jqKEztho",
+    "title": "【応用情報技術者試験】過去問解説　令和３年春　問 71",
+    "playlist": null,
+    "playlistTitle": ""
+  },
+  {
+    "id": "pdmmgWd53-Y",
+    "title": "【応用情報技術者試験】過去問解説　令和３年春　問 72",
+    "playlist": null,
+    "playlistTitle": ""
+  },
+  {
+    "id": "u3XOXjNpJ5I",
+    "title": "【応用情報技術者試験】過去問解説　令和３年春　問 67",
+    "playlist": null,
+    "playlistTitle": ""
+  },
+  {
+    "id": "rf_MjMFWkO0",
+    "title": "【応用情報技術者試験】過去問解説　令和３年春　問 80",
+    "playlist": null,
+    "playlistTitle": ""
+  },
+  {
+    "id": "Le06flfkI9g",
+    "title": "【応用情報技術者試験】過去問解説　令和３年春　問 79",
+    "playlist": null,
+    "playlistTitle": ""
+  },
+  {
+    "id": "kk37Vr6xx2g",
+    "title": "【応用情報技術者試験】過去問解説　令和３年春　問 78",
+    "playlist": null,
+    "playlistTitle": ""
+  },
+  {
+    "id": "GmLyHdmKnLw",
+    "title": "【応用情報技術者試験】過去問解説　令和３年春　問 77",
+    "playlist": null,
+    "playlistTitle": ""
+  },
+  {
+    "id": "bJ5Cf022GUk",
+    "title": "【応用情報技術者試験】過去問解説　令和３年春　問 76",
+    "playlist": null,
+    "playlistTitle": ""
+  },
+  {
+    "id": "jv_5OndjY_o",
+    "title": "【応用情報技術者試験】過去問解説　令和３年春　問 75",
+    "playlist": null,
+    "playlistTitle": ""
+  },
+  {
+    "id": "csnlxDa2yTs",
+    "title": "【応用情報技術者試験】過去問解説　令和３年春　問 74",
+    "playlist": null,
+    "playlistTitle": ""
+  },
+  {
+    "id": "VZ64SOG3NK4",
+    "title": "【応用情報技術者試験】過去問解説　令和３年春　問 73",
+    "playlist": null,
+    "playlistTitle": ""
+  },
+  {
+    "id": "IXXakEbIVTk",
+    "title": "【応用情報技術者試験】過去問解説　令和３年春　問 56",
+    "playlist": null,
+    "playlistTitle": ""
+  },
+  {
+    "id": "Vse0T06kAKQ",
+    "title": "【応用情報技術者試験】過去問解説　令和３年春　問 38",
+    "playlist": null,
+    "playlistTitle": ""
+  },
+  {
+    "id": "52Z95FkOb6M",
+    "title": "【応用情報技術者試験】過去問解説　令和３年春　問 42",
+    "playlist": null,
+    "playlistTitle": ""
+  },
+  {
+    "id": "zJgxKfBUleI",
+    "title": "【応用情報技術者試験】過去問解説　令和３年春　問 41",
+    "playlist": null,
+    "playlistTitle": ""
+  },
+  {
+    "id": "-VoWllzshUU",
+    "title": "【応用情報技術者試験】過去問解説　令和３年春　問 39",
+    "playlist": null,
+    "playlistTitle": ""
+  },
+  {
+    "id": "_zDFlckLce8",
+    "title": "【応用情報技術者試験】過去問解説　令和３年春　問 40",
+    "playlist": null,
+    "playlistTitle": ""
+  },
+  {
+    "id": "C7sfq1PZ3bg",
+    "title": "【応用情報技術者試験】過去問解説　令和３年春　問61",
+    "playlist": null,
+    "playlistTitle": ""
+  },
+  {
+    "id": "B1mHRUL22v4",
+    "title": "【応用情報技術者試験】過去問解説　令和３年春　問２８",
+    "playlist": null,
+    "playlistTitle": ""
+  },
+  {
+    "id": "N0daOskeGF4",
+    "title": "【応用情報技術者試験】過去問解説　令和３年春　問２９",
+    "playlist": null,
+    "playlistTitle": ""
+  },
+  {
+    "id": "g5bDyxkU6Ww",
+    "title": "【応用情報技術者試験】過去問解説　令和３年春　問１０",
+    "playlist": null,
+    "playlistTitle": ""
+  },
+  {
+    "id": "3Hw_qpoEEgw",
+    "title": "【応用情報技術者試験】過去問解説　令和３年春　問９",
+    "playlist": null,
+    "playlistTitle": ""
+  },
+  {
+    "id": "FEm2Y1siaYI",
+    "title": "【応用情報技術者試験】過去問解説　令和３年春　問８",
+    "playlist": null,
+    "playlistTitle": ""
+  },
+  {
+    "id": "exf1CNstd-c",
+    "title": "【応用情報技術者試験】過去問解説　令和３年春　問７",
+    "playlist": null,
+    "playlistTitle": ""
+  },
+  {
+    "id": "NphXtGRE15k",
+    "title": "【応用情報技術者試験】過去問解説　令和３年春　問２７",
+    "playlist": null,
+    "playlistTitle": ""
+  },
+  {
+    "id": "G23jVcoicNY",
+    "title": "【応用情報技術者試験】過去問解説　令和３年春　問２６",
+    "playlist": null,
+    "playlistTitle": ""
+  },
+  {
+    "id": "mKugobrgYFg",
+    "title": "【応用情報技術者試験】過去問解説　令和３年春　問２５",
+    "playlist": null,
+    "playlistTitle": ""
+  },
+  {
+    "id": "HEqTcciVlBk",
+    "title": "【応用情報技術者試験】過去問解説　令和３年春　問２４",
+    "playlist": null,
+    "playlistTitle": ""
+  },
+  {
+    "id": "HNRbvksE7Ks",
+    "title": "【応用情報技術者試験】過去問解説　令和３年春　問２３",
+    "playlist": null,
+    "playlistTitle": ""
+  },
+  {
+    "id": "7e5o8kZrvtk",
+    "title": "【応用情報技術者試験】過去問解説　令和３年春　問２２",
+    "playlist": null,
+    "playlistTitle": ""
+  },
+  {
+    "id": "J8Cvekd-3Po",
+    "title": "【応用情報技術者試験】過去問解説　令和３年春　問２１",
+    "playlist": null,
+    "playlistTitle": ""
+  },
+  {
+    "id": "FOa2vz6fd5k",
+    "title": "【応用情報技術者試験】過去問解説　令和３年春　問２０",
+    "playlist": null,
+    "playlistTitle": ""
+  },
+  {
+    "id": "ErqwVKbJdB0",
+    "title": "【応用情報技術者試験】過去問解説　令和３年春　問１９",
+    "playlist": null,
+    "playlistTitle": ""
+  },
+  {
+    "id": "K_ifPXJDHhM",
+    "title": "【応用情報技術者試験】過去問解説　令和３年春　問１８",
+    "playlist": null,
+    "playlistTitle": ""
+  },
+  {
+    "id": "8ct9P0MGB2g",
+    "title": "【応用情報技術者試験】過去問解説　令和３年春　問１６",
+    "playlist": null,
+    "playlistTitle": ""
+  },
+  {
+    "id": "U0-mbnCz3dg",
+    "title": "【応用情報技術者試験】過去問解説　令和３年春　問１４",
+    "playlist": null,
+    "playlistTitle": ""
+  },
+  {
+    "id": "XyihHwwqlZA",
+    "title": "【応用情報技術者試験】過去問解説　令和３年春　問１３",
+    "playlist": null,
+    "playlistTitle": ""
+  },
+  {
+    "id": "vHROyoydR60",
+    "title": "【応用情報技術者試験】過去問解説　令和３年春　問１２",
+    "playlist": null,
+    "playlistTitle": ""
+  },
+  {
+    "id": "loVLmJ4J4Kk",
+    "title": "【応用情報技術者試験】過去問解説　令和３年春　問１１",
+    "playlist": null,
+    "playlistTitle": ""
+  },
+  {
+    "id": "7X_EtBlh2KI",
+    "title": "【応用情報技術者試験】過去問解説　令和３年春　問３",
+    "playlist": null,
+    "playlistTitle": ""
+  },
+  {
+    "id": "NujbmV5zH8g",
+    "title": "【応用情報技術者試験】過去問解説　令和３年春　問６",
+    "playlist": null,
+    "playlistTitle": ""
+  },
+  {
+    "id": "TWNYMaODr94",
+    "title": "【応用情報技術者試験】過去問解説　令和３年春　問５",
+    "playlist": null,
+    "playlistTitle": ""
+  },
+  {
+    "id": "Gk4dj3kP5oI",
+    "title": "【応用情報技術者試験】過去問解説　令和３年春　問４",
+    "playlist": null,
+    "playlistTitle": ""
+  },
+  {
+    "id": "s9__dFVZD3A",
+    "title": "【応用情報技術者試験】過去問解説　令和３年春　問１",
+    "playlist": null,
+    "playlistTitle": ""
+  },
+  {
+    "id": "PTZYwTjbTAU",
+    "title": "【応用情報技術者試験】過去問解説　令和３年春　問２",
+    "playlist": null,
+    "playlistTitle": ""
+  },
+  {
+    "id": "B6JKqzCdNB0",
+    "title": "情報セキュリティの勉強に役立つ短編映画 #情報処理技術者試験 #情報処理安全確保支援士 #ランサムウェア #応用情報技術者",
+    "playlist": null,
+    "playlistTitle": ""
+  },
+  {
+    "id": "FJlfSujAelw",
+    "title": "情報処理技術者試験をテーマにした短編映画 データマネジメント試験を誰よりも早く学ぼう #情報処理技術者試験 #データマネジメント #DMBOK #応用情報技術者試験",
+    "playlist": null,
+    "playlistTitle": ""
+  },
+  {
+    "id": "LSSSuUERRC0",
+    "title": "情報処理技術者試験をテーマにした短編映画 データマネジメント試験を誰よりも早く学ぼう #情報処理技術者試験 #データマネジメント #DMBOK #応用情報技術者試験",
+    "playlist": null,
+    "playlistTitle": ""
+  },
+  {
+    "id": "Lbf_Y5NOl2E",
+    "title": "アサヒビールを狙ったランサムウェア集団Qilinの手口とは？ #情報処理技術者試験 #情報処理安全確保支援士 #応用情報技術者試験 #基本情報技術者試験",
+    "playlist": null,
+    "playlistTitle": ""
+  },
+  {
+    "id": "nDG9ghZZlUg",
+    "title": "アサヒビールを狙ったランサムウェア集団Qilinの手口とは？ #情報処理技術者試験 #情報処理安全確保支援士 #応用情報技術者試験 #基本情報技術者試験",
+    "playlist": null,
+    "playlistTitle": ""
+  },
+  {
+    "id": "3BC4Gvu4t_E",
+    "title": "アサヒビールを狙ったランサムウェア集団Qilinの手口とは？ #情報処理技術者試験 #情報処理安全確保支援士 #応用情報技術者試験 #基本情報技術者試験",
+    "playlist": null,
+    "playlistTitle": ""
+  },
+  {
+    "id": "Un2Xm7fHf4w",
+    "title": "アサヒビールを狙ったランサムウェア集団Qilinの手口とは？ #情報処理技術者試験 #情報処理安全確保支援士 #応用情報技術者試験 #基本情報技術者試験",
+    "playlist": null,
+    "playlistTitle": ""
+  },
+  {
+    "id": "7CoPEh5CMnQ",
+    "title": "【令和７年秋期 応用情報技術者試験　午後問９】のプロジェクトマネジメントを、実写で再現 #情報処理技術者試験 #基本情報技術者試験  #応用情報技術者試験 #令和７年秋",
+    "playlist": null,
+    "playlistTitle": ""
+  },
+  {
+    "id": "eo9RZbaKEjI",
+    "title": "【令和７年秋期 応用情報技術者試験　午後問９】のプロジェクトマネジメントを、実写で再現 #情報処理技術者試験 #基本情報技術者試験  #応用情報技術者試験 #令和７年秋",
+    "playlist": null,
+    "playlistTitle": ""
+  },
+  {
+    "id": "YwatsMpDbcE",
+    "title": "【令和７年秋期 応用情報技術者試験　午後問９】のプロジェクトマネジメントを、実写で再現 #情報処理技術者試験 #基本情報技術者試験  #応用情報技術者試験 #令和７年秋",
+    "playlist": null,
+    "playlistTitle": ""
+  },
+  {
+    "id": "27Td7w3cmVI",
+    "title": "【令和７年秋期 応用情報技術者試験　午後問９】のプロジェクトマネジメントを実写化 #情報処理技術者試験 #基本情報技術者試験  #応用情報技術者試験",
+    "playlist": null,
+    "playlistTitle": ""
+  },
+  {
+    "id": "grVN0fzVH3g",
+    "title": "【令和７年秋期 応用情報技術者試験　午後問９】のプロジェクトマネジメントを、実写で再現 #情報処理技術者試験 #基本情報技術者試験  #itパスポート試験  #応用情報技術者試験 #shorts",
+    "playlist": null,
+    "playlistTitle": ""
+  },
+  {
+    "id": "psmzCevgSws",
+    "title": "【令和７年秋期 応用情報技術者試験　午後問９】のプロジェクトマネジメントを、実写で再現 #情報処理技術者試験 #基本情報技術者試験  #itパスポート試験  #応用情報技術者試験 #shorts",
+    "playlist": null,
+    "playlistTitle": ""
+  },
+  {
+    "id": "3DwOZtKQhRo",
+    "title": "【情報処理技術者試験をテーマにした短編映画　第３弾】DNSレスポンスを擬人化した短編映画でネットワークを学習しよう！ #情報処理技術者試験 #ネットワークスペシャリスト #応用情報技術者試験",
+    "playlist": null,
+    "playlistTitle": ""
+  },
+  {
+    "id": "hQOHY6tP1i8",
+    "title": "【情報処理技術者試験をテーマにした短編映画　第３弾】DNSレスポンスを擬人化した短編映画でネットワークを学習しよう！ #情報処理技術者試験 #ネットワークスペシャリスト #応用情報技術者試験",
+    "playlist": null,
+    "playlistTitle": ""
+  },
+  {
+    "id": "jfAntAtiSyA",
+    "title": "【応用情報技術者試験をテーマにした短編映画　第２段】　令和７年秋の午後 問１などが学べる #情報処理技術者試験 #応用情報技術者試験 #二進数 #十進数 #SIEM",
+    "playlist": null,
+    "playlistTitle": ""
+  },
+  {
+    "id": "poU-4PhNsGk",
+    "title": "【情報処理技術者試験をテーマにした短編映画　第３弾】DNSレスポンスを擬人化した短編映画でネットワークを学習しよう！ #情報処理技術者試験 #ネットワークスペシャリスト #応用情報技術者試験",
+    "playlist": null,
+    "playlistTitle": ""
+  },
+  {
+    "id": "QUT9o6Tq-hE",
+    "title": "【応用情報技術者試験をテーマにした短編映画　第２段】　令和７年秋の午後 問１などが学べる #情報処理技術者試験 #応用情報技術者試験 #二進数 #十進数 #SIEM",
+    "playlist": null,
+    "playlistTitle": ""
+  },
+  {
+    "id": "ARYOem8nBbs",
+    "title": "【応用情報技術者試験をテーマにした短編映画　第２段】　令和７年秋の午後 問１などが学べる #情報処理技術者試験 #応用情報技術者試験 #二進数 #十進数 #SIEM",
+    "playlist": null,
+    "playlistTitle": ""
+  },
+  {
+    "id": "XpUanFnmYR0",
+    "title": "【情報処理技術者試験をテーマにした短編映画　第３弾】DNSレスポンスを擬人化した短編映画でネットワークを学習しよう！ #情報処理技術者試験 #ネットワークスペシャリスト #応用情報技術者試験",
+    "playlist": null,
+    "playlistTitle": ""
+  },
+  {
+    "id": "E0qWCFDME0w",
+    "title": "【情報処理技術者試験をテーマにした短編映画　第３弾】DNSやネットワークの基礎について深く学ぼう！ #情報処理技術者試験 #ネットワークスペシャリスト #応用情報技術者試験",
+    "playlist": null,
+    "playlistTitle": ""
+  },
+  {
+    "id": "_M6bPFaTpKg",
+    "title": "【情報処理技術者試験をテーマにした短編映画　第３弾】DNSやネットワークの基礎について深く学ぼう！ #情報処理技術者試験 #ネットワークスペシャリスト #応用情報技術者試験",
+    "playlist": null,
+    "playlistTitle": ""
+  },
+  {
+    "id": "IY_WRgHefV8",
+    "title": "【情報処理技術者試験をテーマにした短編映画　第３弾】DNSやネットワークの基礎について深く学ぼう！ #情報処理技術者試験 #ネットワークスペシャリスト #応用情報技術者試験",
+    "playlist": null,
+    "playlistTitle": ""
+  },
+  {
+    "id": "G8LQNoLEuqM",
+    "title": "【情報処理技術者試験をテーマにした短編映画　第３弾】２月初旬に公開！ #情報処理技術者試験 #応用情報技術者試験 #DNS #ネットワークスペシャリスト #ITパスポート試験",
+    "playlist": null,
+    "playlistTitle": ""
+  },
+  {
+    "id": "CJFNmLr7FZA",
+    "title": "【応用情報技術者試験をテーマにした短編映画　第２弾】本日１２月２９日（月）の１７時に公開 #情報処理技術者試験 #応用情報技術者試験 #二進数 #十進数 #git",
+    "playlist": null,
+    "playlistTitle": ""
+  },
+  {
+    "id": "IS5xBWd46iU",
+    "title": "【応用情報技術者試験をテーマにした短編映画　第２弾】１２月２９日（月）の夕方公開 #情報処理技術者試験 #応用情報技術者試験 #二進数 #十進数 #git",
+    "playlist": null,
+    "playlistTitle": ""
+  },
+  {
+    "id": "lgNLcunIThw",
+    "title": "【応用情報技術者試験をテーマにした短編映画　第２弾】令和７年秋の午後 問１や２進数についても学べる #情報処理技術者試験 #応用情報技術者試験 #二進数 #十進数 #git",
+    "playlist": null,
+    "playlistTitle": ""
+  },
+  {
+    "id": "hfWpoSIQhJ0",
+    "title": "【応用情報技術者試験をテーマにした短編映画　第２弾】令和７年秋の午後 問１やgitコメントについて学べる #情報処理技術者試験 #応用情報技術者試験 #二進数 #十進数 #SIEM",
+    "playlist": null,
+    "playlistTitle": ""
+  },
+  {
+    "id": "K4noiNMnHX4",
+    "title": "【応用情報技術者試験をテーマにした短編映画　第２段】　令和７年秋の午後 問１などが学べる #情報処理技術者試験 #応用情報技術者試験 #二進数 #十進数 #SIEM",
+    "playlist": null,
+    "playlistTitle": ""
+  },
+  {
+    "id": "d5qRGJoiRwg",
+    "title": "【令和７年秋　応用情報技術者試験】午前　問１５　ジョブスケジューリング",
+    "playlist": null,
+    "playlistTitle": ""
+  },
+  {
+    "id": "fMYYwd4ogS4",
+    "title": "【令和７年秋　応用情報技術者試験】午前　問１４　キャパシティプランニング",
+    "playlist": null,
+    "playlistTitle": ""
+  },
+  {
+    "id": "MVVYMdZ9eUs",
+    "title": "【令和７年秋　応用情報技術者試験】午前　問１３　稼働率計算",
+    "playlist": null,
+    "playlistTitle": ""
+  },
+  {
+    "id": "SD7mM7_v5kw",
+    "title": "【令和７年秋　応用情報技術者試験】午前　問１２　IaC",
+    "playlist": null,
+    "playlistTitle": ""
+  },
+  {
+    "id": "C-OLC4nXT98",
+    "title": "【令和７年秋　応用情報技術者試験】午前　問１１　HPCの性能計算",
+    "playlist": null,
+    "playlistTitle": ""
+  },
+  {
+    "id": "N92JReiWmBU",
+    "title": "【令和７年秋　応用情報技術者試験】午前　問１０　パルス",
+    "playlist": null,
+    "playlistTitle": ""
+  },
+  {
+    "id": "gqXdfx4NJdE",
+    "title": "【令和７年秋　応用情報技術者試験】午前　問９　ユニファイドメモリ",
+    "playlist": null,
+    "playlistTitle": ""
+  },
+  {
+    "id": "VRp2rDajAvE",
+    "title": "【令和７年秋　応用情報技術者試験】午前　問８　RISC　CISC　VLIW",
+    "playlist": null,
+    "playlistTitle": ""
+  },
+  {
+    "id": "P7LgkDUma0M",
+    "title": "【令和７年秋　応用情報技術者試験】午前　問７　Scala",
+    "playlist": null,
+    "playlistTitle": ""
+  },
+  {
+    "id": "NnHj7rl3utU",
+    "title": "【令和７年秋　応用情報技術者試験】午前　問６　平均探索回数",
+    "playlist": null,
+    "playlistTitle": ""
+  },
+  {
+    "id": "JD0vDiQv6Nw",
+    "title": "【令和７年秋　応用情報技術者試験】午前　問５　ベストフィット方式",
+    "playlist": null,
+    "playlistTitle": ""
+  },
+  {
+    "id": "bp-f-9C_drg",
+    "title": "【令和７年秋　応用情報技術者試験】午前　問４　CRC　巡回符号方式",
+    "playlist": null,
+    "playlistTitle": ""
+  },
+  {
+    "id": "tHDedxqLo7g",
+    "title": "【令和７年秋　応用情報技術者試験】午前　問３",
+    "playlist": null,
+    "playlistTitle": ""
+  },
+  {
+    "id": "HbQ6-4d4Bn4",
+    "title": "【令和７年秋　応用情報技術者試験】午前　問２",
+    "playlist": null,
+    "playlistTitle": ""
+  },
+  {
+    "id": "aqSErcK5CPE",
+    "title": "【令和７年秋　応用情報技術者試験】午前　問１",
+    "playlist": null,
+    "playlistTitle": ""
+  },
+  {
+    "id": "m65TxKu2Nuk",
+    "title": "【令和７年秋期 応用情報技術者試験　午後問９】のプロジェクトマネジメントを、実写で再現 #情報処理技術者試験 #基本情報技術者試験  #itパスポート試験  #応用情報技術者試験 #shorts",
+    "playlist": null,
+    "playlistTitle": ""
+  },
+  {
+    "id": "Gqi7qO_0q24",
+    "title": "【令和７年秋期　応用情報技術者試験　午後　問９】の「プロジェクトマネジメント」を、実写で再現してみた。 #情報処理技術者試験 #応用情報技術者試験 #プロジェクトマネジメント #shorts",
+    "playlist": null,
+    "playlistTitle": ""
+  },
+  {
+    "id": "4fsSoiJcIXw",
+    "title": "【令和７年秋期　応用情報技術者試験】問９のプロジェクトマネジメントを、実写で再現してみた。 #情報処理技術者試験 #応用情報技術者試験 #プロジェクトマネジメント",
+    "playlist": null,
+    "playlistTitle": ""
+  },
+  {
+    "id": "gEimECp4_q8",
+    "title": "【令和７年秋 】応用情報技術者　解答速報（午前と午後をそれぞれピックアップ）",
+    "playlist": null,
+    "playlistTitle": ""
+  },
+  {
+    "id": "QdtNdl-a-Xk",
+    "title": "【令和６年秋 】応用情報技術者　午前の解答速報＆（少し午後）",
+    "playlist": null,
+    "playlistTitle": ""
+  },
+  {
+    "id": "THVKj37Hegw",
+    "title": "【令和６年春 】応用情報技術者　午前の解答速報＆（少し午後）",
+    "playlist": null,
+    "playlistTitle": ""
+  },
+  {
+    "id": "BmMCfRMAODI",
+    "title": "【令和５年秋 】応用情報技術者　午前の解答速報",
+    "playlist": null,
+    "playlistTitle": ""
+  },
+  {
+    "id": "Ao0hIdesjWE",
+    "title": "【令和５年 春】応用情報技術者試験　解答速報",
+    "playlist": null,
+    "playlistTitle": ""
+  }
+]

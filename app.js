@@ -35,12 +35,12 @@ function render(exam, updateUrl = true) {
       const td = element('td');
       const video = row[exam][n];
       if (video) {
-        const a = element('a', undefined, video.grouped ? 'grouped' : '');
+        const a = element('a');
         a.href = video.url;
         a.setAttribute('aria-label', `${row.label} ${label} 問${n}：${video.title}${video.grouped ? '（まとめ動画）' : ''}`);
         a.title = `${video.title}${video.grouped ? '（まとめ動画）' : ''}`;
         const icon = element('span', '▶'); icon.setAttribute('aria-hidden', 'true'); a.append(icon); td.append(a);
-      } else { const empty = element('span', '—', 'empty'); empty.setAttribute('aria-label', '対応動画なし'); td.append(empty); }
+      } else { const empty = element('span', '未確認', 'empty'); empty.setAttribute('aria-label', '動画URL未確認'); td.append(empty); }
       tr.append(td);
     }
     body.append(tr);
@@ -61,7 +61,7 @@ tabs.forEach((tab, index) => {
   });
 });
 function requestedExam() { return new URLSearchParams(location.search).get('exam') === 'afternoon' ? 'afternoon' : 'morning'; }
-fetch('data.json').then(response => { if (!response.ok) throw new Error('データを取得できませんでした'); return response.json(); }).then(json => {
+fetch('data.json?v=2').then(response => { if (!response.ok) throw new Error('データを取得できませんでした'); return response.json(); }).then(json => {
   data = json; render(requestedExam(), false);
   document.querySelector('#updated').textContent = data.updated;
   for (const playlist of data.otherPlaylists) { const a = element('a', `${playlist.title} ↗`); a.href = playlist.url; document.querySelector('#other-links').append(a); }
