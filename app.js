@@ -4,6 +4,10 @@ const table = document.querySelector('#questions');
 let data;
 function element(tag, text, className) {
   const el = document.createElement(tag);
+  if (tag === 'a') {
+    el.target = '_blank';
+    el.rel = 'noopener noreferrer';
+  }
   if (text !== undefined) el.textContent = text;
   if (className) el.className = className;
   return el;
